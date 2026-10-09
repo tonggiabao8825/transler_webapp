@@ -1,0 +1,134 @@
+.document-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.document-row {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  padding: 17px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+.document-cell {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  flex: 1;
+}
+.document-cell > div {
+  min-width: 0;
+}
+.document-cell strong {
+  display: block;
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+.document-cell small {
+  display: block;
+  color: #93a0b4;
+  font-size: 10px;
+  margin-top: 6px;
+}
+.row-actions {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+}
+.document-versions {
+  flex-basis: 100%;
+  background: #f9fbff;
+  border: 1px solid #edf1f8;
+  border-radius: 8px;
+  padding: 4px 12px;
+}
+.version-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 53px;
+  padding: 8px 0;
+  border-bottom: 1px solid #edf1f8;
+}
+.version-row:last-child {
+  border: 0;
+}
+.version-kind {
+  font-size: 9px;
+  padding: 4px 7px;
+  border-radius: 5px;
+  min-width: 66px;
+  text-align: center;
+  font-weight: 600;
+}
+.version-kind.raw {
+  background: #edf1f7;
+  color: #7c8ba5;
+}
+.version-kind.processed {
+  background: #e6f7f0;
+  color: #12a578;
+}
+.version-description {
+  font-size: 11px;
+  flex: 1;
+  text-align: left;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  padding: 0;
+}
+.version-description small {
+  display: block;
+  font-size: 9px;
+  color: #95a2b7;
+  margin-top: 4px;
+}
+.history-job {
+  flex-basis: 100%;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  font-size: 11px;
+  padding: 8px;
+  border-radius: 5px;
+}
+.history-job:hover {
+  background: #f2f6ff;
+}
+.history-job small {
+  margin-left: auto;
+  color: #9aa6b9;
+}
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  padding: 4px 7px;
+  border-radius: 5px;
+  background: #f0f3fa;
+  color: #7b8ba6;
+}
+.status-completed {
+  color: #0aaa78;
+  background: #e5f8ef;
+}
+.status-processing,
+.status-retrying,
+.status-queued {
+  color: #477ff5;
+  background: #edf3ff;
+}
+.status-failed {
+  color: #df6173;
+  background: #fff0f2;
+}
+.status-cancelled,
+.status-cancelling {
+  color: #b48a55;
+  background: #fff4e7;
+}

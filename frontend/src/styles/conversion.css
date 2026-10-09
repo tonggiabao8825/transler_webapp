@@ -1,0 +1,247 @@
+.conversion-screen {
+  min-width: 0;
+}
+.conversion-screen .conversion-layout {
+  grid-template-columns: minmax(0, 0.85fr) 44px minmax(0, 1.4fr);
+  align-items: start;
+  gap: 26px;
+  padding: 30px;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px #20365c04;
+}
+.workspace-eyebrow {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 1.2px;
+  font-weight: 700;
+  color: #8b9bb5;
+  margin-bottom: 12px;
+}
+.conversion-screen h2 {
+  font-size: 21px;
+  letter-spacing: -0.6px;
+}
+.conversion-source-panel > p,
+.conversion-output-panel > p {
+  font-size: 12px;
+  margin-top: 8px;
+  line-height: 1.7;
+}
+.conversion-source-panel,
+.conversion-output-panel {
+  min-width: 0;
+}
+.conversion-screen .conversion-layout label:not(.button) {
+  font-size: 12px;
+  color: #52617b;
+  font-weight: 500;
+  gap: 9px;
+  margin: 22px 0 14px;
+}
+.conversion-screen select {
+  width: 100%;
+  min-width: 0;
+  min-height: 48px;
+  padding: 12px;
+  border-radius: 12px;
+  background: #fff;
+  border: 1px solid #e1e7f0;
+  color: var(--navy);
+  font-weight: 400;
+}
+.conversion-screen .conversion-upload {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 46px;
+  cursor: pointer;
+  color: var(--blue);
+  background: #f5f8ff;
+  border-color: #dae5ff;
+}
+.conversion-upload:has(input:focus-visible) {
+  outline: 3px solid #9bb6ff;
+  outline-offset: 3px;
+}
+.conversion-screen .document-summary,
+.conversion-empty {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 210px;
+  padding: 24px 16px;
+  margin-top: 22px;
+  border: 1px dashed #dbe4f3;
+  border-radius: 18px;
+  background: #f8faff;
+  text-align: center;
+  gap: 12px;
+}
+.conversion-screen .document-summary svg,
+.conversion-empty svg {
+  color: #7394e6;
+}
+.conversion-screen .document-summary strong,
+.conversion-empty strong {
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+.conversion-screen .document-summary p,
+.conversion-empty p {
+  font-size: 11px;
+  margin: 0;
+}
+.conversion-direction {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  margin-top: 200px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  color: #7d90b0;
+}
+.conversion-screen .conversion-options {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 24px;
+}
+.conversion-screen .conversion-option {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  text-align: left;
+  position: relative;
+  min-height: 82px;
+  padding: 15px 13px;
+  border: 1px solid #e5ebf4;
+  border-radius: 14px;
+  background: #fff;
+}
+.conversion-screen .conversion-option:hover {
+  background: #f8faff;
+  border-color: #bacdff;
+}
+.conversion-screen .conversion-option.selected {
+  background: #f5f8ff;
+  border-color: #9bb8ff;
+  box-shadow: 0 0 0 1px #c8d7ff;
+}
+.conversion-option strong {
+  display: block;
+  font-size: 12px;
+}
+.conversion-option small {
+  display: block;
+  font-size: 10px;
+  color: #8290a7;
+  margin-top: 5px;
+}
+.conversion-format-icon {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 39px;
+  height: 43px;
+  border-radius: 10px;
+  font-size: 9px;
+  font-weight: 700;
+}
+.conversion-format-icon.blue {
+  color: #3271e4;
+  background: #eaf1ff;
+}
+.conversion-format-icon.red {
+  color: #ec5363;
+  background: #fff0f2;
+}
+.conversion-format-icon.orange {
+  color: #d78026;
+  background: #fff3e7;
+}
+.conversion-format-icon.green {
+  color: #189e74;
+  background: #e8f8f0;
+}
+.conversion-format-icon.purple {
+  color: #9664db;
+  background: #f4edff;
+}
+.conversion-format-icon.gray {
+  color: #758198;
+  background: #f0f3f8;
+}
+.conversion-selected-check {
+  color: var(--blue);
+  position: absolute;
+  right: 9px;
+  top: 9px;
+}
+.conversion-screen .conversion-format-note {
+  font-size: 11px;
+  margin: 20px 0;
+}
+.conversion-submit {
+  width: 100%;
+  min-height: 48px;
+  border-radius: 12px;
+}
+.conversion-privacy {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  margin: 22px 0;
+}
+@media (max-width: 1000px) {
+  .conversion-screen .conversion-layout {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 24px;
+  }
+  .conversion-direction {
+    display: none;
+  }
+  .conversion-output-panel {
+    border-top: 1px solid var(--border);
+    padding-top: 26px;
+  }
+}
+@media (max-width: 580px) {
+  .conversion-screen .conversion-layout {
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .conversion-screen select {
+    font-size: 16px;
+  }
+  .conversion-screen .conversion-option {
+    padding: 13px 10px;
+    gap: 8px;
+  }
+  .conversion-option strong {
+    font-size: 11px;
+  }
+  .conversion-format-icon {
+    width: 32px;
+    height: 38px;
+  }
+  .conversion-privacy {
+    align-items: flex-start;
+    line-height: 1.7;
+  }
+}
+
+.conversion-file-input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+.conversion-upload:has(input:disabled) {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

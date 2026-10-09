@@ -1,0 +1,446 @@
+[
+  {
+    "name": "brand/logo_wordmark",
+    "file": "brand/logo_wordmark.png",
+    "bounds": [
+      38,
+      58,
+      500,
+      173
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "brand/app_icon_light",
+    "file": "brand/app_icon_light.png",
+    "bounds": [
+      553,
+      56,
+      759,
+      281
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "brand/app_icon_dark",
+    "file": "brand/app_icon_dark.png",
+    "bounds": [
+      914,
+      65,
+      1015,
+      166
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "brand/logo_symbol",
+    "file": "brand/logo_symbol.png",
+    "bounds": [
+      51,
+      61,
+      172,
+      166
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "mascot/mascot_primary",
+    "file": "mascot/mascot_primary.png",
+    "bounds": [
+      1060,
+      9,
+      1373,
+      262
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "mascot/mascot_happy",
+    "file": "mascot/mascot_happy.png",
+    "bounds": [
+      1064,
+      271,
+      1144,
+      356
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "mascot/mascot_thinking",
+    "file": "mascot/mascot_thinking.png",
+    "bounds": [
+      1175,
+      268,
+      1263,
+      358
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "mascot/mascot_working",
+    "file": "mascot/mascot_working.png",
+    "bounds": [
+      1300,
+      267,
+      1393,
+      359
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "mascot/mascot_success",
+    "file": "mascot/mascot_success.png",
+    "bounds": [
+      1423,
+      265,
+      1529,
+      356
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/translate_pdf",
+    "file": "features/translate_pdf.png",
+    "bounds": [
+      37,
+      425,
+      103,
+      493
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/edit_pdf",
+    "file": "features/edit_pdf.png",
+    "bounds": [
+      134,
+      424,
+      202,
+      494
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/convert",
+    "file": "features/convert.png",
+    "bounds": [
+      231,
+      425,
+      298,
+      492
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/translate_docs",
+    "file": "features/translate_docs.png",
+    "bounds": [
+      328,
+      424,
+      393,
+      493
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/ocr",
+    "file": "features/ocr.png",
+    "bounds": [
+      424,
+      424,
+      494,
+      493
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/word",
+    "file": "features/word.png",
+    "bounds": [
+      37,
+      541,
+      105,
+      611
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/powerpoint",
+    "file": "features/powerpoint.png",
+    "bounds": [
+      133,
+      541,
+      202,
+      610
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/excel",
+    "file": "features/excel.png",
+    "bounds": [
+      230,
+      541,
+      299,
+      610
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/images",
+    "file": "features/images.png",
+    "bounds": [
+      327,
+      541,
+      396,
+      610
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "features/text_markdown",
+    "file": "features/text_markdown.png",
+    "bounds": [
+      424,
+      541,
+      495,
+      611
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "illustrations/document_translation",
+    "file": "illustrations/document_translation.png",
+    "bounds": [
+      551,
+      422,
+      783,
+      663
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "illustrations/language_globe",
+    "file": "illustrations/language_globe.png",
+    "bounds": [
+      783,
+      413,
+      1030,
+      668
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "backgrounds/blue_waves",
+    "file": "backgrounds/blue_waves.png",
+    "bounds": [
+      1062,
+      412,
+      1523,
+      544
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "backgrounds/glass_panels",
+    "file": "backgrounds/glass_panels.png",
+    "bounds": [
+      1062,
+      554,
+      1274,
+      687
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "backgrounds/blue_orbit",
+    "file": "backgrounds/blue_orbit.png",
+    "bounds": [
+      1284,
+      555,
+      1523,
+      686
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "illustrations/hero",
+    "file": "illustrations/hero.png",
+    "bounds": [
+      12,
+      764,
+      598,
+      1017
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/pdf",
+    "file": "documents/pdf.png",
+    "bounds": [
+      629,
+      757,
+      716,
+      889
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/docx",
+    "file": "documents/docx.png",
+    "bounds": [
+      733,
+      757,
+      815,
+      889
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/pptx",
+    "file": "documents/pptx.png",
+    "bounds": [
+      837,
+      757,
+      920,
+      889
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/xlsx",
+    "file": "documents/xlsx.png",
+    "bounds": [
+      942,
+      757,
+      1024,
+      889
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/txt",
+    "file": "documents/txt.png",
+    "bounds": [
+      629,
+      889,
+      716,
+      1008
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/markdown",
+    "file": "documents/markdown.png",
+    "bounds": [
+      733,
+      889,
+      815,
+      1008
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/html",
+    "file": "documents/html.png",
+    "bounds": [
+      837,
+      889,
+      920,
+      1008
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "documents/image",
+    "file": "documents/image.png",
+    "bounds": [
+      942,
+      889,
+      1024,
+      1008
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "components/upload",
+    "file": "components/upload.png",
+    "bounds": [
+      1069,
+      749,
+      1271,
+      867
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "components/progress",
+    "file": "components/progress.png",
+    "bounds": [
+      1068,
+      886,
+      1311,
+      975
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "components/translation",
+    "file": "components/translation.png",
+    "bounds": [
+      1330,
+      878,
+      1438,
+      980
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  },
+  {
+    "name": "components/success",
+    "file": "components/success.png",
+    "bounds": [
+      1452,
+      890,
+      1518,
+      964
+    ],
+    "format": "PNG",
+    "background": "from original artwork"
+  }
+]

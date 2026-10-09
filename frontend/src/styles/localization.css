@@ -1,0 +1,56 @@
+.topbar .search-box {
+  flex-shrink: 1;
+  min-width: 100px;
+}
+.language-picker {
+  max-width: 100%;
+}
+.language-picker select {
+  text-overflow: ellipsis;
+}
+.sidebar .nav-item {
+  min-height: 44px;
+  height: auto;
+}
+.sidebar .nav-item > span {
+  overflow-wrap: anywhere;
+}
+.home-plan strong {
+  text-transform: capitalize;
+}
+.home-plan .account-error {
+  padding: 12px;
+  font-size: 11px;
+}
+@media (max-width: 900px) {
+  .topbar .search-box {
+    width: auto;
+    flex: 1;
+  }
+}
+@media (max-width: 760px) {
+  .topbar {
+    height: auto;
+    min-height: 64px;
+    padding: 12px 13px;
+    gap: 10px;
+  }
+  .topbar .search-box {
+    min-width: 110px;
+    max-width: none;
+  }
+  .topbar .language-picker {
+    order: 4;
+    margin-left: auto;
+  }
+  .landing-nav {
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .landing-nav > div {
+    gap: 8px;
+  }
+}
+.plan-code {
+  text-transform: capitalize;
+}

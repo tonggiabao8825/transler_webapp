@@ -1,0 +1,79 @@
+.editor-page-surface {
+  position: relative;
+  width: 100%;
+  max-width: 850px;
+  margin: auto;
+}
+.editor-selection-surface {
+  position: absolute;
+  inset: 0;
+  touch-action: none;
+  cursor: crosshair;
+}
+.editor-text-block {
+  position: absolute;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 0;
+  padding: 0;
+}
+.editor-text-block:hover,
+.editor-text-block:focus-visible {
+  border-color: var(--blue);
+  background: #376bff12;
+}
+.editor-selected-region {
+  position: absolute;
+  border: 2px solid #376bff;
+  background: #376bff18;
+  pointer-events: none;
+}
+.editor-properties label {
+  display: grid;
+  gap: 6px;
+  margin: 12px 0;
+}
+.editor-properties textarea {
+  min-height: 120px;
+}
+.conversion-layout {
+  display: grid;
+  grid-template-columns: 1fr 32px 1fr;
+  gap: 24px;
+  padding: 28px;
+  align-items: start;
+}
+.conversion-layout label {
+  display: grid;
+  gap: 8px;
+  margin: 12px 0;
+}
+.conversion-options {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.conversion-option {
+  padding: 18px;
+  border: 1px solid #e1e6f0;
+  border-radius: 10px;
+  background: white;
+}
+.conversion-option.selected {
+  border-color: #376bff;
+  background: #edf3ff;
+}
+@media (max-width: 800px) {
+  .conversion-layout {
+    grid-template-columns: 1fr;
+  }
+  .conversion-layout > svg {
+    display: none;
+  }
+  .editor-grid {
+    grid-template-columns: 80px 1fr;
+  }
+  .editor-properties {
+    grid-column: 1 / -1;
+  }
+}

@@ -1,0 +1,142 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: transler
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-transler}
+      POSTGRES_DB: transler
+    ports: ["127.0.0.1:5432:5432"]
+    volumes: ["postgres-data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U transler"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  redis:
+    image: redis:7.4-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    ports: ["127.0.0.1:6379:6379"]
+    volumes: ["redis-data:/data"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  storage:
+    image: chrislusf/seaweedfs:4.48
+    command: mini -dir=/data
+    environment:
+      AWS_ACCESS_KEY_ID: ${TRANSLER_S3_ACCESS_KEY:-transler}
+      AWS_SECRET_ACCESS_KEY: ${TRANSLER_S3_SECRET_KEY:-transler-local-secret}
+    ports: ["127.0.0.1:9000:8333"]
+    volumes: ["object-data:/data"]
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://localhost:9333/cluster/status"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  migrate:
+    build: { context: ., dockerfile: backend/Dockerfile, target: api }
+    env_file: .env
+    environment: &backend-environment
+      TRANSLER_DATABASE_URL: postgresql+psycopg://transler:${POSTGRES_PASSWORD:-transler}@postgres:5432/transler
+      TRANSLER_REDIS_URL: redis://redis:6379/0
+      TRANSLER_S3_ENDPOINT: http://storage:8333
+    command: ["sh", "-c", "alembic upgrade head && python -m transler.bootstrap"]
+    depends_on:
+      postgres: { condition: service_healthy }
+      storage: { condition: service_healthy }
+  processor:
+    build: { context: ., dockerfile: backend/Dockerfile, target: api }
+    env_file: .env
+    environment: *backend-environment
+    command: ["uvicorn", "transler.processor:app", "--host", "0.0.0.0", "--port", "8001", "--workers", "2", "--no-proxy-headers"]
+    ports: ["127.0.0.1:8001:8001"]
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=128M"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+    mem_limit: 2g
+    cpus: 1
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8001/health/live')"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  api:
+    build: { context: ., dockerfile: api/Dockerfile }
+    env_file: .env
+    environment:
+      <<: *backend-environment
+      TRANSLER_PROCESSOR_URL: http://processor:8001
+      TRANSLER_API_PORT: 8000
+    ports: ["127.0.0.1:8000:8000"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      redis: { condition: service_healthy }
+      processor: { condition: service_healthy }
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=64M"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:8000/health/ready').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  worker:
+    build: { context: ., dockerfile: backend/Dockerfile, target: worker }
+    env_file: .env
+    environment: *backend-environment
+    command: ["celery", "-A", "transler.worker:celery", "worker", "--loglevel=INFO", "--concurrency=2", "-Q", "pdf"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      redis: { condition: service_healthy }
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=512M"]
+    volumes: ["engine-cache:/home/transler/.cache", "engine-config:/home/transler/.config"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+    mem_limit: 4g
+    cpus: 2
+  maintenance:
+    build: { context: ., dockerfile: backend/Dockerfile, target: api }
+    env_file: .env
+    environment: *backend-environment
+    command: ["celery", "-A", "transler.worker:celery", "worker", "--loglevel=INFO", "--concurrency=1", "-Q", "celery"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      redis: { condition: service_healthy }
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=64M"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+  beat:
+    build: { context: ., dockerfile: backend/Dockerfile, target: api }
+    env_file: .env
+    environment: *backend-environment
+    command: ["celery", "-A", "transler.worker:celery", "beat", "--loglevel=INFO", "--schedule=/tmp/celerybeat-schedule"]
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      redis: { condition: service_healthy }
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=64M"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+  web:
+    build: { context: ., dockerfile: frontend/Dockerfile }
+    ports: ["127.0.0.1:8080:80"]
+    depends_on: [api]
+    restart: unless-stopped
+
+volumes:
+  postgres-data:
+  redis-data:
+  object-data:
+  engine-cache:
+  engine-config:

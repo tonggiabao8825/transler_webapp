@@ -1,0 +1,155 @@
+.select-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  min-width: 0;
+  min-height: 44px;
+  padding: 11px 14px;
+  border: 1px solid #dce3ee;
+  border-radius: 12px;
+  background: #fff;
+  color: #19243b;
+  font: inherit;
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    background 160ms ease;
+}
+.select-trigger:hover:not(:disabled) {
+  border-color: #aabbd6;
+  background: #fafcff;
+}
+.select-trigger:focus-visible,
+.select-trigger[data-state="open"] {
+  outline: none;
+  border-color: #507bff;
+  box-shadow: 0 0 0 3px #386bff1a;
+}
+.select-trigger:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.select-value {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.select-chevron {
+  display: flex;
+  flex-shrink: 0;
+  color: #7d8ba3;
+  transition: transform 160ms ease;
+}
+.select-trigger[data-state="open"] .select-chevron {
+  transform: rotate(180deg);
+}
+.select-menu {
+  z-index: 100;
+  width: var(--radix-select-trigger-width);
+  min-width: 180px;
+  max-width: calc(100vw - 24px);
+  max-height: min(360px, var(--radix-select-content-available-height));
+  overflow: hidden;
+  border: 1px solid #e0e6ef;
+  border-radius: 16px;
+  background: #fff;
+  color: #19243b;
+  box-shadow:
+    0 16px 48px #16294c24,
+    0 3px 10px #16294c0a;
+  animation: select-appear 140ms ease;
+}
+.select-viewport {
+  padding: 6px;
+}
+.select-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-size: 14px;
+  line-height: 1.45;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+}
+.select-option[data-state="checked"] {
+  background: #f1f5ff;
+  color: #285fea;
+}
+.select-option[data-highlighted] {
+  background: #eaf0ff;
+  color: #204dc1;
+}
+.select-option-copy {
+  flex: 1;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.select-option-copy small {
+  display: block;
+  margin-top: 3px;
+  color: #75839b;
+  font-size: 11px;
+  font-weight: 400;
+}
+.select-check {
+  display: flex;
+  flex-shrink: 0;
+  width: 16px;
+  color: #386bff;
+}
+.select-scroll {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 24px;
+  color: #75839b;
+}
+.language-picker .select-trigger {
+  width: auto;
+  min-width: 120px;
+  min-height: 36px;
+  padding: 6px 9px;
+  border: none;
+  background: transparent;
+  font-size: 12px;
+}
+.pdf-editor-formatbar .select-trigger {
+  min-height: 36px;
+  padding: 6px 10px;
+  font-size: 13px;
+}
+.pdf-editor-zoom-label .select-trigger {
+  width: 90px;
+}
+.pdf-editor-action-label .select-trigger {
+  width: 170px;
+}
+@keyframes select-appear {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .select-menu {
+    animation: none;
+  }
+  .select-trigger,
+  .select-chevron {
+    transition: none;
+  }
+}

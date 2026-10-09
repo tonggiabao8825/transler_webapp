@@ -1,0 +1,31 @@
+@import "./styles/base.css";
+@import "./styles/shell.css";
+@import "./styles/overview.css";
+@import "./styles/documents.css";
+@import "./styles/upload.css";
+@import "./styles/settings.css";
+@import "./styles/feedback.css";
+@import "./styles/jobs.css";
+@import "./styles/preview.css";
+@import "./styles/landing.css";
+@import "./styles/workspaces.css";
+@import "./styles/responsive.css";
+
+@import "./styles/accounts.css";
+
+@import "./styles/operations.css";
+
+@import "./styles/editor.css";
+
+@import "./styles/tools.css";
+
+@import "./styles/billing.css";
+
+@import "./styles/account-workspace.css";
+@import "./styles/conversion.css";
+
+@import "./styles/collections-admin.css";
+
+@import "./styles/localization.css";
+
+@import "./styles/select.css";
