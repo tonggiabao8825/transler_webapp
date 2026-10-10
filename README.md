@@ -31,7 +31,7 @@ For a hosted deployment, supply database/storage secrets, terminate HTTPS, set `
 
 ## Processing
 
-- PDF Basic uses PDFMathTranslate with the configured Basic provider. Advanced uses Groq, document context, domain, custom instructions and glossary. Configure `API_PROVIDER=groq`, `LLM_MODEL=openai/gpt-oss-20b`, `LLM_BASE_URL=https://api.groq.com/openai/v1` and `LLM_API_KEY` in `.env` before starting the worker.
+- PDF translation routes native pages through BabelDOC and scanned pages through PaddleOCR + OpenCV. Basic uses the configured service; Advanced uses Groq, document context, domain, custom instructions and glossary. Scan translation requires an explicit source language and supports white backgrounds, ordinary text and simple ruled tables; complex backgrounds, hybrid regions, low OCR confidence and text overflow produce review diagnostics. Configure `API_PROVIDER=groq`, `LLM_MODEL=openai/gpt-oss-20b`, `LLM_BASE_URL=https://api.groq.com/openai/v1` and `LLM_API_KEY` in `.env` before starting the worker.
 - PDF editing supports text replacement/addition/deletion, moving/resizing blocks, annotations, cropping, rotating/deleting/reordering pages and translating a selected region. Text-free regions use Tesseract OCR. Save creates an immutable revision; conflicting revisions are rejected.
 - PDF converts to DOCX, PPTX, XLSX, PNG/JPEG ZIP, HTML, TXT and Markdown. Office, images and text convert to PDF. PPTX exports page images; XLSX requires detectable tables. TXT/Markdown PDF extraction provides plain text. LibreOffice renders Office inputs inside the worker.
 - DOCX/PPTX/XLSX, UTF-8 TXT, Markdown and HTML translate through Groq while retaining native structures. Office formulas, Markdown code and link destinations, and HTML attributes remain unchanged. HTML rendering requires embedded resources and rejects external resource fetching.
@@ -80,6 +80,8 @@ make test-translation
 make test-browser
 ```
 
+`make check` also enforces module boundaries and rejects import cycles in all three projects; see [source boundaries](docs/architecture.md#source-boundaries).
+
 Integration tests use a separate `transler_test` database, Redis DB 15 and test bucket. Conversion/OCR matrix tests execute inside the running Docker worker for LibreOffice/Tesseract dependencies; keep the full stack running for these tests. Translation tests call actual configured providers. Browser tests use stable test IDs. `npm --prefix frontend run test:production` exercises the production Nginx deployment; its admin test uses the ignored `.runtime/admin-credentials.json` fixture for an existing administrator. Browser registration tests create real accounts in the target development deployment.
 
-PDFMathTranslate 1.9.11 requires the pinned PyMuPDF 1.25.2 and compatible Tencent SDK. Dependency resolutions are locked. PDFMathTranslate/PyMuPDF are AGPL dependencies. UI references are in `img/`; independent branding and illustration assets come from `transler_assets_v2`.
+The worker pins BabelDOC 0.6.4, PaddleOCR 3.3.2, PaddlePaddle 3.2.2, OpenCV 4.10.0.84 and PyMuPDF 1.26.7 in the lockfile. Native and scan engines share the translation gateway while retaining their own layout reconstruction. See [architecture](docs/architecture.md) for checkpoint and runtime boundaries. UI references are in `img/`; independent branding and illustration assets come from `transler_assets_v2`.

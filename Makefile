@@ -16,7 +16,7 @@ api:
 	npm --prefix api run dev
 
 processor:
-	uv --directory backend run uvicorn transler.processor:app --host 127.0.0.1 --port 8001 --reload
+	uv --directory backend run uvicorn transler.http.processor:app --host 127.0.0.1 --port 8001 --reload
 
 worker:
 	uv --directory backend run --env-file ../.env celery -A transler.worker:celery worker --loglevel=INFO --pool=solo --concurrency=1 -Q pdf,celery
@@ -29,10 +29,11 @@ web:
 	npm --prefix frontend run dev
 
 check:
+	uv --directory backend run python ../scripts/check_architecture.py
 	npm --prefix api run check
 	cd api && npx prettier --check src package.json tsconfig.json
-	uv --directory backend run ruff check src tests migrations
-	uv --directory backend run ruff format --check src tests migrations
+	uv --directory backend run ruff check src tests migrations ../scripts
+	uv --directory backend run ruff format --check src tests migrations ../scripts
 	uv --directory backend run mypy src/transler
 	npm --prefix frontend run check
 	cd frontend && npx prettier --check src tests vite.config.ts playwright.config.ts playwright.production.config.ts

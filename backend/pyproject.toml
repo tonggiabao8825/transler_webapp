@@ -13,7 +13,7 @@ dependencies = [
   "boto3>=1.37,<2",
   "httpx>=0.28,<1",
   "python-multipart>=0.0.20,<1",
-  "pymupdf==1.25.2",
+  "pymupdf==1.26.7",
   "tenacity>=9,<10",
   "structlog>=25,<26",
   "alembic>=1.15,<2",
@@ -24,11 +24,12 @@ dependencies = [
 
 [project.optional-dependencies]
 worker = [
-    "pdf2zh==1.9.11",
+    "babeldoc==0.6.4",
+    "paddleocr==3.3.2",
+    "paddlepaddle==3.2.2",
+    "opencv-python-headless==4.10.0.84",
     "onnxruntime>=1.20,<2",
     "numpy>=2,<3",
-    "pdfminer-six==20250416",
-    "tencentcloud-sdk-python-tmt==3.0.1394",
     "python-docx>=1.2,<2",
     "python-pptx>=1.0,<2",
     "openpyxl>=3.1,<4",
@@ -69,13 +70,13 @@ strict = true
 plugins = ["pydantic.mypy"]
 
 [[tool.mypy.overrides]]
-module = ["pymupdf", "pdf2zh.*", "celery.*", "onnxruntime", "weasyprint", "pdf2docx"]
+module = ["pymupdf", "babeldoc.*", "paddleocr.*", "celery.*", "onnxruntime", "weasyprint", "pdf2docx"]
 ignore_missing_imports = true
 
 [[tool.mypy.overrides]]
-module = ["transler.pdf_layout"]
+module = ["transler.processing.pdf.native_engine", "transler.processing.pdf.scan_engine"]
 disallow_untyped_calls = false
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-markers = ["integration: requires the Compose infrastructure", "translation: calls the real PDFMathTranslate engine and translation provider"]
+markers = ["integration: requires the Compose infrastructure", "translation: calls the real PDF engines and translation provider"]

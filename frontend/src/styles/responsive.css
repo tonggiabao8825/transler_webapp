@@ -467,28 +467,6 @@
     font-size: 8px;
     gap: 12px;
   }
-  .preview-modal {
-    width: 96vw;
-  }
-  .preview-modal > header {
-    padding: 14px;
-    gap: 12px;
-  }
-  .preview-modal > header .text-button {
-    font-size: 10px;
-  }
-  .preview-toolbar {
-    gap: 8px;
-    font-size: 10px;
-    padding: 8px;
-  }
-  .preview-surface {
-    padding: 12px;
-  }
-  .preview-modal > p {
-    font-size: 8px;
-    padding: 9px 12px;
-  }
   .editor-main {
     padding: 0;
   }

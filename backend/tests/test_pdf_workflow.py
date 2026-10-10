@@ -8,10 +8,11 @@ import pytest
 from conftest import ApiClient, make_pdf
 from sqlalchemy import select, update
 
-from transler.contracts import JobRecord, JobStatus
-from transler.db import jobs
-from transler.errors import EngineError, JobCancelledError
-from transler.worker import claim_job, heartbeat, record_failure
+from transler.core.contracts import JobRecord, JobStatus
+from transler.core.errors import EngineError, JobCancelledError
+from transler.infrastructure.db import jobs
+from transler.jobs.lifecycle import claim_job, heartbeat, record_failure
+from transler.jobs.service import perform_job
 
 pytestmark = pytest.mark.integration
 
@@ -48,7 +49,7 @@ def test_import_validation_ownership_and_delete(client: ApiClient, pdf: bytes) -
     assert response.json()["code"] == "PAGE_LIMIT_EXCEEDED"
 
 
-def test_encryption_scan_and_request_size_rejected(client: ApiClient, pdf: bytes) -> None:
+def test_encryption_size_rejected_and_blank_page_preserved(client: ApiClient, pdf: bytes) -> None:
     with pymupdf.open(stream=pdf, filetype="pdf") as document:
         encrypted = document.tobytes(
             encryption=pymupdf.PDF_ENCRYPT_AES_256, owner_pw="owner", user_pw="reader"
@@ -72,8 +73,14 @@ def test_encryption_scan_and_request_size_rejected(client: ApiClient, pdf: bytes
             "mode": "basic",
         },
     )
-    assert response.status_code == 422
-    assert response.json()["code"] == "OCR_REQUIRED"
+    assert response.status_code == 202, response.text
+    perform_job(client.settings, UUID(response.json()["id"]))
+    job = client.get(f"/v1/jobs/{response.json()['id']}").json()
+    assert job["status"] == "COMPLETED", job
+    output = client.get(f"/v1/artifacts/{job['artifact_id']}/download")
+    with pymupdf.open(stream=output.content, filetype="pdf") as result:
+        assert result.page_count == 1
+        assert not result[0].get_text()
     response = client.post(
         "/v1/documents", files={"file": ("huge.pdf", b"x" * (22 * 1024 * 1024), "application/pdf")}
     )

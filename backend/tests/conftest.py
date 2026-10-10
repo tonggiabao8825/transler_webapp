@@ -15,8 +15,8 @@ from sqlalchemy import text
 from sqlalchemy.engine import make_url
 
 from transler.bootstrap import provision_storage
-from transler.config import Settings
-from transler.db import connect_database
+from transler.core.config import Settings
+from transler.infrastructure.db import connect_database
 
 
 @pytest.fixture(scope="session")

@@ -32,10 +32,9 @@ test("upload, preview, translate via the real queue, download, and delete", asyn
   await page.getByTestId("preview-source").click();
   await expect(page.getByTestId("next-page")).toBeEnabled();
   await page.getByTestId("next-page").click();
-  await expect(page.getByTestId("pdf-canvas")).toHaveAttribute(
-    "aria-label",
-    "PDF page 2",
-  );
+  await expect(
+    page.getByTestId("preview-translated").getByTestId("pdf-canvas"),
+  ).toHaveAttribute("aria-label", "PDF page 2");
   await page.getByTestId("close-preview").click();
   await chooseOption(page, "target-language", "vi");
   await page.screenshot({
@@ -63,12 +62,58 @@ test("upload, preview, translate via the real queue, download, and delete", asyn
     fullPage: true,
   });
   await page.getByTestId("preview-result").click();
-  await expect(page.getByTestId("next-page")).toBeEnabled();
-  await page.screenshot({
-    path: "../.runtime/preview-desktop.png",
-    fullPage: true,
-  });
-  await page.getByTestId("close-preview").click();
+  await expect(page.getByTestId("preview-comparison")).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
+  for (const side of ["preview-original", "preview-translated"]) {
+    await expect(
+      page.getByTestId(side).locator(".pdf-page-slot"),
+    ).toHaveAttribute("aria-busy", "false");
+  }
+  await page.getByTestId("preview-thumbnail-2").click();
+  for (const side of ["preview-original", "preview-translated"]) {
+    await expect(
+      page.getByTestId(side).getByTestId("pdf-canvas"),
+    ).toHaveAttribute("aria-label", "PDF page 2");
+    await expect(
+      page.getByTestId(side).locator(".pdf-page-slot"),
+    ).toHaveAttribute("aria-busy", "false");
+  }
+  await page.getByTestId("preview-page-input").fill("1");
+  await page.getByTestId("preview-zoom-in").click();
+  await expect(page.getByTestId("preview-zoom")).toHaveText("125%");
+  await page.getByTestId("preview-fit").click();
+  await expect(page.getByTestId("preview-zoom")).toHaveText("100%");
+  await page.getByTestId("preview-translation-only").click();
+  await expect(page.getByTestId("preview-original")).toHaveCount(0);
+  await page.getByTestId("preview-comparison").click();
+  await expect(page.getByTestId("preview-original")).toBeVisible();
+  await expect(page.getByTestId("preview-download-original")).toHaveAttribute(
+    "href",
+    /\/download$/,
+  );
+  await page
+    .getByTestId("pdf-preview")
+    .screenshot({ path: "../.runtime/preview-desktop.png" });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.getByTestId("preview-pages-toggle").click();
+  await expect(page.getByTestId("preview-pages")).toHaveCount(0);
+  expect(
+    await page
+      .getByTestId("pdf-preview")
+      .evaluate((element) => element.scrollWidth <= window.innerWidth),
+  ).toBe(true);
+  await page
+    .getByTestId("pdf-preview")
+    .screenshot({ path: "../.runtime/preview-mobile.png" });
+  await page.getByTestId("preview-pages-toggle").click();
+  await page.getByTestId("preview-thumbnail-2").click();
+  await expect(page.getByTestId("preview-pages")).toHaveCount(0);
+  await page.keyboard.press("Escape");
+  await expect(page.getByTestId("pdf-preview")).toHaveCount(0);
+  await expect(page.getByTestId("preview-result")).toBeFocused();
+  await page.setViewportSize({ width: 1280, height: 900 });
   await expect(page.getByTestId("edit-result")).toBeVisible();
   await expect(page.getByTestId("crop-result")).toBeVisible();
   await expect(page.getByTestId("delete-result")).toBeVisible();

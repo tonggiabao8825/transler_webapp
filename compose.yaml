@@ -50,7 +50,7 @@ services:
     build: { context: ., dockerfile: backend/Dockerfile, target: api }
     env_file: .env
     environment: *backend-environment
-    command: ["uvicorn", "transler.processor:app", "--host", "0.0.0.0", "--port", "8001", "--workers", "2", "--no-proxy-headers"]
+    command: ["uvicorn", "transler.http.processor:app", "--host", "0.0.0.0", "--port", "8001", "--workers", "2", "--no-proxy-headers"]
     ports: ["127.0.0.1:8001:8001"]
     restart: unless-stopped
     read_only: true
@@ -90,7 +90,7 @@ services:
     build: { context: ., dockerfile: backend/Dockerfile, target: worker }
     env_file: .env
     environment: *backend-environment
-    command: ["celery", "-A", "transler.worker:celery", "worker", "--loglevel=INFO", "--concurrency=2", "-Q", "pdf"]
+    command: ["celery", "-A", "transler.worker:celery", "worker", "--loglevel=INFO", "--concurrency=1", "-Q", "pdf"]
     depends_on:
       migrate: { condition: service_completed_successfully }
       redis: { condition: service_healthy }

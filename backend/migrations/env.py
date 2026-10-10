@@ -4,8 +4,8 @@ from logging.config import fileConfig
 
 from alembic import context
 
-from transler.config import Settings
-from transler.db import connect_database, metadata
+from transler.core.config import Settings
+from transler.infrastructure.db import connect_database, metadata
 
 fileConfig(context.config.config_file_name)
 

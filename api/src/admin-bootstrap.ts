@@ -1,9 +1,14 @@
 import { randomBytes, randomUUID } from "node:crypto";
 import { parseArgs } from "node:util";
-import { readConfig } from "./config.js";
-import { accountView, registration } from "./contracts.js";
-import { audit, database, rows, transaction } from "./database.js";
-import { registerAccount, tokenHash } from "./modules/identity.js";
+import {
+  audit,
+  database,
+  rows,
+  transaction,
+} from "./infrastructure/database.js";
+import { registerAccount, tokenHash } from "./modules/identity/identity.js";
+import { readConfig } from "./shared/config.js";
+import { accountView, registration } from "./shared/contracts.js";
 const { values } = parseArgs({
   options: { email: { type: "string" }, name: { type: "string" } },
   allowPositionals: false,

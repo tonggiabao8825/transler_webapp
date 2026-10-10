@@ -1,14 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import { LanguageProvider } from "./i18n";
-import { ToolAvailability } from "./ToolAvailability";
-import { App } from "./App";
 import "@fontsource/dm-sans/400.css";
 import "@fontsource/dm-sans/500.css";
 import "@fontsource/dm-sans/600.css";
 import "@fontsource/manrope/600.css";
 import "@fontsource/manrope/700.css";
 import "@fontsource/manrope/800.css";
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { App } from "./app/App";
+import { ToolAvailability } from "./features/tools/ToolAvailability";
+import { LanguageProvider } from "./shared/i18n/i18n";
 import "./style.css";
 
 const root = document.getElementById("root");

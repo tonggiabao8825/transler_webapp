@@ -1,5 +1,5 @@
-import { readConfig } from "./config.js";
-import { createApp } from "./server.js";
+import { createApp } from "./app/server.js";
+import { readConfig } from "./shared/config.js";
 const config = readConfig();
 const app = await createApp(config);
 for (const signal of ["SIGINT", "SIGTERM"] as const)

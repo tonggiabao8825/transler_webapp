@@ -1,13 +1,17 @@
-"""Real PDFMathTranslate/provider integration; no mocked translation output."""
+"""Real native-PDF/provider integration; no mocked translation output."""
 
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+from queue import SimpleQueue
 from uuid import UUID, uuid4
 
+import httpx
 import pymupdf
 import pytest
 from conftest import ApiClient
 from test_accounts import register
 
-from transler.worker import perform_job
+from transler.jobs.service import perform_job
 
 pytestmark = [pytest.mark.integration, pytest.mark.translation]
 
@@ -46,12 +50,13 @@ def test_real_translation_preserves_source_and_exports_pdf(client: ApiClient, pd
         assert output.page_count == 1
         assert "ngôn ngữ" in text.lower() or "dịch" in text.lower(), text
         assert "Document translation helps people" not in text
+        assert "\x03" not in text
     assert client.delete(f"/v1/documents/{document['id']}").status_code == 204
     assert client.get("/v1/account").json()["usage"]["pages_used"] == 1
 
 
 def test_bing_translates_long_segments_without_losing_tail_or_formulas() -> None:
-    from transler.bing import BingTranslation, split_segments
+    from transler.processing.translation.bing import BingTranslation, split_segments
 
     text = (
         "Document translation helps people understand scientific research across languages. " * 18
@@ -68,3 +73,48 @@ def test_bing_translates_long_segments_without_losing_tail_or_formulas() -> None
     assert "987654321" in result
     assert "{v17}" in result
     assert "nghiên cứu" in result.lower()
+
+
+def test_concurrent_translation_cache_shares_results_and_service_errors(
+    client: ApiClient, tmp_path: Path
+) -> None:
+    from transler.processing.translation.bing import BingTranslation
+    from transler.processing.translation.translation_cache import TranslationCache
+
+    cache = TranslationCache({}, tmp_path / "translations.json")
+    requests: SimpleQueue[str] = SimpleQueue()
+    connector = BingTranslation("en", "vi")
+    text = "Scientific research helps people understand results. Measurement 987654321 {v17}."
+
+    def translate() -> str:
+        requests.put("translation")
+        return connector.translate(text)
+
+    try:
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            results = tuple(pool.map(lambda _: cache.translate("research", translate), range(8)))
+    finally:
+        connector.close()
+    assert requests.qsize() == 1
+    assert len(set(results)) == 1
+    assert "987654321" in results[0] and "{v17}" in results[0]
+    assert "nghiên cứu" in results[0].lower()
+    assert cache.pending == {}
+    assert (tmp_path / "translations.json").is_file()
+
+    def missing_artifact() -> str:
+        requests.put("missing")
+        response = client.get(f"/v1/artifacts/{UUID(int=0)}/preview")
+        response.raise_for_status()
+        return response.text
+
+    def fail_request(index: int) -> int:
+        with pytest.raises(httpx.HTTPStatusError) as failure:
+            cache.translate("missing", missing_artifact)
+        return failure.value.response.status_code
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        statuses = tuple(pool.map(fail_request, range(8)))
+    assert statuses == (404,) * 8
+    assert requests.qsize() == 2
+    assert "missing" not in cache.values

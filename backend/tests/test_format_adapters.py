@@ -13,11 +13,11 @@ def verify_worker_adapters() -> None:
     from pptx import Presentation
     from pptx.util import Inches
 
-    from transler.config import LLMConfig
-    from transler.conversion import convert
-    from transler.editing import edit_pdf
-    from transler.ocr import searchable_pdf
-    from transler.processing_contracts import EditOptions
+    from transler.core.config import LLMConfig
+    from transler.processing.ocr.ocr import searchable_pdf
+    from transler.processing.operations.conversion import convert
+    from transler.processing.operations.editing import edit_pdf
+    from transler.processing.processing_contracts import EditOptions
 
     with pymupdf.open() as pdf:
         page = pdf.new_page(width=500, height=500)
@@ -90,7 +90,7 @@ def verify_worker_adapters() -> None:
                     "page": 0,
                     "rect": [45, 25, 400, 75],
                     "destination": None,
-                    "text": "Updated result 30",
+                    "text": "Kết quả nghiên cứu đã cập nhật 30",
                     "font_size": 16,
                     "angle": None,
                     "order": None,
@@ -102,7 +102,8 @@ def verify_worker_adapters() -> None:
     )
     edited = edit_pdf(source, options, LLMConfig())
     with pymupdf.open(stream=edited, filetype="pdf") as pdf:
-        assert "Updated result 30" in pdf[0].get_text()
+        assert "Kết quả nghiên cứu đã cập nhật 30" in pdf[0].get_text()
+        assert any("Noto Sans" in font[3] for font in pdf[0].get_fonts())
         assert "Research result" not in pdf[0].get_text()
         pdf[0].get_pixmap(dpi=160).save("/tmp/transler-edit-verified.png")
     print("OCR and text replacement validated")

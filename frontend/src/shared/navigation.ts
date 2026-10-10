@@ -1,0 +1,17 @@
+export type Screen =
+  | "notfound"
+  | "auth"
+  | "account"
+  | "admin"
+  | "landing"
+  | "home"
+  | "translate"
+  | "settings"
+  | "job"
+  | "library"
+  | "editor"
+  | "convert"
+  | "tools"
+  | "favorites"
+  | "shared"
+  | "trash";

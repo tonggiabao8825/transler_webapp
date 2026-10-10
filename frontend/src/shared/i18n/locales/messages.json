@@ -1,0 +1,5314 @@
+{
+  "% vs 12 monthly purchases": {
+    "en": "% vs 12 monthly purchases",
+    "vi": "% so với 12 lần mua hàng hàng tháng",
+    "zh": "% 与 12 次每月购买相比",
+    "ja": "% と 12回/月購入",
+    "ko": "% vs 12개월 구매",
+    "ru": "% против 12 ежемесячных покупок"
+  },
+  "(UTC)": {
+    "en": "(UTC)",
+    "vi": "(UTC)",
+    "zh": "(UTC)",
+    "ja": "(UTC)",
+    "ko": "(UTC)",
+    "ru": "(UTC)"
+  },
+  ").pdf": {
+    "en": ").pdf",
+    "vi": ").pdf",
+    "zh": ").pdf",
+    "ja": ").pdf",
+    "ko": ").pdf",
+    "ru": ").pdf"
+  },
+  "+ Add term": {
+    "en": "+ Add term",
+    "vi": "+ Thêm điều khoản",
+    "zh": "+ 添加条款",
+    "ja": "+ 用語を追加",
+    "ko": "+ 용어 추가",
+    "ru": "+ Добавить термин"
+  },
+  ". Your plan updates after payment verification.": {
+    "en": ". Your plan updates after payment verification.",
+    "vi": ". Gói của bạn sẽ được cập nhật sau khi xác minh thanh toán.",
+    "zh": ". 付款验证后，您的套餐将更新。",
+    "ja": ". 支払い確認後にプランが更新されます。",
+    "ko": ". 결제 확인 후 귀하의 플랜이 업데이트됩니다.",
+    "ru": ". Ваш план обновится после проверки платежа."
+  },
+  "01 · SOURCE DOCUMENT": {
+    "en": "01 · SOURCE DOCUMENT",
+    "vi": "01 · TÀI LIỆU GỐC",
+    "zh": "01 · 源文件",
+    "ja": "01 · ソースドキュメント",
+    "ko": "01 · 소스 문서",
+    "ru": "01 · ИСТОЧНИК ДОКУМЕНТА"
+  },
+  "02 · OUTPUT FORMAT": {
+    "en": "02 · OUTPUT FORMAT",
+    "vi": "02 · ĐỊNH DẠNG ĐẦU RA",
+    "zh": "02 · 输出格式",
+    "ja": "02 · 出力形式",
+    "ko": "02 · 출력 형식",
+    "ru": "02 · ФОРМАТ ВЫВОДА"
+  },
+  "100 cents = 1 USD. Empty means unavailable.": {
+    "en": "100 cents = 1 USD. Empty means unavailable.",
+    "vi": "100 cent = 1 USD. Trống có nghĩa là không có sẵn.",
+    "zh": "100分 = 1美元。空值表示不可用。",
+    "ja": "100セント = 1USD。空の場合は利用不可。",
+    "ko": "100센트 = 1USD. 비어 있으면 사용 불가",
+    "ru": "100 центов = 1 USD. Пустое означает недоступно."
+  },
+  "A free place to start.": {
+    "en": "A free place to start.",
+    "vi": "Một nơi miễn phí để bắt đầu.",
+    "zh": "一个免费起点。",
+    "ja": "無料で始める場所。",
+    "ko": "시작하기 위한 무료 공간",
+    "ru": "Бесплатное место для начала."
+  },
+  "A new format. The same possibilities.": {
+    "en": "A new format. The same possibilities.",
+    "vi": "Một định dạng mới. Cùng những khả năng.",
+    "zh": "一种新格式。相同的可能性。",
+    "ja": "新しいフォーマット。同じ可能性。",
+    "ko": "새로운 형식. 같은 가능성.",
+    "ru": "Новый формат. Те же возможности."
+  },
+  "A paper, a report, a whole new possibility.": {
+    "en": "A paper, a report, a whole new possibility.",
+    "vi": "Một tài liệu, một báo cáo, một khả năng hoàn toàn mới.",
+    "zh": "一份文件，一份报告，一个全新的可能性。",
+    "ja": "ペーパー、レポート、全く新しい可能性。",
+    "ko": "논문, 보고서, 완전히 새로운 가능성.",
+    "ru": "Документ, отчет, полностью новая возможность."
+  },
+  "AI": {
+    "en": "AI",
+    "vi": "AI",
+    "zh": "AI",
+    "ja": "AI",
+    "ko": "AI",
+    "ru": "AI"
+  },
+  "AI-Powered Document Translation": {
+    "en": "AI-Powered Document Translation",
+    "vi": "Dịch tài liệu dựa trên AI",
+    "zh": "AI驱动的文档翻译",
+    "ja": "AI搭載のドキュメント翻訳",
+    "ko": "AI 기반 문서 번역",
+    "ru": "Перевод документов на базе ИИ"
+  },
+  "API documentation ↗": {
+    "en": "API documentation ↗",
+    "vi": "Tài liệu API ↗",
+    "zh": "API 文档 ↗",
+    "ja": "API ドキュメント ↗",
+    "ko": "API 문서 ↗",
+    "ru": "Документация API ↗"
+  },
+  "Access": {
+    "en": "Access",
+    "vi": "Truy cập",
+    "zh": "访问",
+    "ja": "アクセス",
+    "ko": "접근",
+    "ru": "Доступ"
+  },
+  "Account": {
+    "en": "Account",
+    "vi": "Tài khoản",
+    "zh": "账户",
+    "ja": "アカウント",
+    "ko": "계정",
+    "ru": "Аккаунт"
+  },
+  "Account active": {
+    "en": "Account active",
+    "vi": "Tài khoản đang hoạt động",
+    "zh": "账户已激活",
+    "ja": "アカウントがアクティブ",
+    "ko": "계정 활성화",
+    "ru": "Аккаунт активен"
+  },
+  "Account holder": {
+    "en": "Account holder",
+    "vi": "Chủ tài khoản",
+    "zh": "账户持有人",
+    "ja": "アカウント保有者",
+    "ko": "계정 보유자",
+    "ru": "Владелец аккаунта"
+  },
+  "Account security": {
+    "en": "Account security",
+    "vi": "Bảo mật tài khoản",
+    "zh": "账户安全",
+    "ja": "アカウントセキュリティ",
+    "ko": "계정 보안",
+    "ru": "Безопасность аккаунта"
+  },
+  "Accounts": {
+    "en": "Accounts",
+    "vi": "Các tài khoản",
+    "zh": "账户",
+    "ja": "アカウント",
+    "ko": "계정",
+    "ru": "Аккаунты"
+  },
+  "Accounts, plans, payments and platform activity.": {
+    "en": "Accounts, plans, payments and platform activity.",
+    "vi": "Tài khoản, gói, thanh toán và hoạt động nền tảng.",
+    "zh": "账户、套餐、付款和平台活动。",
+    "ja": "アカウント、プラン、支払い、プラットフォームの活動。",
+    "ko": "계정, 플랜, 결제 및 플랫폼 활동.",
+    "ru": "Учетные записи, планы, платежи и активность платформы."
+  },
+  "Accurate. Beautiful. Effortless.": {
+    "en": "Accurate. Beautiful. Effortless.",
+    "vi": "Chính xác. Đẹp. Không khó khăn.",
+    "zh": "准确。美观。轻松。",
+    "ja": "正確。美しい。楽々。",
+    "ko": "정확합니다. 아름답습니다. 수월합니다.",
+    "ru": "Точный. Красивый. Без усилий."
+  },
+  "Action": {
+    "en": "Action",
+    "vi": "Hành động",
+    "zh": "操作",
+    "ja": "アクション",
+    "ko": "작업",
+    "ru": "Действие"
+  },
+  "Active": {
+    "en": "Active",
+    "vi": "Hoạt động",
+    "zh": "活跃",
+    "ja": "アクティブ",
+    "ko": "활성",
+    "ru": "Активный"
+  },
+  "Active accounts": {
+    "en": "Active accounts",
+    "vi": "Tài khoản hoạt động",
+    "zh": "活跃账户",
+    "ja": "アクティブアカウント",
+    "ko": "활성 계정",
+    "ru": "Активные аккаунты"
+  },
+  "Active jobs": {
+    "en": "Active jobs",
+    "vi": "Công việc đang hoạt động",
+    "zh": "活跃工作",
+    "ja": "アクティブジョブ",
+    "ko": "활성 작업",
+    "ru": "Активные задания"
+  },
+  "Active link": {
+    "en": "Active link",
+    "vi": "Liên kết hoạt động",
+    "zh": "活跃链接",
+    "ja": "アクティブリンク",
+    "ko": "활성 링크",
+    "ru": "Активная ссылка"
+  },
+  "Active until": {
+    "en": "Active until",
+    "vi": "Hoạt động đến",
+    "zh": "有效期至",
+    "ja": "有効期限",
+    "ko": "활성 기간",
+    "ru": "Активен до"
+  },
+  "Actor": {
+    "en": "Actor",
+    "vi": "Diễn viên",
+    "zh": "演员",
+    "ja": "アクター",
+    "ko": "배우",
+    "ru": "Актёр"
+  },
+  "Add PDFs in library order": {
+    "en": "Add PDFs in library order",
+    "vi": "Thêm PDF theo thứ tự thư viện",
+    "zh": "按库顺序添加 PDF",
+    "ja": "ライブラリ順にPDFを追加",
+    "ko": "라이브러리 순서대로 PDF 추가",
+    "ru": "Добавить PDF в порядке библиотеки"
+  },
+  "Add change": {
+    "en": "Add change",
+    "vi": "Thêm thay đổi",
+    "zh": "添加更改",
+    "ja": "変更を追加",
+    "ko": "변경 사항 추가",
+    "ru": "Добавить изменение"
+  },
+  "Add password protection": {
+    "en": "Add password protection",
+    "vi": "Thêm bảo vệ bằng mật khẩu",
+    "zh": "添加密码保护",
+    "ja": "パスワード保護を追加",
+    "ko": "비밀번호 보호 추가",
+    "ru": "Добавить защиту паролем"
+  },
+  "Add text": {
+    "en": "Add text",
+    "vi": "Thêm văn bản",
+    "zh": "添加文本",
+    "ja": "テキストを追加",
+    "ko": "텍스트 추가",
+    "ru": "Добавить текст"
+  },
+  "Add your document": {
+    "en": "Add your document",
+    "vi": "Thêm tài liệu của bạn",
+    "zh": "添加您的文档",
+    "ja": "ドキュメントを追加",
+    "ko": "문서 추가",
+    "ru": "Добавьте свой документ"
+  },
+  "Administration": {
+    "en": "Administration",
+    "vi": "Quản trị",
+    "zh": "管理",
+    "ja": "管理",
+    "ko": "관리",
+    "ru": "Администрирование"
+  },
+  "Administrator": {
+    "en": "Administrator",
+    "vi": "Quản trị viên",
+    "zh": "管理员",
+    "ja": "管理者",
+    "ko": "관리자",
+    "ru": "Администратор"
+  },
+  "Administrator access required": {
+    "en": "Administrator access required",
+    "vi": "Cần quyền truy cập quản trị viên",
+    "zh": "需要管理员访问权限",
+    "ja": "管理者アクセスが必要です",
+    "ko": "관리자 접근 권한 필요",
+    "ru": "Требуется доступ администратора"
+  },
+  "Advanced (AI)": {
+    "en": "Advanced (AI)",
+    "vi": "Nâng cao (AI)",
+    "zh": "高级（AI）",
+    "ja": "高度（AI）",
+    "ko": "고급 (AI)",
+    "ru": "Продвинутый (AI)"
+  },
+  "Advanced translation · Groq": {
+    "en": "Advanced translation · Groq",
+    "vi": "Dịch nâng cao · Groq",
+    "zh": "高级翻译 · Groq",
+    "ja": "高度な翻訳 · Groq",
+    "ko": "고급 번역 · Groq",
+    "ru": "Продвинутая перевод · Groq"
+  },
+  "All Tools": {
+    "en": "All Tools",
+    "vi": "Tất cả công cụ",
+    "zh": "所有工具",
+    "ja": "すべてのツール",
+    "ko": "모든 도구",
+    "ru": "Все инструменты"
+  },
+  "Amount": {
+    "en": "Amount",
+    "vi": "Số lượng",
+    "zh": "金额",
+    "ja": "金額",
+    "ko": "금액",
+    "ru": "Сумма"
+  },
+  "An administrator must configure this cycle's price.": {
+    "en": "An administrator must configure this cycle's price.",
+    "vi": "Quản trị viên phải cấu hình giá cho chu kỳ này.",
+    "zh": "管理员必须配置此周期的价格。",
+    "ja": "管理者はこのサイクルの価格を設定する必要があります。",
+    "ko": "관리자는 이 주기의 가격을 설정해야 합니다.",
+    "ru": "Администратор должен настроить цену этого цикла."
+  },
+  "Anyone with a share link can download that version until it expires or you revoke it.": {
+    "en": "Anyone with a share link can download that version until it expires or you revoke it.",
+    "vi": "Bất kỳ ai có liên kết chia sẻ đều có thể tải xuống phiên bản đó cho đến khi hết hạn hoặc bạn thu hồi.",
+    "zh": "任何拥有共享链接的人都可以在链接过期或您撤销之前下载该版本。",
+    "ja": "共有リンクを持っている人は、リンクが期限切れになるか、あなたが取り消すまでそのバージョンをダウンロードできます。",
+    "ko": "공유 링크를 가진 누구나 링크가 만료되거나 귀하가 취소할 때까지 해당 버전을 다운로드할 수 있습니다.",
+    "ru": "Любой, у кого есть ссылка для совместного доступа, может скачать эту версию до истечения срока действия ссылки или до того, как вы её аннулируете."
+  },
+  "Anyone with this link can download this version for 24 hours. Revoke it from Shared.": {
+    "en": "Anyone with this link can download this version for 24 hours. Revoke it from Shared.",
+    "vi": "Bất kỳ ai có liên kết này đều có thể tải xuống phiên bản này trong vòng 24 giờ. Thu hồi từ Chia sẻ.",
+    "zh": "任何拥有此链接的人都可以在24小时内下载此版本。请从共享中撤销。",
+    "ja": "このリンクを持っている人は24時間以内にこのバージョンをダウンロードできます。共有から取り消してください。",
+    "ko": "이 링크를 가진 누구나 24시간 동안 이 버전을 다운로드할 수 있습니다. 공유에서 취소하세요.",
+    "ru": "Любой, у кого есть эта ссылка, может скачать эту версию в течение 24 часов. Отмените её в разделе Общий доступ."
+  },
+  "Authentication": {
+    "en": "Authentication",
+    "vi": "Xác thực",
+    "zh": "身份验证",
+    "ja": "認証",
+    "ko": "인증",
+    "ru": "Аутентификация"
+  },
+  "Auto detect": {
+    "en": "Auto detect",
+    "vi": "Phát hiện tự động",
+    "zh": "自动检测",
+    "ja": "自動検出",
+    "ko": "자동 감지",
+    "ru": "Автообнаружение"
+  },
+  "Automatic": {
+    "en": "Automatic",
+    "vi": "Tự động",
+    "zh": "自动",
+    "ja": "自動",
+    "ko": "자동",
+    "ru": "Автоматический"
+  },
+  "Available for 7 days": {
+    "en": "Available for 7 days",
+    "vi": "Có sẵn trong 7 ngày",
+    "zh": "可用7天",
+    "ja": "7日間利用可能",
+    "ko": "7일 동안 사용 가능",
+    "ru": "Доступно 7 дней"
+  },
+  "Back to My Documents": {
+    "en": "Back to My Documents",
+    "vi": "Quay lại Tài liệu của tôi",
+    "zh": "返回我的文档",
+    "ja": "マイドキュメントへ戻る",
+    "ko": "내 문서로 돌아가기",
+    "ru": "Вернуться к моим документам"
+  },
+  "Back to plans": {
+    "en": "Back to plans",
+    "vi": "Quay lại chọn gói",
+    "zh": "返回套餐",
+    "ja": "プランに戻る",
+    "ko": "요금제로 돌아가기",
+    "ru": "Назад к тарифам"
+  },
+  "Back to upload": {
+    "en": "Back to upload",
+    "vi": "Quay lại tải lên",
+    "zh": "返回上传",
+    "ja": "アップロードへ戻る",
+    "ko": "업로드로 돌아가기",
+    "ru": "Вернуться к загрузке"
+  },
+  "Back to workspace": {
+    "en": "Back to workspace",
+    "vi": "Quay lại không gian làm việc",
+    "zh": "返回工作区",
+    "ja": "ワークスペースへ戻る",
+    "ko": "작업 공간으로 돌아가기",
+    "ru": "Вернуться к рабочему пространству"
+  },
+  "Bank": {
+    "en": "Bank",
+    "vi": "Ngân hàng",
+    "zh": "银行",
+    "ja": "銀行",
+    "ko": "은행",
+    "ru": "Банк"
+  },
+  "Bank code": {
+    "en": "Bank code",
+    "vi": "Mã ngân hàng",
+    "zh": "银行代码",
+    "ja": "銀行コード",
+    "ko": "은행 코드",
+    "ru": "Код банка"
+  },
+  "Bank transfer": {
+    "en": "Bank transfer",
+    "vi": "Chuyển khoản ngân hàng",
+    "zh": "银行转账",
+    "ja": "銀行振込",
+    "ko": "은행 송금",
+    "ru": "Банковский перевод"
+  },
+  "Bank transfer QR code": {
+    "en": "Bank transfer QR code",
+    "vi": "Mã QR chuyển khoản",
+    "zh": "银行转账二维码",
+    "ja": "銀行振込用QRコード",
+    "ko": "계좌 이체 QR 코드",
+    "ru": "QR-код для банковского перевода"
+  },
+  "Bank transfer in VND, or Stripe checkout in USD.": {
+    "en": "Bank transfer in VND, or Stripe checkout in USD.",
+    "vi": "Chuyển khoản ngân hàng bằng VND, hoặc thanh toán Stripe bằng USD.",
+    "zh": "以越南盾进行银行转账，或以美元进行Stripe结算。",
+    "ja": "VNDでの銀行振込、またはUSDでのStripeチェックアウト。",
+    "ko": "VND로 은행 송금, 또는 USD로 Stripe 결제.",
+    "ru": "Банковский перевод в VND или оплата через Stripe в USD."
+  },
+  "Basic": {
+    "en": "Basic",
+    "vi": "Cơ bản",
+    "zh": "基本",
+    "ja": "基本",
+    "ko": "기본",
+    "ru": "Базовый"
+  },
+  "Basic translation": {
+    "en": "Basic translation",
+    "vi": "Dịch thuật cơ bản",
+    "zh": "基本翻译",
+    "ja": "基本翻訳",
+    "ko": "기본 번역",
+    "ru": "Базовый перевод"
+  },
+  "Basic translation included": {
+    "en": "Basic translation included",
+    "vi": "Dịch thuật cơ bản đã bao gồm",
+    "zh": "已包含基本翻译",
+    "ja": "基本翻訳が含まれています",
+    "ko": "기본 번역이 포함됩니다",
+    "ru": "Базовый перевод включен"
+  },
+  "Basic translation requires selectable text. For scanned pages, run OCR from All Tools first.": {
+    "en": "Basic translation requires selectable text. For scanned pages, run OCR from All Tools first.",
+    "vi": "Dịch thuật cơ bản yêu cầu văn bản có thể chọn. Đối với trang quét, hãy chạy OCR từ Tất cả công cụ trước.",
+    "zh": "基本翻译需要可选择文本。对于扫描页面，请先从全部工具运行 OCR。",
+    "ja": "基本翻訳には選択可能なテキストが必要です。スキャンされたページの場合は、まずAll ToolsからOCRを実行してください。",
+    "ko": "기본 번역은 선택 가능한 텍스트가 필요합니다. 스캔 페이지의 경우 먼저 All Tools에서 OCR을 실행하세요.",
+    "ru": "Базовый перевод требует выделяемого текста. Для отсканированных страниц сначала запустите OCR из All Tools."
+  },
+  "Better context understanding, higher accuracy": {
+    "en": "Better context understanding, higher accuracy",
+    "vi": "Hiểu ngữ cảnh tốt hơn, độ chính xác cao hơn",
+    "zh": "更好的上下文理解，更高的准确性",
+    "ja": "より良い文脈理解と高い精度",
+    "ko": "더 나은 문맥 이해, 높은 정확도",
+    "ru": "Лучшее понимание контекста, более высокая точность"
+  },
+  "Bilingual comparison": {
+    "en": "Bilingual comparison",
+    "vi": "Đối chiếu song ngữ",
+    "zh": "双语对照",
+    "ja": "対訳表示",
+    "ko": "원문·번역 비교",
+    "ru": "Двуязычное сравнение"
+  },
+  "Billing cycle": {
+    "en": "Billing cycle",
+    "vi": "Chu kỳ thanh toán",
+    "zh": "计费周期",
+    "ja": "請求サイクル",
+    "ko": "청구 주기",
+    "ru": "Период выставления счетов"
+  },
+  "Blog": {
+    "en": "Blog",
+    "vi": "Blog",
+    "zh": "博客",
+    "ja": "ブログ",
+    "ko": "블로그",
+    "ru": "Блог"
+  },
+  "Cancel": {
+    "en": "Cancel",
+    "vi": "Hủy",
+    "zh": "取消",
+    "ja": "キャンセル",
+    "ko": "취소",
+    "ru": "Отмена"
+  },
+  "Cancel payment": {
+    "en": "Cancel payment",
+    "vi": "Huỷ thanh toán",
+    "zh": "取消付款",
+    "ja": "支払いをキャンセル",
+    "ko": "결제 취소",
+    "ru": "Отменить оплату"
+  },
+  "Cancel translation": {
+    "en": "Cancel translation",
+    "vi": "Hủy dịch",
+    "zh": "取消翻译",
+    "ja": "翻訳をキャンセル",
+    "ko": "번역 취소",
+    "ru": "Отменить перевод"
+  },
+  "Cancelling…": {
+    "en": "Cancelling…",
+    "vi": "Đang huỷ…",
+    "zh": "正在取消…",
+    "ja": "キャンセル中…",
+    "ko": "취소 중…",
+    "ru": "Отмена…"
+  },
+  "Card": {
+    "en": "Card",
+    "vi": "Thẻ",
+    "zh": "卡片",
+    "ja": "カード",
+    "ko": "카드",
+    "ru": "Карта"
+  },
+  "Change password": {
+    "en": "Change password",
+    "vi": "Đổi mật khẩu",
+    "zh": "更改密码",
+    "ja": "パスワードを変更",
+    "ko": "비밀번호 변경",
+    "ru": "Изменить пароль"
+  },
+  "Changes apply in order when you save. A new revision is created; the input file remains available.": {
+    "en": "Changes apply in order when you save. A new revision is created; the input file remains available.",
+    "vi": "Các thay đổi được áp dụng theo thứ tự khi bạn lưu. Phiên bản mới được tạo; tệp đầu vào vẫn còn sẵn.",
+    "zh": "更改按顺序在保存时生效。创建新版本；输入文件仍可用。",
+    "ja": "変更は保存時に順序通りに適用されます。新しいリビジョンが作成され、入力ファイルは引き続き利用可能です。",
+    "ko": "변경 사항은 저장 시 순서대로 적용됩니다. 새 리비전이 생성되며 입력 파일은 계속 사용 가능합니다.",
+    "ru": "Изменения применяются в порядке сохранения. Создается новая ревизия; исходный файл остаётся доступным."
+  },
+  "Changing your password signs out all sessions. Sign in again with the new password.": {
+    "en": "Changing your password signs out all sessions. Sign in again with the new password.",
+    "vi": "Đổi mật khẩu sẽ đăng xuất tất cả phiên làm việc. Đăng nhập lại với mật khẩu mới.",
+    "zh": "更改密码会注销所有会话。请使用新密码重新登录。",
+    "ja": "パスワードを変更するとすべてのセッションがサインアウトします。新しいパスワードで再度サインインしてください。",
+    "ko": "비밀번호를 변경하면 모든 세션이 로그아웃됩니다. 새 비밀번호로 다시 로그인하세요.",
+    "ru": "Изменение пароля завершит все сеансы. Войдите снова с новым паролем."
+  },
+  "Check that the Transler API and its services are running, then reload.": {
+    "en": "Check that the Transler API and its services are running, then reload.",
+    "vi": "Kiểm tra xem API Transler và các dịch vụ của nó có đang chạy, sau đó tải lại.",
+    "zh": "检查 Transler API 及其服务是否正在运行，然后重新加载。",
+    "ja": "Transler API とそのサービスが稼働しているか確認し、再読み込みしてください。",
+    "ko": "Transler API와 서비스가 실행 중인지 확인한 후 다시 로드하세요.",
+    "ru": "Проверьте, запущены ли Transler API и его сервисы, затем перезагрузите."
+  },
+  "Checking order expiry. Please do not transfer money.": {
+    "en": "Checking order expiry. Please do not transfer money.",
+    "vi": "Đang xác nhận lệnh hết hạn. Vui lòng không chuyển tiền.",
+    "zh": "正在确认订单到期。请勿转账。",
+    "ja": "注文の有効期限を確認中です。送金しないでください。",
+    "ko": "주문 만료를 확인 중입니다. 송금하지 마세요.",
+    "ru": "Проверяем срок действия заказа. Не переводите деньги."
+  },
+  "Choose PDF": {
+    "en": "Choose PDF",
+    "vi": "Chọn PDF",
+    "zh": "选择 PDF",
+    "ja": "PDF を選択",
+    "ko": "PDF 선택",
+    "ru": "Выбрать PDF"
+  },
+  "Choose a document": {
+    "en": "Choose a document",
+    "vi": "Chọn tài liệu",
+    "zh": "选择文档",
+    "ja": "ドキュメントを選択",
+    "ko": "문서 선택",
+    "ru": "Выбрать документ"
+  },
+  "Choose file": {
+    "en": "Choose file",
+    "vi": "Chọn tệp",
+    "zh": "选择文件",
+    "ja": "ファイルを選択",
+    "ko": "파일 선택",
+    "ru": "Выбрать файл"
+  },
+  "Choose from My Documents": {
+    "en": "Choose from My Documents",
+    "vi": "Chọn từ Tài liệu của tôi",
+    "zh": "从我的文档中选择",
+    "ja": "マイドキュメントから選択",
+    "ko": "내 문서에서 선택",
+    "ru": "Выбрать из Моих документов"
+  },
+  "Choose from your library or upload a new document.": {
+    "en": "Choose from your library or upload a new document.",
+    "vi": "Chọn từ thư viện của bạn hoặc tải lên tài liệu mới.",
+    "zh": "从您的库中选择或上传新文档。",
+    "ja": "ライブラリから選択するか、新しいドキュメントをアップロードしてください。",
+    "ko": "라이브러리에서 선택하거나 새 문서를 업로드하세요.",
+    "ru": "Выберите из вашей библиотеки или загрузите новый документ."
+  },
+  "Choose plan": {
+    "en": "Choose plan",
+    "vi": "Chọn gói",
+    "zh": "选择方案",
+    "ja": "プランを選択",
+    "ko": "플랜 선택",
+    "ru": "Выбрать план"
+  },
+  "Choose your language and translation options.": {
+    "en": "Choose your language and translation options.",
+    "vi": "Chọn ngôn ngữ và tùy chọn dịch của bạn.",
+    "zh": "选择您的语言和翻译选项。",
+    "ja": "言語と翻訳オプションを選択してください。",
+    "ko": "언어 및 번역 옵션을 선택하세요.",
+    "ru": "Выберите язык и параметры перевода."
+  },
+  "Choose your plan. Keep your documents and workflow in one place.": {
+    "en": "Choose your plan. Keep your documents and workflow in one place.",
+    "vi": "Chọn gói của bạn. Giữ tài liệu và quy trình làm việc trong một nơi.",
+    "zh": "选择您的方案。将文档和工作流程集中在一个地方。",
+    "ja": "プランを選択してください。ドキュメントとワークフローを一か所にまとめます。",
+    "ko": "플랜을 선택하세요. 문서와 워크플로를 한 곳에 보관합니다.",
+    "ru": "Выберите план. Храните документы и рабочий процесс в одном месте."
+  },
+  "Close": {
+    "en": "Close",
+    "vi": "Đóng",
+    "zh": "关闭",
+    "ja": "閉じる",
+    "ko": "닫기",
+    "ru": "Закрыть"
+  },
+  "Close order details": {
+    "en": "Close order details",
+    "vi": "Đóng chi tiết đơn hàng",
+    "zh": "关闭订单详情",
+    "ja": "注文詳細を閉じる",
+    "ko": "주문 상세 닫기",
+    "ru": "Закрыть детали заказа"
+  },
+  "Close preview": {
+    "en": "Close preview",
+    "vi": "Đóng xem trước",
+    "zh": "关闭预览",
+    "ja": "プレビューを閉じる",
+    "ko": "미리보기 닫기",
+    "ru": "Закрыть предварительный просмотр"
+  },
+  "Close properties": {
+    "en": "Close properties",
+    "vi": "Đóng thuộc tính",
+    "zh": "关闭属性",
+    "ja": "プロパティを閉じる",
+    "ko": "속성 닫기",
+    "ru": "Закрыть свойства"
+  },
+  "Close search": {
+    "en": "Close search",
+    "vi": "Đóng tìm kiếm",
+    "zh": "关闭搜索",
+    "ja": "検索を閉じる",
+    "ko": "검색 닫기",
+    "ru": "Закрыть поиск"
+  },
+  "Close tool": {
+    "en": "Close tool",
+    "vi": "Đóng công cụ",
+    "zh": "关闭工具",
+    "ja": "ツールを閉じる",
+    "ko": "도구 닫기",
+    "ru": "Закрыть инструмент"
+  },
+  "Code": {
+    "en": "Code",
+    "vi": "Mã",
+    "zh": "代码",
+    "ja": "コード",
+    "ko": "코드",
+    "ru": "Код"
+  },
+  "Combine multiple files": {
+    "en": "Combine multiple files",
+    "vi": "Kết hợp nhiều tệp",
+    "zh": "合并多个文件",
+    "ja": "複数ファイルを結合",
+    "ko": "여러 파일 결합",
+    "ru": "Объединить несколько файлов"
+  },
+  "Coming in a later phase": {
+    "en": "Coming in a later phase",
+    "vi": "Sẽ có trong giai đoạn sau",
+    "zh": "稍后阶段将推出",
+    "ja": "後のフェーズで登場",
+    "ko": "나중 단계에서 제공",
+    "ru": "Будет доступно в следующем этапе"
+  },
+  "Compact images": {
+    "en": "Compact images",
+    "vi": "Nén hình ảnh",
+    "zh": "压缩图像",
+    "ja": "画像を圧縮",
+    "ko": "이미지 압축",
+    "ru": "Сжать изображения"
+  },
+  "Complete your payment": {
+    "en": "Complete your payment",
+    "vi": "Hoàn tất thanh toán",
+    "zh": "完成付款",
+    "ja": "お支払いを完了",
+    "ko": "결제 완료하기",
+    "ru": "Завершите оплату"
+  },
+  "Completed": {
+    "en": "Completed",
+    "vi": "Hoàn thành",
+    "zh": "已完成",
+    "ja": "完了",
+    "ko": "완료",
+    "ru": "Завершено"
+  },
+  "Completed and pending purchases will appear here.": {
+    "en": "Completed and pending purchases will appear here.",
+    "vi": "Các giao dịch đã hoàn thành và đang chờ sẽ xuất hiện ở đây.",
+    "zh": "已完成和待处理的购买将在此显示。",
+    "ja": "完了済みおよび保留中の購入はここに表示されます。",
+    "ko": "완료 및 보류 중인 구매가 여기에 표시됩니다.",
+    "ru": "Завершенные и ожидающие покупки появятся здесь."
+  },
+  "Completed jobs": {
+    "en": "Completed jobs",
+    "vi": "Công việc đã hoàn thành",
+    "zh": "已完成的工作",
+    "ja": "完了したジョブ",
+    "ko": "완료된 작업",
+    "ru": "Завершенные задания"
+  },
+  "Compress PDF": {
+    "en": "Compress PDF",
+    "vi": "Nén PDF",
+    "zh": "压缩 PDF",
+    "ja": "PDFを圧縮",
+    "ko": "PDF 압축",
+    "ru": "Сжать PDF"
+  },
+  "Concurrent jobs": {
+    "en": "Concurrent jobs",
+    "vi": "Công việc đồng thời",
+    "zh": "并发作业",
+    "ja": "同時ジョブ",
+    "ko": "동시 작업",
+    "ru": "Параллельные задания"
+  },
+  "Configuration required": {
+    "en": "Configuration required",
+    "vi": "Cấu hình cần thiết",
+    "zh": "需要配置",
+    "ja": "設定が必要",
+    "ko": "구성이 필요합니다",
+    "ru": "Требуется настройка"
+  },
+  "Configured · leave empty to retain": {
+    "en": "Configured · leave empty to retain",
+    "vi": "Đã cấu hình · để trống để giữ nguyên",
+    "zh": "已配置 · 留空以保留",
+    "ja": "設定済み · 空白のままにして保持",
+    "ko": "구성됨 · 비워 두면 유지",
+    "ru": "Настроено · оставьте пустым, чтобы сохранить"
+  },
+  "Confirm a verified payment": {
+    "en": "Confirm a verified payment",
+    "vi": "Xác nhận thanh toán đã xác thực",
+    "zh": "确认已验证的付款",
+    "ja": "確認済みの支払いを確認",
+    "ko": "검증된 결제 확인",
+    "ru": "Подтвердить проверенную оплату"
+  },
+  "Confirm new password": {
+    "en": "Confirm new password",
+    "vi": "Xác nhận mật khẩu mới",
+    "zh": "确认新密码",
+    "ja": "新しいパスワードを確認",
+    "ko": "새 비밀번호 확인",
+    "ru": "Подтвердить новый пароль"
+  },
+  "Confirm password": {
+    "en": "Confirm password",
+    "vi": "Xác nhận mật khẩu",
+    "zh": "确认密码",
+    "ja": "パスワードを確認",
+    "ko": "비밀번호 확인",
+    "ru": "Подтвердить пароль"
+  },
+  "Confirm verified payment": {
+    "en": "Confirm verified payment",
+    "vi": "Xác nhận thanh toán đã xác thực",
+    "zh": "确认已验证的付款",
+    "ja": "確認済みの支払いを確認",
+    "ko": "검증된 결제 확인",
+    "ru": "Подтвердить проверенную оплату"
+  },
+  "Continue secure checkout": {
+    "en": "Continue secure checkout",
+    "vi": "Tiếp tục thanh toán an toàn",
+    "zh": "继续安全结账",
+    "ja": "安全なチェックアウトを続行",
+    "ko": "보안 결제 계속",
+    "ru": "Продолжить безопасную оплату"
+  },
+  "Continue to payment": {
+    "en": "Continue to payment",
+    "vi": "Tiếp tục đến thanh toán",
+    "zh": "继续到付款",
+    "ja": "支払いへ進む",
+    "ko": "결제로 계속",
+    "ru": "Перейти к оплате"
+  },
+  "Convert": {
+    "en": "Convert",
+    "vi": "Chuyển đổi",
+    "zh": "转换",
+    "ja": "変換",
+    "ko": "변환",
+    "ru": "Конвертировать"
+  },
+  "Convert Files": {
+    "en": "Convert Files",
+    "vi": "Chuyển đổi tệp",
+    "zh": "转换文件",
+    "ja": "ファイルを変換",
+    "ko": "파일 변환",
+    "ru": "Конвертировать файлы"
+  },
+  "Convert documents": {
+    "en": "Convert documents",
+    "vi": "Chuyển đổi tài liệu",
+    "zh": "转换文档",
+    "ja": "文書を変換",
+    "ko": "문서 변환",
+    "ru": "Конвертировать документы"
+  },
+  "Convert files": {
+    "en": "Convert files",
+    "vi": "Chuyển đổi tệp",
+    "zh": "转换文件",
+    "ja": "ファイルを変換",
+    "ko": "파일 변환",
+    "ru": "Конвертировать файлы"
+  },
+  "Copied to clipboard.": {
+    "en": "Copied to clipboard.",
+    "vi": "Đã sao chép vào clipboard.",
+    "zh": "已复制到剪贴板。",
+    "ja": "クリップボードにコピーしました。",
+    "ko": "클립보드에 복사되었습니다.",
+    "ru": "Скопировано в буфер обмена."
+  },
+  "Copy bank account": {
+    "en": "Copy bank account",
+    "vi": "Sao chép tài khoản ngân hàng",
+    "zh": "复制银行账户",
+    "ja": "銀行口座をコピー",
+    "ko": "은행 계좌 복사",
+    "ru": "Скопировать банковский счет"
+  },
+  "Copy transfer reference": {
+    "en": "Copy transfer reference",
+    "vi": "Sao chép tham chiếu chuyển khoản",
+    "zh": "复制转账参考",
+    "ja": "送金参照をコピー",
+    "ko": "이체 참조 복사",
+    "ru": "Скопировать ссылку перевода"
+  },
+  "Create PDF from images": {
+    "en": "Create PDF from images",
+    "vi": "Tạo PDF từ hình ảnh",
+    "zh": "从图像创建 PDF",
+    "ja": "画像からPDFを作成",
+    "ko": "이미지에서 PDF 만들기",
+    "ru": "Создать PDF из изображений"
+  },
+  "Create a link from a completed translation. You can manage it here.": {
+    "en": "Create a link from a completed translation. You can manage it here.",
+    "vi": "Tạo liên kết từ bản dịch đã hoàn thành. Bạn có thể quản lý ở đây.",
+    "zh": "从已完成的翻译创建链接。您可以在此管理。",
+    "ja": "完了した翻訳からリンクを作成します。ここで管理できます。",
+    "ko": "완료된 번역에서 링크를 만듭니다. 여기에서 관리할 수 있습니다.",
+    "ru": "Создайте ссылку из завершённого перевода. Вы можете управлять ей здесь."
+  },
+  "Create account": {
+    "en": "Create account",
+    "vi": "Tạo tài khoản",
+    "zh": "创建账户",
+    "ja": "アカウントを作成",
+    "ko": "계정 만들기",
+    "ru": "Создать аккаунт"
+  },
+  "Create plan": {
+    "en": "Create plan",
+    "vi": "Tạo gói",
+    "zh": "创建套餐",
+    "ja": "プランを作成",
+    "ko": "요금제 만들기",
+    "ru": "Создать план"
+  },
+  "Create your account": {
+    "en": "Create your account",
+    "vi": "Tạo tài khoản của bạn",
+    "zh": "创建您的账户",
+    "ja": "あなたのアカウントを作成",
+    "ko": "당신의 계정 만들기",
+    "ru": "Создайте свой аккаунт"
+  },
+  "Created": {
+    "en": "Created",
+    "vi": "Đã tạo",
+    "zh": "已创建",
+    "ja": "作成済み",
+    "ko": "생성됨",
+    "ru": "Создан"
+  },
+  "Creating order…": {
+    "en": "Creating order…",
+    "vi": "Đang tạo đơn hàng…",
+    "zh": "正在创建订单…",
+    "ja": "注文を作成しています…",
+    "ko": "주문을 생성 중…",
+    "ru": "Создание заказа…"
+  },
+  "Credit or debit card": {
+    "en": "Credit or debit card",
+    "vi": "Thẻ tín dụng hoặc thẻ ghi nợ",
+    "zh": "信用卡或借记卡",
+    "ja": "クレジットカードまたはデビットカード",
+    "ko": "신용카드 또는 직불카드",
+    "ru": "Кредитная или дебетовая карта"
+  },
+  "Crop & translate": {
+    "en": "Crop & translate",
+    "vi": "Cắt & dịch",
+    "zh": "裁剪并翻译",
+    "ja": "切り取り＆翻訳",
+    "ko": "자르기 & 번역",
+    "ru": "Обрезать и перевести"
+  },
+  "Crop and retranslate": {
+    "en": "Crop and retranslate",
+    "vi": "Cắt và dịch lại",
+    "zh": "裁剪并重新翻译",
+    "ja": "切り取りと再翻訳",
+    "ko": "자르기 및 재번역",
+    "ru": "Обрезать и перевести заново"
+  },
+  "Crop, replace, adjust": {
+    "en": "Crop, replace, adjust",
+    "vi": "Cắt, thay thế, điều chỉnh",
+    "zh": "裁剪、替换、调整",
+    "ja": "切り取り、置換、調整",
+    "ko": "자르기, 교체, 조정",
+    "ru": "Обрезать, заменить, настроить"
+  },
+  "Current password": {
+    "en": "Current password",
+    "vi": "Mật khẩu hiện tại",
+    "zh": "当前密码",
+    "ja": "現在のパスワード",
+    "ko": "현재 비밀번호",
+    "ru": "Текущий пароль"
+  },
+  "Current plan": {
+    "en": "Current plan",
+    "vi": "Gói hiện tại",
+    "zh": "当前套餐",
+    "ja": "現在のプラン",
+    "ko": "현재 요금제",
+    "ru": "Текущий план"
+  },
+  "Custom instructions": {
+    "en": "Custom instructions",
+    "vi": "Hướng dẫn tùy chỉnh",
+    "zh": "自定义说明",
+    "ja": "カスタム指示",
+    "ko": "맞춤 지침",
+    "ru": "Пользовательские инструкции"
+  },
+  "Cuộn trang": {
+    "en": "Scroll pages",
+    "vi": "Cuộn trang",
+    "zh": "滚动页面",
+    "ja": "ページスクロール",
+    "ko": "페이지 스크롤",
+    "ru": "Прокрутка страницы"
+  },
+  "Cycle": {
+    "en": "Cycle",
+    "vi": "Chu kỳ",
+    "zh": "循环",
+    "ja": "サイクル",
+    "ko": "주기",
+    "ru": "Цикл"
+  },
+  "Cỡ chữ": {
+    "en": "Font size",
+    "vi": "Cỡ chữ",
+    "zh": "字体大小",
+    "ja": "文字サイズ",
+    "ko": "글자 크기",
+    "ru": "Размер шрифта"
+  },
+  "Daily activity": {
+    "en": "Daily activity",
+    "vi": "Hoạt động hàng ngày",
+    "zh": "每日活动",
+    "ja": "毎日の活動",
+    "ko": "일일 활동",
+    "ru": "Ежедневная активность"
+  },
+  "Daily translated pages over the last 30 days": {
+    "en": "Daily translated pages over the last 30 days",
+    "vi": "Số trang đã dịch hàng ngày trong 30 ngày qua",
+    "zh": "过去30天每日已翻译页面",
+    "ja": "過去30日間の毎日の翻訳済みページ数",
+    "ko": "지난 30일 동안 매일 번역된 페이지 수",
+    "ru": "Ежедневные переведенные страницы за последние 30 дней"
+  },
+  "Date (UTC)": {
+    "en": "Date (UTC)",
+    "vi": "Ngày (UTC)",
+    "zh": "日期（UTC）",
+    "ja": "日付（UTC）",
+    "ko": "날짜 (UTC)",
+    "ru": "Дата (UTC)"
+  },
+  "Delete": {
+    "en": "Delete",
+    "vi": "Xóa",
+    "zh": "删除",
+    "ja": "削除",
+    "ko": "삭제",
+    "ru": "Удалить"
+  },
+  "Delete document": {
+    "en": "Delete document",
+    "vi": "Xóa tài liệu",
+    "zh": "删除文档",
+    "ja": "ドキュメントを削除",
+    "ko": "문서 삭제",
+    "ru": "Удалить документ"
+  },
+  "Deleted documents stay here until you restore or permanently delete them.": {
+    "en": "Deleted documents stay here until you restore or permanently delete them.",
+    "vi": "Tài liệu đã xóa sẽ ở lại đây cho đến khi bạn khôi phục hoặc xóa vĩnh viễn chúng.",
+    "zh": "已删除的文档将保留在此，直到您恢复或永久删除它们。",
+    "ja": "削除されたドキュメントは、復元または完全に削除するまでここに残ります。",
+    "ko": "삭제된 문서는 복원하거나 영구적으로 삭제할 때까지 이곳에 남아 있습니다.",
+    "ru": "Удаленные документы останутся здесь, пока вы не восстановите их или не удалите навсегда."
+  },
+  "Destination (PDF points)": {
+    "en": "Destination (PDF points)",
+    "vi": "Đích (điểm PDF)",
+    "zh": "目标（PDF 点）",
+    "ja": "宛先（PDF ポイント）",
+    "ko": "대상 (PDF 포인트)",
+    "ru": "Назначение (PDF точки)"
+  },
+  "Details": {
+    "en": "Details",
+    "vi": "Chi tiết",
+    "zh": "详细信息",
+    "ja": "詳細",
+    "ko": "세부 정보",
+    "ru": "Подробности"
+  },
+  "Disabled": {
+    "en": "Disabled",
+    "vi": "Đã vô hiệu hóa",
+    "zh": "已禁用",
+    "ja": "無効",
+    "ko": "비활성화됨",
+    "ru": "Отключено"
+  },
+  "Disabled by administrator": {
+    "en": "Disabled by administrator",
+    "vi": "Đã tắt bởi quản trị viên",
+    "zh": "管理员已禁用",
+    "ja": "管理者により無効化されています",
+    "ko": "관리자가 비활성화했습니다",
+    "ru": "Отключено администратором"
+  },
+  "Disabled tools stay visible but cannot be used. Running jobs are not interrupted.": {
+    "en": "Disabled tools stay visible but cannot be used. Running jobs are not interrupted.",
+    "vi": "Công cụ bị tắt vẫn hiển thị nhưng không thể sử dụng. Các tác vụ đang chạy không bị gián đoạn.",
+    "zh": "禁用的工具仍可见，但无法使用。正在运行的任务不会中断。",
+    "ja": "無効なツールも表示されますが、利用できません。実行中の処理は中断されません。",
+    "ko": "비활성화된 도구는 표시되지만 사용할 수 없습니다. 실행 중인 작업은 중단되지 않습니다.",
+    "ru": "Отключённые инструменты остаются видимыми, но недоступны. Текущие задачи не прерываются."
+  },
+  "Discover Transler ↗": {
+    "en": "Discover Transler ↗",
+    "vi": "Khám phá Transler ↗",
+    "zh": "发现 Transler ↗",
+    "ja": "Translerを発見 ↗",
+    "ko": "Transler 발견 ↗",
+    "ru": "Откройте Transler ↗"
+  },
+  "Dismiss error": {
+    "en": "Dismiss error",
+    "vi": "Bỏ qua lỗi",
+    "zh": "忽略错误",
+    "ja": "エラーを無視",
+    "ko": "오류 무시",
+    "ru": "Отвергнуть ошибку"
+  },
+  "Dismiss notice": {
+    "en": "Dismiss notice",
+    "vi": "Bỏ qua thông báo",
+    "zh": "忽略通知",
+    "ja": "通知を無視",
+    "ko": "알림 무시",
+    "ru": "Отвергнуть уведомление"
+  },
+  "Display language": {
+    "en": "Display language",
+    "vi": "Ngôn ngữ hiển thị",
+    "zh": "显示语言",
+    "ja": "表示言語",
+    "ko": "표시 언어",
+    "ru": "Язык отображения"
+  },
+  "Display name": {
+    "en": "Display name",
+    "vi": "Tên hiển thị",
+    "zh": "显示名称",
+    "ja": "表示名",
+    "ko": "표시 이름",
+    "ru": "Отображаемое имя"
+  },
+  "Docs": {
+    "en": "Docs",
+    "vi": "Tài liệu",
+    "zh": "文档",
+    "ja": "ドキュメント",
+    "ko": "문서",
+    "ru": "Документы"
+  },
+  "Document": {
+    "en": "Document",
+    "vi": "Tài liệu",
+    "zh": "文档",
+    "ja": "ドキュメント",
+    "ko": "문서",
+    "ru": "Документ"
+  },
+  "Document context and protected numbers, formulas and code are included automatically.": {
+    "en": "Document context and protected numbers, formulas and code are included automatically.",
+    "vi": "Nội dung tài liệu và số, công thức, mã bảo vệ được bao gồm tự động.",
+    "zh": "文档内容以及受保护的数字、公式和代码将自动包含。",
+    "ja": "ドキュメントの内容と保護された数値、数式、コードは自動的に含まれます。",
+    "ko": "문서 내용 및 보호된 숫자, 수식, 코드가 자동으로 포함됩니다。",
+    "ru": "Контент документа и защищённые числа, формулы и код включены автоматически。"
+  },
+  "Document limit": {
+    "en": "Document limit",
+    "vi": "Giới hạn tài liệu",
+    "zh": "文档限制",
+    "ja": "ドキュメント制限",
+    "ko": "문서 한도",
+    "ru": "Ограничение документов"
+  },
+  "Document pages": {
+    "en": "Document pages",
+    "vi": "Các trang tài liệu",
+    "zh": "文档页面",
+    "ja": "ページ一覧",
+    "ko": "문서 페이지",
+    "ru": "Страницы документа"
+  },
+  "Document preview": {
+    "en": "Document preview",
+    "vi": "Xem trước tài liệu",
+    "zh": "文档预览",
+    "ja": "ドキュメントプレビュー",
+    "ko": "문서 미리보기",
+    "ru": "Предварительный просмотр документа"
+  },
+  "Document ready": {
+    "en": "Document ready",
+    "vi": "Tài liệu đã sẵn sàng",
+    "zh": "文档已就绪",
+    "ja": "ドキュメント準備完了",
+    "ko": "문서 준비 완료",
+    "ru": "Документ готов"
+  },
+  "Documents": {
+    "en": "Documents",
+    "vi": "Tài liệu",
+    "zh": "文档",
+    "ja": "ドキュメント",
+    "ko": "문서",
+    "ru": "Документы"
+  },
+  "Documents you move to Trash will appear here.": {
+    "en": "Documents you move to Trash will appear here.",
+    "vi": "Tài liệu bạn chuyển vào Thùng rác sẽ xuất hiện ở đây.",
+    "zh": "您移动到垃圾箱的文档将在此处显示。",
+    "ja": "ゴミ箱に移動したドキュメントはここに表示されます。",
+    "ko": "휴지통으로 이동한 문서는 여기 표시됩니다。",
+    "ru": "Документы, перемещённые в корзину, появятся здесь。"
+  },
+  "Domain": {
+    "en": "Domain",
+    "vi": "Miền",
+    "zh": "域",
+    "ja": "ドメイン",
+    "ko": "도메인",
+    "ru": "Домен"
+  },
+  "Done": {
+    "en": "Done",
+    "vi": "Xong",
+    "zh": "完成",
+    "ja": "完了",
+    "ko": "완료",
+    "ru": "Готово"
+  },
+  "Download": {
+    "en": "Download",
+    "vi": "Tải xuống",
+    "zh": "下载",
+    "ja": "ダウンロード",
+    "ko": "다운로드",
+    "ru": "Скачать"
+  },
+  "Download CSV report": {
+    "en": "Download CSV report",
+    "vi": "Tải xuống báo cáo CSV",
+    "zh": "下载 CSV 报告",
+    "ja": "CSVレポートをダウンロード",
+    "ko": "CSV 보고서 다운로드",
+    "ru": "Скачать CSV-отчет"
+  },
+  "Download PDF": {
+    "en": "Download PDF",
+    "vi": "Tải xuống PDF",
+    "zh": "下载 PDF",
+    "ja": "PDFをダウンロード",
+    "ko": "PDF 다운로드",
+    "ru": "Скачать PDF"
+  },
+  "Download processed PDF": {
+    "en": "Download processed PDF",
+    "vi": "Tải xuống PDF đã xử lý",
+    "zh": "下载已处理的 PDF",
+    "ja": "処理済みPDFをダウンロード",
+    "ko": "처리된 PDF 다운로드",
+    "ru": "Скачать обработанный PDF"
+  },
+  "Download raw PDF": {
+    "en": "Download raw PDF",
+    "vi": "Tải xuống PDF gốc",
+    "zh": "下载原始 PDF",
+    "ja": "原始PDFをダウンロード",
+    "ko": "원본 PDF 다운로드",
+    "ru": "Скачать исходный PDF"
+  },
+  "Download result": {
+    "en": "Download result",
+    "vi": "Tải xuống kết quả",
+    "zh": "下载结果",
+    "ja": "結果をダウンロード",
+    "ko": "결과 다운로드",
+    "ru": "Скачать результат"
+  },
+  "Drag & drop": {
+    "en": "Drag & drop",
+    "vi": "Kéo & thả",
+    "zh": "拖放",
+    "ja": "ドラッグ＆ドロップ",
+    "ko": "드래그 & 드롭",
+    "ru": "Перетащить & отпустить"
+  },
+  "Drop your PDF here": {
+    "en": "Drop your PDF here",
+    "vi": "Thả PDF của bạn tại đây",
+    "zh": "在此处放下您的 PDF",
+    "ja": "PDFをここにドロップ",
+    "ko": "PDF를 여기 드롭",
+    "ru": "Перетащите ваш PDF сюда"
+  },
+  "Edit": {
+    "en": "Edit",
+    "vi": "Chỉnh sửa",
+    "zh": "编辑",
+    "ja": "編集",
+    "ko": "편집",
+    "ru": "Редактировать"
+  },
+  "Edit PDF": {
+    "en": "Edit PDF",
+    "vi": "Chỉnh sửa PDF",
+    "zh": "编辑 PDF",
+    "ja": "PDFを編集",
+    "ko": "PDF 편집",
+    "ru": "Редактировать PDF"
+  },
+  "Edit processed PDF": {
+    "en": "Edit processed PDF",
+    "vi": "Chỉnh sửa PDF đã xử lý",
+    "zh": "编辑已处理的 PDF",
+    "ja": "処理済みPDFを編集",
+    "ko": "처리된 PDF 편집",
+    "ru": "Редактировать обработанный PDF"
+  },
+  "Edit text": {
+    "en": "Edit text",
+    "vi": "Chỉnh sửa văn bản",
+    "zh": "编辑文本",
+    "ja": "テキストを編集",
+    "ko": "텍스트 편집",
+    "ru": "Редактировать текст"
+  },
+  "Edit text, translate a region, or organize pages.": {
+    "en": "Edit text, translate a region, or organize pages.",
+    "vi": "Chỉnh sửa văn bản, dịch vùng, hoặc sắp xếp trang.",
+    "zh": "编辑文本、翻译区域或组织页面。",
+    "ja": "テキストを編集、領域を翻訳、またはページを整理します。",
+    "ko": "텍스트를 편집하고, 영역을 번역하거나 페이지를 정리합니다.",
+    "ru": "Редактировать текст, перевести область или организовать страницы."
+  },
+  "Editable text": {
+    "en": "Editable text",
+    "vi": "Văn bản có thể chỉnh sửa",
+    "zh": "可编辑文本",
+    "ja": "編集可能なテキスト",
+    "ko": "편집 가능한 텍스트",
+    "ru": "Редактируемый текст"
+  },
+  "Email": {
+    "en": "Email",
+    "vi": "Email",
+    "zh": "电子邮件",
+    "ja": "メール",
+    "ko": "이메일",
+    "ru": "Электронная почта"
+  },
+  "Empty prices disable checkout for that cycle and currency.": {
+    "en": "Empty prices disable checkout for that cycle and currency.",
+    "vi": "Giá trống sẽ vô hiệu hóa thanh toán cho chu kỳ và loại tiền đó.",
+    "zh": "空价格将禁用该周期和货币的结账。",
+    "ja": "空の価格は、そのサイクルと通貨のチェックアウトを無効にします。",
+    "ko": "가격이 비어 있으면 해당 주기 및 통화에 대한 결제가 비활성화됩니다.",
+    "ru": "Пустые цены отключают оформление заказа для этого цикла и валюты."
+  },
+  "Enable gateway": {
+    "en": "Enable gateway",
+    "vi": "Bật cổng",
+    "zh": "启用网关",
+    "ja": "ゲートウェイを有効にする",
+    "ko": "게이트웨이 활성화",
+    "ru": "Включить шлюз"
+  },
+  "Enabled": {
+    "en": "Enabled",
+    "vi": "Đã bật",
+    "zh": "已启用",
+    "ja": "有効",
+    "ko": "활성화됨",
+    "ru": "Включено"
+  },
+  "English + Vietnamese": {
+    "en": "English + Vietnamese",
+    "vi": "Tiếng Anh + Tiếng Việt",
+    "zh": "英语 + 越南语",
+    "ja": "英語 + ベトナム語",
+    "ko": "영어 + 베트남어",
+    "ru": "Английский + Вьетнамский"
+  },
+  "Every language.": {
+    "en": "Every language.",
+    "vi": "Mọi ngôn ngữ.",
+    "zh": "每种语言。",
+    "ja": "すべての言語。",
+    "ko": "모든 언어.",
+    "ru": "Каждый язык."
+  },
+  "Every save creates a new version of your document.": {
+    "en": "Every save creates a new version of your document.",
+    "vi": "Mỗi lần lưu sẽ tạo phiên bản mới cho tài liệu của bạn.",
+    "zh": "每次保存都会创建文档的新版本。",
+    "ja": "保存ごとにドキュメントの新しいバージョンが作成されます。",
+    "ko": "저장할 때마다 문서의 새 버전이 생성됩니다.",
+    "ru": "Каждое сохранение создает новую версию вашего документа."
+  },
+  "Everything you need to work with documents.": {
+    "en": "Everything you need to work with documents.",
+    "vi": "Mọi thứ bạn cần để làm việc với tài liệu.",
+    "zh": "您处理文档所需的一切。",
+    "ja": "ドキュメント作業に必要なすべて。",
+    "ko": "문서 작업에 필요한 모든 것.",
+    "ru": "Всё, что нужно для работы с документами."
+  },
+  "Excel": {
+    "en": "Excel",
+    "vi": "Excel",
+    "zh": "Excel",
+    "ja": "Excel",
+    "ko": "Excel",
+    "ru": "Excel"
+  },
+  "Expired": {
+    "en": "Expired",
+    "vi": "Đã hết hạn",
+    "zh": "已过期",
+    "ja": "期限切れ",
+    "ko": "만료됨",
+    "ru": "Истёк"
+  },
+  "Expires": {
+    "en": "Expires",
+    "vi": "Sẽ hết hạn",
+    "zh": "即将过期",
+    "ja": "期限が切れる",
+    "ko": "만료 예정",
+    "ru": "Истекает"
+  },
+  "Export": {
+    "en": "Export",
+    "vi": "Xuất",
+    "zh": "导出",
+    "ja": "エクスポート",
+    "ko": "내보내기",
+    "ru": "Экспорт"
+  },
+  "Export pages as images": {
+    "en": "Export pages as images",
+    "vi": "Xuất trang dưới dạng hình ảnh",
+    "zh": "将页面导出为图像",
+    "ja": "ページを画像としてエクスポート",
+    "ko": "페이지를 이미지로 내보내기",
+    "ru": "Экспортировать страницы как изображения"
+  },
+  "Export report": {
+    "en": "Export report",
+    "vi": "Xuất báo cáo",
+    "zh": "导出报告",
+    "ja": "レポートをエクスポート",
+    "ko": "보고서 내보내기",
+    "ru": "Экспортировать отчет"
+  },
+  "Extend your plan": {
+    "en": "Extend your plan",
+    "vi": "Mở rộng gói của bạn",
+    "zh": "延长您的套餐",
+    "ja": "プランを延長",
+    "ko": "요금제을 연장",
+    "ru": "Расширьте свой план"
+  },
+  "Extract pages": {
+    "en": "Extract pages",
+    "vi": "Trích xuất trang",
+    "zh": "提取页面",
+    "ja": "ページを抽出",
+    "ko": "페이지 추출",
+    "ru": "Извлечь страницы"
+  },
+  "Extract tables": {
+    "en": "Extract tables",
+    "vi": "Trích xuất bảng",
+    "zh": "提取表格",
+    "ja": "テーブルを抽出",
+    "ko": "테이블 추출",
+    "ru": "Извлечь таблицы"
+  },
+  "Extract text from images": {
+    "en": "Extract text from images",
+    "vi": "Trích xuất văn bản từ hình ảnh",
+    "zh": "从图像中提取文本",
+    "ja": "画像からテキストを抽出",
+    "ko": "이미지에서 텍스트 추출",
+    "ru": "Извлечь текст из изображений"
+  },
+  "Extracting text and layout": {
+    "en": "Extracting text and layout",
+    "vi": "Trích xuất văn bản và bố cục",
+    "zh": "提取文本和布局",
+    "ja": "テキストとレイアウトを抽出",
+    "ko": "텍스트 및 레이아웃 추출",
+    "ru": "Извлечение текста и макета"
+  },
+  "Failed": {
+    "en": "Failed",
+    "vi": "Thất bại",
+    "zh": "失败",
+    "ja": "失敗",
+    "ko": "실패",
+    "ru": "Не удалось"
+  },
+  "Failed jobs": {
+    "en": "Failed jobs",
+    "vi": "Công việc thất bại",
+    "zh": "失败的任务",
+    "ja": "失敗したジョブ",
+    "ko": "실패한 작업",
+    "ru": "Неудачные задания"
+  },
+  "Fast Processing": {
+    "en": "Fast Processing",
+    "vi": "Xử lý nhanh",
+    "zh": "快速处理",
+    "ja": "高速処理",
+    "ko": "빠른 처리",
+    "ru": "Быстрая обработка"
+  },
+  "Favorites": {
+    "en": "Favorites",
+    "vi": "Yêu thích",
+    "zh": "收藏",
+    "ja": "お気に入り",
+    "ko": "즐겨찾기",
+    "ru": "Избранное"
+  },
+  "File history (7 days)": {
+    "en": "File history (7 days)",
+    "vi": "Lịch sử tệp (7 ngày)",
+    "zh": "文件历史（7 天）",
+    "ja": "ファイル履歴（7日間）",
+    "ko": "파일 기록 (7일)",
+    "ru": "История файлов (7 дней)"
+  },
+  "Finalizing": {
+    "en": "Finalizing",
+    "vi": "Hoàn thiện",
+    "zh": "完成中",
+    "ja": "最終化中",
+    "ko": "완료 중",
+    "ru": "Завершение"
+  },
+  "Find": {
+    "en": "Find",
+    "vi": "Tìm",
+    "zh": "查找",
+    "ja": "検索",
+    "ko": "찾기",
+    "ru": "Найти"
+  },
+  "Find in document": {
+    "en": "Find in document",
+    "vi": "Tìm trong tài liệu",
+    "zh": "在文档中查找",
+    "ja": "ドキュメント内検索",
+    "ko": "문서에서 찾기",
+    "ru": "Найти в документе"
+  },
+  "Find text in PDF": {
+    "en": "Find text in PDF",
+    "vi": "Tìm văn bản trong PDF",
+    "zh": "在 PDF 中查找文本",
+    "ja": "PDF内のテキスト検索",
+    "ko": "PDF에서 텍스트 찾기",
+    "ru": "Найти текст в PDF"
+  },
+  "Fit to width": {
+    "en": "Fit to width",
+    "vi": "Vừa chiều rộng",
+    "zh": "适合宽度",
+    "ja": "幅に合わせる",
+    "ko": "너비에 맞추기",
+    "ru": "По ширине"
+  },
+  "For scanned PDFs, run OCR to add a searchable text layer before translation. The original images are preserved.": {
+    "en": "For scanned PDFs, run OCR to add a searchable text layer before translation. The original images are preserved.",
+    "vi": "Đối với PDF quét, chạy OCR để thêm lớp văn bản tìm kiếm trước khi dịch. Hình ảnh gốc được giữ lại.",
+    "zh": "对于扫描的 PDF，请运行 OCR 在翻译前添加可搜索的文本层。原始图像将被保留。",
+    "ja": "スキャンされたPDFの場合、翻訳前にOCRを実行して検索可能なテキストレイヤーを追加します。元の画像は保持されます。",
+    "ko": "스캔된 PDF의 경우 번역 전에 OCR을 실행하여 검색 가능한 텍스트 레이어를 추가합니다. 원본 이미지는 보존됩니다.",
+    "ru": "Для отсканированных PDF запустите OCR, чтобы добавить слой поискового текста перед переводом. Оригинальные изображения сохраняются."
+  },
+  "Free": {
+    "en": "Free",
+    "vi": "Miễn phí",
+    "zh": "免费",
+    "ja": "無料",
+    "ko": "무료",
+    "ru": "Бесплатно"
+  },
+  "Free plan": {
+    "en": "Free plan",
+    "vi": "Gói miễn phí",
+    "zh": "免费套餐",
+    "ja": "無料プラン",
+    "ko": "무료 플랜",
+    "ru": "Бесплатный план"
+  },
+  "Gateway / event": {
+    "en": "Gateway / event",
+    "vi": "Cổng / sự kiện",
+    "zh": "网关 / 事件",
+    "ja": "ゲートウェイ / イベント",
+    "ko": "게이트웨이 / 이벤트",
+    "ru": "Шлюз / событие"
+  },
+  "Get started": {
+    "en": "Get started",
+    "vi": "Bắt đầu",
+    "zh": "开始",
+    "ja": "始める",
+    "ko": "시작하기",
+    "ru": "Начать"
+  },
+  "Get started free": {
+    "en": "Get started free",
+    "vi": "Bắt đầu miễn phí",
+    "zh": "免费开始",
+    "ja": "無料で始める",
+    "ko": "무료로 시작하기",
+    "ru": "Начать бесплатно"
+  },
+  "Glossary": {
+    "en": "Glossary",
+    "vi": "Từ điển thuật ngữ",
+    "zh": "术语表",
+    "ja": "用語集",
+    "ko": "용어집",
+    "ru": "Глоссарий"
+  },
+  "Go to dashboard": {
+    "en": "Go to dashboard",
+    "vi": "Đi tới bảng điều khiển",
+    "zh": "前往仪表盘",
+    "ja": "ダッシュボードへ",
+    "ko": "대시보드로 이동",
+    "ru": "Перейти к панели управления"
+  },
+  "Great things": {
+    "en": "Great things",
+    "vi": "Những điều tuyệt vời",
+    "zh": "伟大事物",
+    "ja": "素晴らしいこと",
+    "ko": "멋진 것들",
+    "ru": "Великолепные вещи"
+  },
+  "Guest": {
+    "en": "Guest",
+    "vi": "Khách",
+    "zh": "访客",
+    "ja": "ゲスト",
+    "ko": "게스트",
+    "ru": "Гость"
+  },
+  "Guest workspace": {
+    "en": "Guest workspace",
+    "vi": "Không gian làm việc khách",
+    "zh": "访客工作区",
+    "ja": "ゲストワークスペース",
+    "ko": "게스트 작업 공간",
+    "ru": "Гостевая рабочая область"
+  },
+  "HTML": {
+    "en": "HTML",
+    "vi": "HTML",
+    "zh": "HTML",
+    "ja": "HTML",
+    "ko": "HTML",
+    "ru": "HTML"
+  },
+  "HTTPS PDF URL": {
+    "en": "HTTPS PDF URL",
+    "vi": "HTTPS PDF URL",
+    "zh": "HTTPS PDF URL",
+    "ja": "HTTPS PDF URL",
+    "ko": "HTTPS PDF URL",
+    "ru": "HTTPS PDF URL"
+  },
+  "Hello,": {
+    "en": "Hello,",
+    "vi": "Xin chào,",
+    "zh": "你好，",
+    "ja": "こんにちは、",
+    "ko": "안녕하세요,",
+    "ru": "Здравствуйте,"
+  },
+  "Hide password": {
+    "en": "Hide password",
+    "vi": "Ẩn mật khẩu",
+    "zh": "隐藏密码",
+    "ja": "パスワードを隠す",
+    "ko": "비밀번호 숨기기",
+    "ru": "Скрыть пароль"
+  },
+  "High Quality": {
+    "en": "High Quality",
+    "vi": "Chất lượng cao",
+    "zh": "高质量",
+    "ja": "高品質",
+    "ko": "고품질",
+    "ru": "Высокое качество"
+  },
+  "High-resolution browser preview · Original image data preserved": {
+    "en": "High-resolution browser preview · Original image data preserved",
+    "vi": "Xem trước trình duyệt độ phân giải cao · Dữ liệu hình ảnh gốc được bảo toàn",
+    "zh": "高分辨率浏览器预览 · 原始图像数据保持",
+    "ja": "高解像度ブラウザプレビュー · 元画像データを保持",
+    "ko": "고해상도 브라우저 미리보기 · 원본 이미지 데이터 보존",
+    "ru": "Просмотр в браузере высокого разрешения · Оригинальные данные изображения сохранены"
+  },
+  "Home": {
+    "en": "Home",
+    "vi": "Trang chủ",
+    "zh": "首页",
+    "ja": "ホーム",
+    "ko": "홈",
+    "ru": "Главная"
+  },
+  "How would you like to pay?": {
+    "en": "How would you like to pay?",
+    "vi": "Bạn muốn thanh toán như thế nào?",
+    "zh": "您想如何付款？",
+    "ja": "どのようにお支払いいたしますか？",
+    "ko": "지불 방법을 선택하세요?",
+    "ru": "Как вы хотите оплатить?"
+  },
+  "Images to PDF": {
+    "en": "Images to PDF",
+    "vi": "Hình ảnh thành PDF",
+    "zh": "图片转PDF",
+    "ja": "画像をPDFに変換",
+    "ko": "이미지를 PDF로 변환",
+    "ru": "Изображения в PDF"
+  },
+  "Import": {
+    "en": "Import",
+    "vi": "Nhập",
+    "zh": "导入",
+    "ja": "インポート",
+    "ko": "가져오기",
+    "ru": "Импорт"
+  },
+  "Input version": {
+    "en": "Input version",
+    "vi": "Phiên bản đầu vào",
+    "zh": "输入版本",
+    "ja": "入力バージョン",
+    "ko": "입력 버전",
+    "ru": "Версия ввода"
+  },
+  "JPEG": {
+    "en": "JPEG",
+    "vi": "JPEG",
+    "zh": "JPEG",
+    "ja": "JPEG",
+    "ko": "JPEG",
+    "ru": "JPEG"
+  },
+  "Keep original": {
+    "en": "Keep original",
+    "vi": "Giữ nguyên",
+    "zh": "保持原始",
+    "ja": "元のままにする",
+    "ko": "원본 유지",
+    "ru": "Сохранить оригинал"
+  },
+  "Keep original layout": {
+    "en": "Keep original layout",
+    "vi": "Giữ bố cục gốc",
+    "zh": "保持原始布局",
+    "ja": "元のレイアウトを保持",
+    "ko": "원본 레이아웃 유지",
+    "ru": "Сохранить оригинальное расположение"
+  },
+  "Keep product names in English; use a formal tone…": {
+    "en": "Keep product names in English; use a formal tone…",
+    "vi": "Giữ tên sản phẩm bằng tiếng Anh; sử dụng giọng điệu trang trọng…",
+    "zh": "保持产品名称为英文；使用正式语气…",
+    "ja": "製品名は英語のままにし、正式な口調で…",
+    "ko": "제품 이름은 영어로 유지하고 정중한 어조를 사용하세요…",
+    "ru": "Сохраняйте названия продуктов на английском; используйте формальный тон…"
+  },
+  "Keep your original layout, translation history and files together in your private Transler library.": {
+    "en": "Keep your original layout, translation history and files together in your private Transler library.",
+    "vi": "Giữ bố cục gốc, lịch sử dịch và tệp tin cùng nhau trong thư viện Transler riêng tư của bạn.",
+    "zh": "将原始布局、翻译历史和文件保存在您的私人 Transler 库中。",
+    "ja": "元のレイアウト、翻訳履歴、ファイルをプライベートTranslerライブラリにまとめて保持します。",
+    "ko": "원본 레이아웃, 번역 기록 및 파일을 개인 Transler 라이브러리에 함께 보관하세요。",
+    "ru": "Сохраняйте исходное расположение, историю перевода и файлы вместе в вашей частной библиотеке Transler."
+  },
+  "Keep your workspace protected.": {
+    "en": "Keep your workspace protected.",
+    "vi": "Bảo vệ không gian làm việc của bạn.",
+    "zh": "保持工作区受保护。",
+    "ja": "作業スペースを保護します。",
+    "ko": "작업 공간을 보호하세요。",
+    "ru": "Защитите свою рабочую область."
+  },
+  "Language": {
+    "en": "Language",
+    "vi": "Ngôn ngữ",
+    "zh": "语言",
+    "ja": "言語",
+    "ko": "언어",
+    "ru": "Язык"
+  },
+  "Layout checks are heuristic. Semantic accuracy needs human review.": {
+    "en": "Layout checks are heuristic. Semantic accuracy needs human review.",
+    "vi": "Kiểm tra bố cục dựa trên quy tắc. Độ chính xác ngữ nghĩa cần được đánh giá bởi con người.",
+    "zh": "布局检查是启发式的。语义准确性需要人工审核。",
+    "ja": "レイアウトチェックはヒューリスティックです。意味的正確さは人間のレビューが必要です。",
+    "ko": "레이아웃 검사는 휴리스틱입니다. 의미 정확성은 인간 검토가 필요합니다。",
+    "ru": "Проверка макета основана на эвристике. Семантическая точность требует проверки человеком."
+  },
+  "Library": {
+    "en": "Library",
+    "vi": "Thư viện",
+    "zh": "图书馆",
+    "ja": "ライブラリ",
+    "ko": "라이브러리",
+    "ru": "Библиотека"
+  },
+  "Loading account…": {
+    "en": "Loading account…",
+    "vi": "Đang tải tài khoản…",
+    "zh": "正在加载账户…",
+    "ja": "アカウントを読み込み中…",
+    "ko": "계정 로딩 중…",
+    "ru": "Загрузка аккаунта…"
+  },
+  "Loading administration…": {
+    "en": "Loading administration…",
+    "vi": "Đang tải quản trị…",
+    "zh": "正在加载管理…",
+    "ja": "管理を読み込み中…",
+    "ko": "관리 로딩 중…",
+    "ru": "Загрузка администрирования…"
+  },
+  "Loading document": {
+    "en": "Loading document",
+    "vi": "Đang tải tài liệu",
+    "zh": "正在加载文档",
+    "ja": "文書を読み込み中",
+    "ko": "문서 불러오는 중",
+    "ru": "Загрузка документа"
+  },
+  "Loading plan…": {
+    "en": "Loading plan…",
+    "vi": "Đang tải gói…",
+    "zh": "正在加载套餐…",
+    "ja": "プランを読み込み中…",
+    "ko": "요금제 로딩 중…",
+    "ru": "Загрузка плана…"
+  },
+  "Loading shared files…": {
+    "en": "Loading shared files…",
+    "vi": "Đang tải tệp chia sẻ…",
+    "zh": "正在加载共享文件…",
+    "ja": "共有ファイルを読み込み中…",
+    "ko": "공유 파일 로딩 중…",
+    "ru": "Загрузка общих файлов…"
+  },
+  "Loading your plans…": {
+    "en": "Loading your plans…",
+    "vi": "Đang tải gói của bạn…",
+    "zh": "正在加载您的套餐…",
+    "ja": "あなたのプランを読み込み中…",
+    "ko": "당신의 요금제 로딩 중…",
+    "ru": "Загрузка ваших планов…"
+  },
+  "Loading…": {
+    "en": "Loading…",
+    "vi": "Đang tải…",
+    "zh": "加载中…",
+    "ja": "読み込み中…",
+    "ko": "불러오는 중…",
+    "ru": "Загрузка…"
+  },
+  "Lossless images": {
+    "en": "Lossless images",
+    "vi": "Hình ảnh không mất dữ liệu",
+    "zh": "无损图像",
+    "ja": "ロスレス画像",
+    "ko": "손실 없는 이미지",
+    "ru": "Без потерь изображения"
+  },
+  "MAKE IT YOURS": {
+    "en": "MAKE IT YOURS",
+    "vi": "THÊM VÀO CỦA BẠN",
+    "zh": "让它属于你",
+    "ja": "あなたのものにする",
+    "ko": "당신의 것으로 만들기",
+    "ru": "СДЕЛАЙТЕ ЭТО СВОИМ"
+  },
+  "MB": {
+    "en": "MB",
+    "vi": "MB",
+    "zh": "MB",
+    "ja": "MB",
+    "ko": "MB",
+    "ru": "MB"
+  },
+  "MB ·": {
+    "en": "MB ·",
+    "vi": "MB ·",
+    "zh": "MB ·",
+    "ja": "MB ·",
+    "ko": "MB ·",
+    "ru": "MB ·"
+  },
+  "MB, VCB, ...": {
+    "en": "MB, VCB, ...",
+    "vi": "MB, VCB, ...",
+    "zh": "MB, VCB, ...",
+    "ja": "MB, VCB, ...",
+    "ko": "MB, VCB, ...",
+    "ru": "MB, VCB, ..."
+  },
+  "Made for understanding.": {
+    "en": "Made for understanding.",
+    "vi": "Giúp bạn hiểu mọi tài liệu.",
+    "zh": "为理解而生.",
+    "ja": "理解のために作られた.",
+    "ko": "이해를 위해 만들어졌습니다.",
+    "ru": "Создано для понимания."
+  },
+  "Made for your documents": {
+    "en": "Made for your documents",
+    "vi": "Được tạo ra cho tài liệu của bạn",
+    "zh": "为您的文件而生",
+    "ja": "あなたのドキュメントのために作られた",
+    "ko": "당신의 문서를 위해 만들어졌습니다",
+    "ru": "Создано для ваших документов"
+  },
+  "Main navigation": {
+    "en": "Main navigation",
+    "vi": "Điều hướng chính",
+    "zh": "主导航",
+    "ja": "メインナビゲーション",
+    "ko": "주요 탐색",
+    "ru": "Основная навигация"
+  },
+  "Make it yours": {
+    "en": "Make it yours",
+    "vi": "Tạo thành của bạn",
+    "zh": "让它属于你",
+    "ja": "あなたのものにする",
+    "ko": "당신의 것으로 만들기",
+    "ru": "Сделайте это своим"
+  },
+  "Make your PDF yours.": {
+    "en": "Make your PDF yours.",
+    "vi": "Tạo PDF của bạn.",
+    "zh": "让你的PDF属于你.",
+    "ja": "あなたのPDFをあなたのものにする.",
+    "ko": "당신의 PDF를 당신의 것으로 만들기.",
+    "ru": "Сделайте свой PDF своим."
+  },
+  "Manage Plan": {
+    "en": "Manage Plan",
+    "vi": "Quản lý gói",
+    "zh": "管理套餐",
+    "ja": "プランを管理",
+    "ko": "요금제 관리",
+    "ru": "Управление тарифом"
+  },
+  "Manage access to the versions you share.": {
+    "en": "Manage access to the versions you share.",
+    "vi": "Quản lý quyền truy cập vào các phiên bản bạn chia sẻ.",
+    "zh": "管理您共享的版本的访问权限.",
+    "ja": "共有するバージョンへのアクセスを管理する.",
+    "ko": "공유한 버전의 액세스를 관리합니다.",
+    "ru": "Управляйте доступом к версиям, которые вы делитесь."
+  },
+  "Manage limits and prices for each billing cycle.": {
+    "en": "Manage limits and prices for each billing cycle.",
+    "vi": "Quản lý giới hạn và giá cho mỗi chu kỳ thanh toán.",
+    "zh": "管理每个计费周期的限制和价格.",
+    "ja": "各請求サイクルの制限と価格を管理する.",
+    "ko": "각 청구 주기의 한도와 가격을 관리합니다.",
+    "ru": "Управляйте лимитами и ценами для каждого платежного цикла."
+  },
+  "Manage plan": {
+    "en": "Manage plan",
+    "vi": "Quản lý gói",
+    "zh": "管理套餐",
+    "ja": "プランを管理",
+    "ko": "요금제 관리",
+    "ru": "Управление тарифом"
+  },
+  "Markdown": {
+    "en": "Markdown",
+    "vi": "Markdown",
+    "zh": "Markdown",
+    "ja": "Markdown",
+    "ko": "Markdown",
+    "ru": "Markdown"
+  },
+  "Merge PDF": {
+    "en": "Merge PDF",
+    "vi": "Nối PDF",
+    "zh": "合并 PDF",
+    "ja": "PDFを結合",
+    "ko": "PDF 병합",
+    "ru": "Объединить PDF"
+  },
+  "Merge PDFs": {
+    "en": "Merge PDFs",
+    "vi": "Nối PDF",
+    "zh": "合并 PDF",
+    "ja": "PDFを結合",
+    "ko": "PDF 병합",
+    "ru": "Объединить PDF"
+  },
+  "Method": {
+    "en": "Method",
+    "vi": "Phương pháp",
+    "zh": "方法",
+    "ja": "方法",
+    "ko": "방법",
+    "ru": "Метод"
+  },
+  "Monthly": {
+    "en": "Monthly",
+    "vi": "Hàng tháng",
+    "zh": "每月",
+    "ja": "毎月",
+    "ko": "월간",
+    "ru": "Ежемесячно"
+  },
+  "Monthly access (days)": {
+    "en": "Monthly access (days)",
+    "vi": "Truy cập hàng tháng (ngày)",
+    "zh": "每月访问（天）",
+    "ja": "月間アクセス（日）",
+    "ko": "월간 접근 (일)",
+    "ru": "Ежемесячный доступ (дни)"
+  },
+  "Monthly free allowance": {
+    "en": "Monthly free allowance",
+    "vi": "Hạn mức miễn phí hàng tháng",
+    "zh": "每月免费额度",
+    "ja": "月間無料枠",
+    "ko": "월간 무료 할당량",
+    "ru": "Ежемесячный бесплатный лимит"
+  },
+  "Monthly page allowance": {
+    "en": "Monthly page allowance",
+    "vi": "Hạn mức trang hàng tháng",
+    "zh": "每月页面额度",
+    "ja": "月間ページ枠",
+    "ko": "월간 페이지 할당량",
+    "ru": "Ежемесячный лимит страниц"
+  },
+  "Monthly pages": {
+    "en": "Monthly pages",
+    "vi": "Trang hàng tháng",
+    "zh": "每月页面",
+    "ja": "月間ページ",
+    "ko": "월간 페이지",
+    "ru": "Ежемесячные страницы"
+  },
+  "Monthly · 30 days": {
+    "en": "Monthly · 30 days",
+    "vi": "Hàng tháng · 30 ngày",
+    "zh": "每月 · 30 天",
+    "ja": "毎月 · 30日",
+    "ko": "월간 · 30일",
+    "ru": "Ежемесячно · 30 дней"
+  },
+  "More": {
+    "en": "More",
+    "vi": "Thêm",
+    "zh": "更多",
+    "ja": "もっと",
+    "ko": "더",
+    "ru": "Больше"
+  },
+  "More room for your ideas.": {
+    "en": "More room for your ideas.",
+    "vi": "Thêm không gian cho ý tưởng của bạn.",
+    "zh": "为您的创意提供更多空间。",
+    "ja": "あなたのアイデアにもっと余裕を。",
+    "ko": "당신의 아이디어를 위한 더 많은 공간.",
+    "ru": "Больше места для ваших идей."
+  },
+  "More tools": {
+    "en": "More tools",
+    "vi": "Nhiều công cụ",
+    "zh": "更多工具",
+    "ja": "もっとツール",
+    "ko": "더 많은 도구",
+    "ru": "Больше инструментов"
+  },
+  "More translated pages and saved documents.": {
+    "en": "More translated pages and saved documents.",
+    "vi": "Nhiều trang đã dịch và tài liệu đã lưu.",
+    "zh": "更多已翻译页面和已保存文档。",
+    "ja": "より多くの翻訳済みページと保存されたドキュメント。",
+    "ko": "더 많은 번역된 페이지와 저장된 문서.",
+    "ru": "Больше переведенных страниц и сохраненных документов."
+  },
+  "Move to Trash": {
+    "en": "Move to Trash",
+    "vi": "Di chuyển vào Thùng rác",
+    "zh": "移至回收站",
+    "ja": "ゴミ箱へ移動",
+    "ko": "휴지통으로 이동",
+    "ru": "Переместить в корзину"
+  },
+  "My Documents": {
+    "en": "My Documents",
+    "vi": "Tài liệu của tôi",
+    "zh": "我的文件",
+    "ja": "私のドキュメント",
+    "ko": "내 문서",
+    "ru": "Мои документы"
+  },
+  "My account": {
+    "en": "My account",
+    "vi": "Tài khoản của tôi",
+    "zh": "我的账户",
+    "ja": "私のアカウント",
+    "ko": "내 계정",
+    "ru": "Мой аккаунт"
+  },
+  "Name": {
+    "en": "Name",
+    "vi": "Tên",
+    "zh": "名称",
+    "ja": "名前",
+    "ko": "이름",
+    "ru": "Имя"
+  },
+  "Native-text PDFs · Up to 30 pages · Original and translated files · 7-day history": {
+    "en": "Native-text PDFs · Up to 30 pages · Original and translated files · 7-day history",
+    "vi": "PDF văn bản gốc · Tối đa 30 trang · Tệp gốc và đã dịch · Lịch sử 7 ngày",
+    "zh": "原文 PDF · 最多 30 页 · 原始文件和已翻译文件 · 7 天历史",
+    "ja": "ネイティブテキストPDF · 最大30ページ · 元ファイルと翻訳済みファイル · 7日間履歴",
+    "ko": "원본 텍스트 PDF · 최대 30페이지 · 원본 및 번역 파일 · 7일 이력",
+    "ru": "PDF с оригинальным текстом · до 30 страниц · оригинальные и переведённые файлы · 7‑дневная история"
+  },
+  "New password": {
+    "en": "New password",
+    "vi": "Mật khẩu mới",
+    "zh": "新密码",
+    "ja": "新しいパスワード",
+    "ko": "새 비밀번호",
+    "ru": "Новый пароль"
+  },
+  "New translation": {
+    "en": "New translation",
+    "vi": "Bản dịch mới",
+    "zh": "新翻译",
+    "ja": "新しい翻訳",
+    "ko": "새 번역",
+    "ru": "Новый перевод"
+  },
+  "Next": {
+    "en": "Next",
+    "vi": "Tiếp theo",
+    "zh": "下一步",
+    "ja": "次へ",
+    "ko": "다음",
+    "ru": "Далее"
+  },
+  "Next page": {
+    "en": "Next page",
+    "vi": "Trang tiếp theo",
+    "zh": "下一页",
+    "ja": "次のページ",
+    "ko": "다음 페이지",
+    "ru": "Следующая страница"
+  },
+  "No orders yet.": {
+    "en": "No orders yet.",
+    "vi": "Chưa có đơn đặt hàng",
+    "zh": "尚未有订单",
+    "ja": "まだ注文はありません",
+    "ko": "아직 주문이 없습니다",
+    "ru": "Заказы пока нет"
+  },
+  "No payments yet": {
+    "en": "No payments yet",
+    "vi": "Chưa có thanh toán",
+    "zh": "尚未有付款",
+    "ja": "まだ支払いはありません",
+    "ko": "아직 결제가 없습니다",
+    "ru": "Платежи пока нет"
+  },
+  "No shared documents": {
+    "en": "No shared documents",
+    "vi": "Không có tài liệu chia sẻ",
+    "zh": "没有共享文件",
+    "ja": "共有ドキュメントはありません",
+    "ko": "공유 문서가 없습니다",
+    "ru": "Нет общих документов"
+  },
+  "No translation activity yet.": {
+    "en": "No translation activity yet.",
+    "vi": "Chưa có hoạt động dịch thuật",
+    "zh": "尚未有翻译活动",
+    "ja": "まだ翻訳活動はありません",
+    "ko": "아직 번역 활동이 없습니다",
+    "ru": "Пока нет активности перевода"
+  },
+  "Not available": {
+    "en": "Not available",
+    "vi": "Không có sẵn",
+    "zh": "不可用",
+    "ja": "利用不可",
+    "ko": "사용 불가",
+    "ru": "Недоступно"
+  },
+  "Not configured": {
+    "en": "Not configured",
+    "vi": "Chưa được cấu hình",
+    "zh": "未配置",
+    "ja": "設定されていません",
+    "ko": "구성되지 않음",
+    "ru": "Не настроено"
+  },
+  "Note": {
+    "en": "Note",
+    "vi": "Ghi chú",
+    "zh": "备注",
+    "ja": "ノート",
+    "ko": "노트",
+    "ru": "Заметка"
+  },
+  "Notifications": {
+    "en": "Notifications",
+    "vi": "Thông báo",
+    "zh": "通知",
+    "ja": "通知",
+    "ko": "알림",
+    "ru": "Уведомления"
+  },
+  "OCR": {
+    "en": "OCR",
+    "vi": "OCR",
+    "zh": "OCR",
+    "ja": "OCR",
+    "ko": "OCR",
+    "ru": "OCR"
+  },
+  "OCR language": {
+    "en": "OCR language",
+    "vi": "Ngôn ngữ OCR",
+    "zh": "OCR 语言",
+    "ja": "OCR 言語",
+    "ko": "OCR 언어",
+    "ru": "Язык OCR"
+  },
+  "ORDER SUMMARY": {
+    "en": "ORDER SUMMARY",
+    "vi": "TỔNG QUAN ĐƠN HÀNG",
+    "zh": "订单摘要",
+    "ja": "注文概要",
+    "ko": "주문 요약",
+    "ru": "ИТОГ ЗАКАЗА"
+  },
+  "One workspace. More possibilities.": {
+    "en": "One workspace. More possibilities.",
+    "vi": "Một không gian làm việc. Nhiều khả năng hơn.",
+    "zh": "一个工作区。更多可能性。",
+    "ja": "ワークスペース1つ。もっと可能性が広がります。",
+    "ko": "한 개의 작업 공간. 더 많은 가능성",
+    "ru": "Один рабочий пространство. Больше возможностей."
+  },
+  "Only visible to you": {
+    "en": "Only visible to you",
+    "vi": "Chỉ hiển thị cho bạn",
+    "zh": "仅对您可见",
+    "ja": "あなたにのみ表示されます",
+    "ko": "당신에게만 표시됩니다",
+    "ru": "Только виден вам"
+  },
+  "Open a PDF": {
+    "en": "Open a PDF",
+    "vi": "Mở PDF",
+    "zh": "打开 PDF",
+    "ja": "PDFを開く",
+    "ko": "PDF 열기",
+    "ru": "Открыть PDF"
+  },
+  "Open for printing": {
+    "en": "Open for printing",
+    "vi": "Mở để in",
+    "zh": "打开以打印",
+    "ja": "印刷用に開く",
+    "ko": "인쇄용 열기",
+    "ru": "Открыть для печати"
+  },
+  "Open your dashboard": {
+    "en": "Open your dashboard",
+    "vi": "Mở bảng điều khiển của bạn",
+    "zh": "打开您的仪表板",
+    "ja": "ダッシュボードを開く",
+    "ko": "대시보드 열기",
+    "ru": "Откройте вашу панель"
+  },
+  "Open your workspace": {
+    "en": "Open your workspace",
+    "vi": "Mở không gian làm việc của bạn",
+    "zh": "打开您的工作区",
+    "ja": "ワークスペースを開く",
+    "ko": "작업 공간 열기",
+    "ru": "Откройте свою рабочую область"
+  },
+  "Opening PDF workspace…": {
+    "en": "Opening PDF workspace…",
+    "vi": "Đang mở không gian làm việc PDF…",
+    "zh": "正在打开 PDF 工作区…",
+    "ja": "PDF ワークスペースを開いています…",
+    "ko": "PDF 작업 공간을 열고 있습니다…",
+    "ru": "Открытие рабочей области PDF…"
+  },
+  "Opening PDF…": {
+    "en": "Opening PDF…",
+    "vi": "Đang mở PDF…",
+    "zh": "正在打开 PDF…",
+    "ja": "PDF を開いています…",
+    "ko": "PDF를 열고 있습니다…",
+    "ru": "Открытие PDF…"
+  },
+  "Opening your document…": {
+    "en": "Opening your document…",
+    "vi": "Đang mở tài liệu của bạn…",
+    "zh": "正在打开您的文档…",
+    "ja": "ドキュメントを開いています…",
+    "ko": "문서를 열고 있습니다…",
+    "ru": "Открытие вашего документа…"
+  },
+  "Opening your private workspace…": {
+    "en": "Opening your private workspace…",
+    "vi": "Đang mở không gian làm việc riêng tư của bạn…",
+    "zh": "正在打开您的私人工作区…",
+    "ja": "プライベートワークスペースを開いています…",
+    "ko": "개인 작업 공간을 열고 있습니다…",
+    "ru": "Открытие вашей приватной рабочей области…"
+  },
+  "Order": {
+    "en": "Order",
+    "vi": "Đặt hàng",
+    "zh": "订单",
+    "ja": "注文",
+    "ko": "주문",
+    "ru": "Заказ"
+  },
+  "Orders": {
+    "en": "Orders",
+    "vi": "Đơn hàng",
+    "zh": "订单",
+    "ja": "注文",
+    "ko": "주문",
+    "ru": "Заказы"
+  },
+  "Original": {
+    "en": "Original",
+    "vi": "Gốc",
+    "zh": "原始",
+    "ja": "オリジナル",
+    "ko": "원본",
+    "ru": "Оригинал"
+  },
+  "Original PDF": {
+    "en": "Original PDF",
+    "vi": "PDF gốc",
+    "zh": "原文 PDF",
+    "ja": "原文 PDF",
+    "ko": "원본 PDF",
+    "ru": "Исходный PDF"
+  },
+  "Original files and processed versions": {
+    "en": "Original files and processed versions",
+    "vi": "Tệp gốc và các phiên bản đã xử lý",
+    "zh": "原始文件和处理后的版本",
+    "ja": "オリジナルファイルと処理済みバージョン",
+    "ko": "원본 파일 및 처리된 버전",
+    "ru": "Оригинальные файлы и обработанные версии"
+  },
+  "Original image data retained.": {
+    "en": "Original image data retained.",
+    "vi": "Dữ liệu hình ảnh gốc được giữ lại.",
+    "zh": "保留原始图像数据。",
+    "ja": "オリジナル画像データは保持されます。",
+    "ko": "원본 이미지 데이터가 보존됩니다.",
+    "ru": "Оригинальные данные изображения сохранены."
+  },
+  "Outcome": {
+    "en": "Outcome",
+    "vi": "Kết quả",
+    "zh": "结果",
+    "ja": "結果",
+    "ko": "결과",
+    "ru": "Результат"
+  },
+  "Overview & usage": {
+    "en": "Overview & usage",
+    "vi": "Tổng quan & sử dụng",
+    "zh": "概览与使用",
+    "ja": "概要と使用方法",
+    "ko": "개요 및 사용",
+    "ru": "Обзор и использование"
+  },
+  "PDF": {
+    "en": "PDF",
+    "vi": "PDF",
+    "zh": "PDF",
+    "ja": "PDF",
+    "ko": "PDF",
+    "ru": "PDF"
+  },
+  "PDF editing tools": {
+    "en": "PDF editing tools",
+    "vi": "Công cụ chỉnh sửa PDF",
+    "zh": "PDF 编辑工具",
+    "ja": "PDF編集ツール",
+    "ko": "PDF 편집 도구",
+    "ru": "Инструменты редактирования PDF"
+  },
+  "PDF only · Up to 30 pages · Maximum": {
+    "en": "PDF only · Up to 30 pages · Maximum",
+    "vi": "Chỉ PDF · Tối đa 30 trang · Tối đa",
+    "zh": "仅 PDF · 最多 30 页 · 最大",
+    "ja": "PDFのみ · 最大30ページ · 最大",
+    "ko": "PDF 전용 · 최대 30페이지 · 최대",
+    "ru": "Только PDF · До 30 страниц · Максимум"
+  },
+  "PDF password": {
+    "en": "PDF password",
+    "vi": "Mật khẩu PDF",
+    "zh": "PDF 密码",
+    "ja": "PDFパスワード",
+    "ko": "PDF 비밀번호",
+    "ru": "Пароль PDF"
+  },
+  "PDF preview": {
+    "en": "PDF preview",
+    "vi": "Xem trước PDF",
+    "zh": "PDF 预览",
+    "ja": "PDFプレビュー",
+    "ko": "PDF 미리보기",
+    "ru": "Предпросмотр PDF"
+  },
+  "PDF to Images": {
+    "en": "PDF to Images",
+    "vi": "PDF sang Hình ảnh",
+    "zh": "PDF 转图像",
+    "ja": "PDFから画像へ",
+    "ko": "PDF를 이미지로 변환",
+    "ru": "PDF в изображения"
+  },
+  "PDF to Word, PPT, etc.": {
+    "en": "PDF to Word, PPT, etc.",
+    "vi": "PDF sang Word, PPT, v.v.",
+    "zh": "PDF 转 Word、PPT 等",
+    "ja": "PDFからWord、PPTなどへ",
+    "ko": "PDF를 Word, PPT 등으로 변환",
+    "ru": "PDF в Word, PPT и т.д."
+  },
+  "PDF tools": {
+    "en": "PDF tools",
+    "vi": "Công cụ PDF",
+    "zh": "PDF 工具",
+    "ja": "PDFツール",
+    "ko": "PDF 도구",
+    "ru": "Инструменты PDF"
+  },
+  "PDF · Up to 20 MB · Original file preserved": {
+    "en": "PDF · Up to 20 MB · Original file preserved",
+    "vi": "PDF · Tối đa 20 MB · Bảo lưu tệp gốc",
+    "zh": "PDF · 最多 20 MB · 原始文件保留",
+    "ja": "PDF · 最大20MB · 元のファイルを保持",
+    "ko": "PDF · 최대 20MB · 원본 파일 보존",
+    "ru": "PDF · До 20 МБ · Оригинальный файл сохранён"
+  },
+  "PDF, Office, images or text": {
+    "en": "PDF, Office, images or text",
+    "vi": "PDF, Office, hình ảnh hoặc văn bản",
+    "zh": "PDF、Office、图像或文本",
+    "ja": "PDF、Office、画像またはテキスト",
+    "ko": "PDF, Office, 이미지 또는 텍스트",
+    "ru": "PDF, Office, изображения или текст"
+  },
+  "PLANS & BILLING": {
+    "en": "PLANS & BILLING",
+    "vi": "KẾ HOẠCH & THANH TOÁN",
+    "zh": "套餐与计费",
+    "ja": "プランと請求",
+    "ko": "플랜 및 청구",
+    "ru": "ПЛАНЫ И ПЛАТЕЖИ"
+  },
+  "PNG": {
+    "en": "PNG",
+    "vi": "PNG",
+    "zh": "PNG",
+    "ja": "PNG",
+    "ko": "PNG",
+    "ru": "PNG"
+  },
+  "Page": {
+    "en": "Page",
+    "vi": "Trang",
+    "zh": "页面",
+    "ja": "ページ",
+    "ko": "페이지",
+    "ru": "Страница"
+  },
+  "Page dimensions": {
+    "en": "Page dimensions",
+    "vi": "Kích thước trang",
+    "zh": "页面尺寸",
+    "ja": "ページサイズ",
+    "ko": "페이지 치수",
+    "ru": "Размеры страницы"
+  },
+  "Page not found": {
+    "en": "Page not found",
+    "vi": "Không tìm thấy trang",
+    "zh": "未找到页面",
+    "ja": "ページが見つかりません",
+    "ko": "페이지를 찾을 수 없습니다",
+    "ru": "Страница не найдена"
+  },
+  "Page order": {
+    "en": "Page order",
+    "vi": "Thứ tự trang",
+    "zh": "页面顺序",
+    "ja": "ページ順序",
+    "ko": "페이지 순서",
+    "ru": "Порядок страниц"
+  },
+  "Pages": {
+    "en": "Pages",
+    "vi": "Trang",
+    "zh": "页面",
+    "ja": "ページ",
+    "ko": "페이지",
+    "ru": "Страницы"
+  },
+  "Pages appear here after you open a PDF.": {
+    "en": "Pages appear here after you open a PDF.",
+    "vi": "Các trang sẽ xuất hiện ở đây khi bạn mở PDF.",
+    "zh": "打开 PDF 后，页面将显示在此处。",
+    "ja": "PDFを開くと、ページがここに表示されます。",
+    "ko": "PDF를 열면 페이지가 여기에 표시됩니다.",
+    "ru": "Страницы появятся здесь после открытия PDF."
+  },
+  "Pages as slides": {
+    "en": "Pages as slides",
+    "vi": "Trang dưới dạng slide",
+    "zh": "页面作为幻灯片",
+    "ja": "スライドとしてのページ",
+    "ko": "슬라이드로서의 페이지",
+    "ru": "Страницы как слайды"
+  },
+  "Pages completed": {
+    "en": "Pages completed",
+    "vi": "Trang đã hoàn thành",
+    "zh": "已完成的页面",
+    "ja": "完了したページ",
+    "ko": "완료된 페이지",
+    "ru": "Страницы завершены"
+  },
+  "Pages per calendar month": {
+    "en": "Pages per calendar month",
+    "vi": "Trang mỗi tháng dương lịch",
+    "zh": "每月日历页数",
+    "ja": "カレンダー月ごとのページ数",
+    "ko": "달력 월당 페이지",
+    "ru": "Страницы в календарном месяце"
+  },
+  "Pages reserved": {
+    "en": "Pages reserved",
+    "vi": "Trang đã đặt trước",
+    "zh": "已预留页面",
+    "ja": "予約済みページ",
+    "ko": "예약된 페이지",
+    "ru": "Зарезервированные страницы"
+  },
+  "Pages to extract": {
+    "en": "Pages to extract",
+    "vi": "Trang cần trích xuất",
+    "zh": "待提取页面",
+    "ja": "抽出するページ",
+    "ko": "추출할 페이지",
+    "ru": "Страницы для извлечения"
+  },
+  "Pages translated": {
+    "en": "Pages translated",
+    "vi": "Trang đã dịch",
+    "zh": "已翻译页面",
+    "ja": "翻訳されたページ",
+    "ko": "번역된 페이지",
+    "ru": "Страницы переведены"
+  },
+  "Pages with text": {
+    "en": "Pages with text",
+    "vi": "Trang có văn bản",
+    "zh": "带文本的页面",
+    "ja": "テキスト付きページ",
+    "ko": "텍스트가 있는 페이지",
+    "ru": "Страницы с текстом"
+  },
+  "Paid accounts": {
+    "en": "Paid accounts",
+    "vi": "Tài khoản trả phí",
+    "zh": "付费账户",
+    "ja": "有料アカウント",
+    "ko": "유료 계정",
+    "ru": "Платные аккаунты"
+  },
+  "Paid once per term": {
+    "en": "Paid once per term",
+    "vi": "Trả phí một lần mỗi kỳ",
+    "zh": "每个期限一次付费",
+    "ja": "期間ごとに一度だけ支払う",
+    "ko": "기간마다 한 번만 결제",
+    "ru": "Оплата один раз за срок"
+  },
+  "Paid once per year": {
+    "en": "Paid once per year",
+    "vi": "Trả phí một lần mỗi năm",
+    "zh": "每年一次付费",
+    "ja": "年に一度だけ支払う",
+    "ko": "연간 한 번만 결제",
+    "ru": "Оплата один раз в год"
+  },
+  "Password": {
+    "en": "Password",
+    "vi": "Mật khẩu",
+    "zh": "密码",
+    "ja": "パスワード",
+    "ko": "비밀번호",
+    "ru": "Пароль"
+  },
+  "Payment": {
+    "en": "Payment",
+    "vi": "Thanh toán",
+    "zh": "支付",
+    "ja": "支払い",
+    "ko": "결제",
+    "ru": "Оплата"
+  },
+  "Payment gateways": {
+    "en": "Payment gateways",
+    "vi": "Cổng thanh toán",
+    "zh": "支付网关",
+    "ja": "決済ゲートウェイ",
+    "ko": "결제 게이트웨이",
+    "ru": "Платёжные шлюзы"
+  },
+  "Payment history": {
+    "en": "Payment history",
+    "vi": "Lịch sử thanh toán",
+    "zh": "支付历史",
+    "ja": "支払い履歴",
+    "ko": "결제 내역",
+    "ru": "История платежей"
+  },
+  "Payment method": {
+    "en": "Payment method",
+    "vi": "Phương thức thanh toán",
+    "zh": "支付方式",
+    "ja": "支払い方法",
+    "ko": "결제 수단",
+    "ru": "Способ оплаты"
+  },
+  "Payment method and order summary": {
+    "en": "Payment method and order summary",
+    "vi": "Phương thức thanh toán và tóm tắt đơn hàng",
+    "zh": "支付方式和订单摘要",
+    "ja": "支払い方法と注文概要",
+    "ko": "결제 수단 및 주문 요약",
+    "ru": "Способ оплаты и сводка заказа"
+  },
+  "Pending changes (": {
+    "en": "Pending changes (",
+    "vi": "Thay đổi chưa lưu (",
+    "zh": "待保存的更改（",
+    "ja": "未保存の変更（",
+    "ko": "저장하지 않은 변경 사항 (",
+    "ru": "Несохранённые изменения ("
+  },
+  "Personal information": {
+    "en": "Personal information",
+    "vi": "Thông tin cá nhân",
+    "zh": "个人信息",
+    "ja": "個人情報",
+    "ko": "개인 정보",
+    "ru": "Персональная информация"
+  },
+  "Phóng to": {
+    "en": "Zoom in",
+    "vi": "Phóng to",
+    "zh": "放大",
+    "ja": "拡大",
+    "ko": "확대",
+    "ru": "Увеличить"
+  },
+  "Plain text": {
+    "en": "Plain text",
+    "vi": "Văn bản thuần",
+    "zh": "纯文本",
+    "ja": "プレーンテキスト",
+    "ko": "일반 텍스트",
+    "ru": "Простой текст"
+  },
+  "Plan": {
+    "en": "Plan",
+    "vi": "Gói",
+    "zh": "套餐",
+    "ja": "プラン",
+    "ko": "요금제",
+    "ru": "Тариф"
+  },
+  "Plan / provider": {
+    "en": "Plan / provider",
+    "vi": "Gói / nhà cung cấp",
+    "zh": "套餐 / 提供商",
+    "ja": "プラン / プロバイダー",
+    "ko": "요금제 / 공급자",
+    "ru": "План / поставщик"
+  },
+  "Plan expiration (local time)": {
+    "en": "Plan expiration (local time)",
+    "vi": "Hết hạn gói (giờ địa phương)",
+    "zh": "套餐到期（当地时间）",
+    "ja": "プランの有効期限（現地時間）",
+    "ko": "요금제 만료 (현지 시간)",
+    "ru": "Срок действия плана (местное время)"
+  },
+  "Plans & billing": {
+    "en": "Plans & billing",
+    "vi": "Gói & thanh toán",
+    "zh": "套餐与付款",
+    "ja": "プランと請求",
+    "ko": "요금제 및 결제",
+    "ru": "Тарифы и оплата"
+  },
+  "Please wait…": {
+    "en": "Please wait…",
+    "vi": "Vui lòng chờ…",
+    "zh": "请稍候…",
+    "ja": "お待ちください…",
+    "ko": "잠시만 기다려 주세요…",
+    "ru": "Пожалуйста, подождите…"
+  },
+  "Portable document": {
+    "en": "Portable document",
+    "vi": "Tài liệu di động",
+    "zh": "可携带文档",
+    "ja": "ポータブルドキュメント",
+    "ko": "휴대용 문서",
+    "ru": "Переносимый документ"
+  },
+  "PowerPoint": {
+    "en": "PowerPoint",
+    "vi": "PowerPoint",
+    "zh": "PowerPoint",
+    "ja": "PowerPoint",
+    "ko": "PowerPoint",
+    "ru": "PowerPoint"
+  },
+  "PowerPoint preserves page appearance as images. XLSX extracts detected tables. Image exports contain one file per page in a ZIP.": {
+    "en": "PowerPoint preserves page appearance as images. XLSX extracts detected tables. Image exports contain one file per page in a ZIP.",
+    "vi": "PowerPoint giữ nguyên giao diện trang dưới dạng hình ảnh. XLSX trích xuất bảng được phát hiện. Xuất hình ảnh chứa một tệp cho mỗi trang trong ZIP.",
+    "zh": "PowerPoint将页面外观保留为图像。XLSX提取检测到的表格。图像导出包含每页一个文件在ZIP中。",
+    "ja": "PowerPointはページの外観を画像として保持します。XLSXは検出されたテーブルを抽出します。画像エクスポートはZIP内にページごとに1ファイルを含みます。",
+    "ko": "PowerPoint는 페이지 모양을 이미지로 보존합니다. XLSX는 감지된 표를 추출합니다. 이미지 내보내기는 ZIP에 페이지당 하나의 파일을 포함합니다.",
+    "ru": "PowerPoint сохраняет внешний вид страниц как изображения. XLSX извлекает обнаруженные таблицы. Экспорт изображений содержит один файл на страницу в ZIP."
+  },
+  "Prepaid access · No automatic renewal": {
+    "en": "Prepaid access · No automatic renewal",
+    "vi": "Truy cập trả trước · Không gia hạn tự động",
+    "zh": "预付访问 · 无自动续费",
+    "ja": "前払いアクセス · 自動更新なし",
+    "ko": "선불 액세스 · 자동 갱신 없음",
+    "ru": "Предоплаченный доступ · Без автоматического продления"
+  },
+  "Preparing conversion…": {
+    "en": "Preparing conversion…",
+    "vi": "Đang chuẩn bị chuyển đổi…",
+    "zh": "正在准备转换…",
+    "ja": "変換を準備しています…",
+    "ko": "변환 준비 중…",
+    "ru": "Подготовка конвертации…"
+  },
+  "Preparing document": {
+    "en": "Preparing document",
+    "vi": "Đang chuẩn bị tài liệu",
+    "zh": "正在准备文档",
+    "ja": "ドキュメントを準備しています",
+    "ko": "문서를 준비 중입니다",
+    "ru": "Подготовка документа"
+  },
+  "Preparing your document…": {
+    "en": "Preparing your document…",
+    "vi": "Đang chuẩn bị tài liệu của bạn…",
+    "zh": "正在准备您的文档…",
+    "ja": "ドキュメントを準備しています…",
+    "ko": "문서를 준비 중입니다…",
+    "ru": "Подготовка вашего документа…"
+  },
+  "Preserved": {
+    "en": "Preserved",
+    "vi": "Đã bảo toàn",
+    "zh": "已保留",
+    "ja": "保存済み",
+    "ko": "보존됨",
+    "ru": "Сохранено"
+  },
+  "Preview": {
+    "en": "Preview",
+    "vi": "Xem trước",
+    "zh": "预览",
+    "ja": "プレビュー",
+    "ko": "미리보기",
+    "ru": "Предварительный просмотр"
+  },
+  "Preview mode": {
+    "en": "Preview mode",
+    "vi": "Chế độ xem",
+    "zh": "预览模式",
+    "ja": "表示モード",
+    "ko": "미리보기 모드",
+    "ru": "Режим просмотра"
+  },
+  "Preview original": {
+    "en": "Preview original",
+    "vi": "Xem trước bản gốc",
+    "zh": "预览原始文件",
+    "ja": "オリジナルをプレビュー",
+    "ko": "원본 미리보기",
+    "ru": "Предварительный просмотр оригинала"
+  },
+  "Preview processed PDF": {
+    "en": "Preview processed PDF",
+    "vi": "Xem trước PDF đã xử lý",
+    "zh": "预览处理后的PDF",
+    "ja": "処理済みPDFをプレビュー",
+    "ko": "처리된 PDF 미리보기",
+    "ru": "Предварительный просмотр обработанного PDF"
+  },
+  "Preview raw PDF": {
+    "en": "Preview raw PDF",
+    "vi": "Xem trước PDF thô",
+    "zh": "预览原始PDF",
+    "ja": "生のPDFをプレビュー",
+    "ko": "원본 PDF 미리보기",
+    "ru": "Предварительный просмотр исходного PDF"
+  },
+  "Previous": {
+    "en": "Previous",
+    "vi": "Trước",
+    "zh": "上一页",
+    "ja": "前へ",
+    "ko": "이전",
+    "ru": "Предыдущий"
+  },
+  "Previous page": {
+    "en": "Previous page",
+    "vi": "Trang trước",
+    "zh": "上一页",
+    "ja": "前のページ",
+    "ko": "이전 페이지",
+    "ru": "Предыдущая страница"
+  },
+  "Pricing": {
+    "en": "Pricing",
+    "vi": "Giá cả",
+    "zh": "定价",
+    "ja": "価格",
+    "ko": "가격",
+    "ru": "Цены"
+  },
+  "Private & secure": {
+    "en": "Private & secure",
+    "vi": "Riêng tư & an toàn",
+    "zh": "私密 & 安全",
+    "ja": "プライベート & セキュア",
+    "ko": "프라이빗 & 보안",
+    "ru": "Приватно & безопасно"
+  },
+  "Private account library · Raw & processed files saved automatically": {
+    "en": "Private account library · Raw & processed files saved automatically",
+    "vi": "Thư viện tài khoản riêng tư · Tệp thô & đã xử lý được lưu tự động",
+    "zh": "私人账户库 · 原始与处理文件自动保存",
+    "ja": "プライベートアカウントライブラリ · 原始ファイルと処理済みファイルが自動保存されます",
+    "ko": "프라이빗 계정 라이브러리 · 원본 및 처리된 파일이 자동 저장됩니다",
+    "ru": "Приватная библиотека аккаунта · Нерезервированные и обработанные файлы сохраняются автоматически"
+  },
+  "Private by default · No account needed": {
+    "en": "Private by default · No account needed",
+    "vi": "Riêng tư theo mặc định · Không cần tài khoản",
+    "zh": "默认私密 · 无需账户",
+    "ja": "デフォルトでプライベート · アカウント不要",
+    "ko": "기본 프라이빗 · 계정 필요 없음",
+    "ru": "Приватно по умолчанию · Нет необходимости в аккаунте"
+  },
+  "Private guest workspace · Saved automatically · Available for 7 days": {
+    "en": "Private guest workspace · Saved automatically · Available for 7 days",
+    "vi": "Không gian làm việc khách riêng tư · Lưu tự động · Có thể dùng 7 ngày",
+    "zh": "私人访客工作区 · 自动保存 · 可用7天",
+    "ja": "プライベートゲストワークスペース · 自動保存 · 7日間利用可能",
+    "ko": "프라이빗 게스트 워크스페이스 · 자동 저장 · 7일간 사용 가능",
+    "ru": "Приватное гостевое рабочее пространство · Автосохранение · Доступно 7 дней"
+  },
+  "Private library · Original layout preserved": {
+    "en": "Private library · Original layout preserved",
+    "vi": "Thư viện riêng tư · Bố cục gốc được bảo toàn",
+    "zh": "私人库 · 原始布局保留",
+    "ja": "プライベートライブラリ · 元のレイアウトを保持",
+    "ko": "프라이빗 라이브러리 · 원본 레이아웃 보존",
+    "ru": "Приватная библиотека · Оригинальное расположение сохраняется"
+  },
+  "Process PDF": {
+    "en": "Process PDF",
+    "vi": "Xử lý PDF",
+    "zh": "处理 PDF",
+    "ja": "PDFを処理",
+    "ko": "PDF 처리",
+    "ru": "Обработать PDF"
+  },
+  "Processed": {
+    "en": "Processed",
+    "vi": "Đã xử lý",
+    "zh": "已处理",
+    "ja": "処理済み",
+    "ko": "처리 완료",
+    "ru": "Обработано"
+  },
+  "Processing": {
+    "en": "Processing",
+    "vi": "Đang xử lý",
+    "zh": "处理中",
+    "ja": "処理中",
+    "ko": "처리 중",
+    "ru": "Обрабатывается"
+  },
+  "Processing time": {
+    "en": "Processing time",
+    "vi": "Thời gian xử lý",
+    "zh": "处理时间",
+    "ja": "処理時間",
+    "ko": "처리 시간",
+    "ru": "Время обработки"
+  },
+  "Products": {
+    "en": "Products",
+    "vi": "Sản phẩm",
+    "zh": "产品",
+    "ja": "製品",
+    "ko": "제품",
+    "ru": "Продукты"
+  },
+  "Profile & security": {
+    "en": "Profile & security",
+    "vi": "Hồ sơ & Bảo mật",
+    "zh": "个人资料与安全",
+    "ja": "プロフィールとセキュリティ",
+    "ko": "프로필 및 보안",
+    "ru": "Профиль и безопасность"
+  },
+  "Progress is saved after each page. Find this job again in My Documents.": {
+    "en": "Progress is saved after each page. Find this job again in My Documents.",
+    "vi": "Tiến độ được lưu sau mỗi trang. Tìm lại công việc này trong Tài liệu của tôi.",
+    "zh": "进度在每页后保存。可在我的文档中再次找到此工作。",
+    "ja": "各ページの後に進捗が保存されます。マイドキュメントでこの仕事を再度見つけてください。",
+    "ko": "각 페이지 후에 진행 상황이 저장됩니다. 내 문서에서 이 작업을 다시 찾으세요.",
+    "ru": "Прогресс сохраняется после каждой страницы. Найдите эту работу в Моих документах."
+  },
+  "Progress saved after each page.": {
+    "en": "Progress saved after each page.",
+    "vi": "Tiến độ được lưu sau mỗi trang.",
+    "zh": "进度在每页后保存。",
+    "ja": "各ページの後に進捗が保存されます。",
+    "ko": "각 페이지 후에 진행 상황이 저장됩니다.",
+    "ru": "Прогресс сохраняется после каждой страницы."
+  },
+  "Properties": {
+    "en": "Properties",
+    "vi": "Thuộc tính",
+    "zh": "属性",
+    "ja": "プロパティ",
+    "ko": "속성",
+    "ru": "Свойства"
+  },
+  "Protect PDF": {
+    "en": "Protect PDF",
+    "vi": "Bảo vệ PDF",
+    "zh": "保护 PDF",
+    "ja": "PDFを保護",
+    "ko": "PDF 보호",
+    "ru": "Защитить PDF"
+  },
+  "Provider": {
+    "en": "Provider",
+    "vi": "Nhà cung cấp",
+    "zh": "提供商",
+    "ja": "プロバイダー",
+    "ko": "공급자",
+    "ru": "Поставщик"
+  },
+  "Quality report": {
+    "en": "Quality report",
+    "vi": "Báo cáo chất lượng",
+    "zh": "质量报告",
+    "ja": "品質レポート",
+    "ko": "품질 보고서",
+    "ru": "Отчет о качестве"
+  },
+  "Raw": {
+    "en": "Raw",
+    "vi": "Thô",
+    "zh": "原始",
+    "ja": "生データ",
+    "ko": "원본",
+    "ru": "Сырой"
+  },
+  "Raw & processed files": {
+    "en": "Raw & processed files",
+    "vi": "Tệp thô & đã xử lý",
+    "zh": "原始与处理文件",
+    "ja": "生データと処理済みファイル",
+    "ko": "원본 및 처리 파일",
+    "ru": "Сырой и обработанный файлы"
+  },
+  "Raw PDF": {
+    "en": "Raw PDF",
+    "vi": "PDF thô",
+    "zh": "原始 PDF",
+    "ja": "生PDF",
+    "ko": "원본 PDF",
+    "ru": "Сырой PDF"
+  },
+  "Raw and processed files are automatically saved in My Documents.": {
+    "en": "Raw and processed files are automatically saved in My Documents.",
+    "vi": "Các tệp gốc và đã xử lý được lưu tự động trong Tài liệu của tôi.",
+    "zh": "原始文件和处理后的文件会自动保存在我的文档中。",
+    "ja": "原始ファイルと処理済みファイルは自動的に「マイドキュメント」に保存されます。",
+    "ko": "원본 및 처리된 파일이 자동으로 내 문서에 저장됩니다.",
+    "ru": "Исходные и обработанные файлы автоматически сохраняются в «Мои документы»."
+  },
+  "Raw document": {
+    "en": "Raw document",
+    "vi": "Tài liệu gốc",
+    "zh": "原始文件",
+    "ja": "原稿",
+    "ko": "원본 문서",
+    "ru": "Исходный документ"
+  },
+  "Ready for your next document?": {
+    "en": "Ready for your next document?",
+    "vi": "Sẵn sàng cho tài liệu tiếp theo của bạn?",
+    "zh": "准备好下一份文件了吗？",
+    "ja": "次のドキュメントの準備はできましたか？",
+    "ko": "다음 문서 준비가 되셨나요?",
+    "ru": "Готовы к следующему документу?"
+  },
+  "Ready to accept payments": {
+    "en": "Ready to accept payments",
+    "vi": "Sẵn sàng nhận thanh toán",
+    "zh": "已准备好接受付款",
+    "ja": "支払い受領準備完了",
+    "ko": "지불 수락 준비 완료",
+    "ru": "Готов к приёму платежей"
+  },
+  "Rebuilding document": {
+    "en": "Rebuilding document",
+    "vi": "Đang tái tạo tài liệu",
+    "zh": "正在重建文档",
+    "ja": "文書を再構築中",
+    "ko": "문서 재구성 중",
+    "ru": "Перестраиваем документ"
+  },
+  "Received": {
+    "en": "Received",
+    "vi": "Đã nhận",
+    "zh": "已收到",
+    "ja": "受領済み",
+    "ko": "수신 완료",
+    "ru": "Получено"
+  },
+  "Receiving account": {
+    "en": "Receiving account",
+    "vi": "Tài khoản nhận",
+    "zh": "接收账户",
+    "ja": "受領口座",
+    "ko": "수신 계좌",
+    "ru": "Счёт получателя"
+  },
+  "Recent activity": {
+    "en": "Recent activity",
+    "vi": "Hoạt động gần đây",
+    "zh": "最近活动",
+    "ja": "最近の活動",
+    "ko": "최근 활동",
+    "ru": "Недавняя активность"
+  },
+  "Recent documents": {
+    "en": "Recent documents",
+    "vi": "Tài liệu gần đây",
+    "zh": "最近文档",
+    "ja": "最近のドキュメント",
+    "ko": "최근 문서",
+    "ru": "Недавние документы"
+  },
+  "Redo": {
+    "en": "Redo",
+    "vi": "Làm lại",
+    "zh": "重做",
+    "ja": "やり直し",
+    "ko": "다시 실행",
+    "ru": "Повторить"
+  },
+  "Reduce file size": {
+    "en": "Reduce file size",
+    "vi": "Giảm kích thước tệp",
+    "zh": "减小文件大小",
+    "ja": "ファイルサイズを縮小",
+    "ko": "파일 크기 줄이기",
+    "ru": "Уменьшить размер файла"
+  },
+  "Reference": {
+    "en": "Reference",
+    "vi": "Tham chiếu",
+    "zh": "参考",
+    "ja": "参照",
+    "ko": "참조",
+    "ru": "Ссылка"
+  },
+  "Refresh status": {
+    "en": "Refresh status",
+    "vi": "Kiểm tra trạng thái",
+    "zh": "刷新状态",
+    "ja": "状態を更新",
+    "ko": "상태 새로고침",
+    "ru": "Обновить статус"
+  },
+  "Reload workspace": {
+    "en": "Reload workspace",
+    "vi": "Tải lại không gian làm việc",
+    "zh": "重新加载工作区",
+    "ja": "ワークスペースを再読み込み",
+    "ko": "작업 공간 다시 로드",
+    "ru": "Перезагрузить рабочее пространство"
+  },
+  "Remove": {
+    "en": "Remove",
+    "vi": "Xóa",
+    "zh": "删除",
+    "ja": "削除",
+    "ko": "제거",
+    "ru": "Удалить"
+  },
+  "Remove password protection": {
+    "en": "Remove password protection",
+    "vi": "Bỏ mật khẩu bảo vệ",
+    "zh": "移除密码保护",
+    "ja": "パスワード保護を解除",
+    "ko": "암호 보호 해제",
+    "ru": "Удалить защиту паролем"
+  },
+  "Reorder pages": {
+    "en": "Reorder pages",
+    "vi": "Sắp xếp lại trang",
+    "zh": "重新排序页面",
+    "ja": "ページの順序を変更",
+    "ko": "페이지 순서 재정렬",
+    "ru": "Переставить страницы"
+  },
+  "Reserved pages belong to active translations. Failed or cancelled jobs release their reservation.": {
+    "en": "Reserved pages belong to active translations. Failed or cancelled jobs release their reservation.",
+    "vi": "Các trang đã được dành riêng cho bản dịch đang hoạt động. Các công việc thất bại hoặc hủy sẽ giải phóng việc dành riêng.",
+    "zh": "保留页面属于正在进行的翻译。失败或取消的作业将释放其预留。",
+    "ja": "予約済みページはアクティブな翻訳に属します。失敗またはキャンセルされたジョブは予約を解放します。",
+    "ko": "예약된 페이지는 활성 번역에 속합니다. 실패하거나 취소된 작업은 예약을 해제합니다.",
+    "ru": "Зарезервированные страницы принадлежат активным переводам. Неудачные или отмененные задания освобождают их резерв."
+  },
+  "Restore a document or permanently delete it and all versions.": {
+    "en": "Restore a document or permanently delete it and all versions.",
+    "vi": "Khôi phục tài liệu hoặc xóa vĩnh viễn nó và tất cả các phiên bản.",
+    "zh": "恢复文档或永久删除它及其所有版本。",
+    "ja": "ドキュメントを復元するか、完全に削除してすべてのバージョンを削除します。",
+    "ko": "문서를 복원하거나 영구적으로 삭제하고 모든 버전을 삭제합니다.",
+    "ru": "Восстановить документ или навсегда удалить его и все версии."
+  },
+  "Restore document": {
+    "en": "Restore document",
+    "vi": "Khôi phục tài liệu",
+    "zh": "恢复文档",
+    "ja": "ドキュメントを復元",
+    "ko": "문서 복원",
+    "ru": "Восстановить документ"
+  },
+  "Retry": {
+    "en": "Retry",
+    "vi": "Thử lại",
+    "zh": "重试",
+    "ja": "再試行",
+    "ko": "다시 시도",
+    "ru": "Повторить"
+  },
+  "Retry from checkpoint": {
+    "en": "Retry from checkpoint",
+    "vi": "Khởi động lại từ điểm kiểm tra",
+    "zh": "从检查点重新开始",
+    "ja": "チェックポイントから再試行",
+    "ko": "체크포인트에서 다시 시도",
+    "ru": "Повторить с контрольной точки"
+  },
+  "Return to Transler": {
+    "en": "Return to Transler",
+    "vi": "Quay lại Transler",
+    "zh": "返回 Transler",
+    "ja": "Translerに戻る",
+    "ko": "Transler로 돌아가기",
+    "ru": "Вернуться к Transler"
+  },
+  "Return to dashboard": {
+    "en": "Return to dashboard",
+    "vi": "Quay lại bảng điều khiển",
+    "zh": "返回仪表盘",
+    "ja": "ダッシュボードに戻る",
+    "ko": "대시보드로 돌아가기",
+    "ru": "Вернуться к панели управления"
+  },
+  "Review": {
+    "en": "Review",
+    "vi": "Xem lại",
+    "zh": "审核",
+    "ja": "レビュー",
+    "ko": "검토",
+    "ru": "Пересмотреть"
+  },
+  "Review payment": {
+    "en": "Review payment",
+    "vi": "Xem lại thanh toán",
+    "zh": "审核付款",
+    "ja": "支払いをレビュー",
+    "ko": "지불 검토",
+    "ru": "Проверить оплату"
+  },
+  "Revision": {
+    "en": "Revision",
+    "vi": "Sửa đổi",
+    "zh": "修订",
+    "ja": "改訂",
+    "ko": "개정",
+    "ru": "Пересмотр"
+  },
+  "Revoke link": {
+    "en": "Revoke link",
+    "vi": "Thu hồi liên kết",
+    "zh": "撤销链接",
+    "ja": "リンクを取り消す",
+    "ko": "링크 취소",
+    "ru": "Отозвать ссылку"
+  },
+  "Role": {
+    "en": "Role",
+    "vi": "Vai trò",
+    "zh": "角色",
+    "ja": "役割",
+    "ko": "역할",
+    "ru": "Роль"
+  },
+  "Rotate page": {
+    "en": "Rotate page",
+    "vi": "Xoay trang",
+    "zh": "旋转页面",
+    "ja": "ページを回転",
+    "ko": "페이지 회전",
+    "ru": "Повернуть страницу"
+  },
+  "Save": {
+    "en": "Save",
+    "vi": "Lưu",
+    "zh": "保存",
+    "ja": "保存",
+    "ko": "저장",
+    "ru": "Сохранить"
+  },
+  "Save account": {
+    "en": "Save account",
+    "vi": "Lưu tài khoản",
+    "zh": "保存账户",
+    "ja": "アカウントを保存",
+    "ko": "계정 저장",
+    "ru": "Сохранить аккаунт"
+  },
+  "Save gateway": {
+    "en": "Save gateway",
+    "vi": "Lưu cổng",
+    "zh": "保存网关",
+    "ja": "ゲートウェイを保存",
+    "ko": "게이트웨이 저장",
+    "ru": "Сохранить шлюз"
+  },
+  "Save plan": {
+    "en": "Save plan",
+    "vi": "Lưu gói",
+    "zh": "保存方案",
+    "ja": "プランを保存",
+    "ko": "플랜 저장",
+    "ru": "Сохранить план"
+  },
+  "Save profile": {
+    "en": "Save profile",
+    "vi": "Lưu hồ sơ",
+    "zh": "保存个人资料",
+    "ja": "プロフィールを保存",
+    "ko": "프로필 저장",
+    "ru": "Сохранить профиль"
+  },
+  "Save to library": {
+    "en": "Save to library",
+    "vi": "Lưu vào thư viện",
+    "zh": "保存到库",
+    "ja": "ライブラリに保存",
+    "ko": "라이브러리에 저장",
+    "ru": "Сохранить в библиотеку"
+  },
+  "Saved documents": {
+    "en": "Saved documents",
+    "vi": "Tài liệu đã lưu",
+    "zh": "已保存的文件",
+    "ja": "保存済みのドキュメント",
+    "ko": "저장된 문서",
+    "ru": "Сохраненные документы"
+  },
+  "Saving…": {
+    "en": "Saving…",
+    "vi": "Đang lưu…",
+    "zh": "正在保存…",
+    "ja": "保存中…",
+    "ko": "저장 중…",
+    "ru": "Сохранение…"
+  },
+  "Scan with your banking app to pay.": {
+    "en": "Scan with your banking app to pay.",
+    "vi": "Quét mã bằng ứng dụng ngân hàng để thanh toán.",
+    "zh": "使用银行应用扫码付款。",
+    "ja": "銀行アプリでスキャンしてお支払いください。",
+    "ko": "은행 앱으로 스캔하여 결제하세요.",
+    "ru": "Отсканируйте код в приложении банка для оплаты."
+  },
+  "SePay bank transfer": {
+    "en": "SePay bank transfer",
+    "vi": "Chuyển khoản ngân hàng SePay",
+    "zh": "SePay 银行转账",
+    "ja": "SePay 銀行振込",
+    "ko": "SePay 은행 송금",
+    "ru": "Банковский перевод SePay"
+  },
+  "SePay price (VND)": {
+    "en": "SePay price (VND)",
+    "vi": "Giá SePay (VND)",
+    "zh": "SePay 价格（VND）",
+    "ja": "SePay 価格（VND）",
+    "ko": "SePay 가격 (VND)",
+    "ru": "Цена SePay (VND)"
+  },
+  "SePay · VND": {
+    "en": "SePay · VND",
+    "vi": "SePay · VND",
+    "zh": "SePay · VND",
+    "ja": "SePay · VND",
+    "ko": "SePay · VND",
+    "ru": "SePay · VND"
+  },
+  "Search your documents": {
+    "en": "Search your documents",
+    "vi": "Tìm kiếm tài liệu của bạn",
+    "zh": "搜索您的文档",
+    "ja": "ドキュメントを検索",
+    "ko": "문서 검색",
+    "ru": "Поиск ваших документов"
+  },
+  "Search your documents...": {
+    "en": "Search your documents...",
+    "vi": "Tìm kiếm tài liệu của bạn…",
+    "zh": "搜索您的文档…",
+    "ja": "ドキュメントを検索…",
+    "ko": "문서 검색…",
+    "ru": "Поиск ваших документов…"
+  },
+  "Searchable OCR": {
+    "en": "Searchable OCR",
+    "vi": "OCR có thể tìm kiếm",
+    "zh": "可搜索 OCR",
+    "ja": "検索可能な OCR",
+    "ko": "검색 가능한 OCR",
+    "ru": "Поисковый OCR"
+  },
+  "Secret key required": {
+    "en": "Secret key required",
+    "vi": "Yêu cầu khóa bí mật",
+    "zh": "需要密钥",
+    "ja": "シークレットキーが必要です",
+    "ko": "비밀 키 필요",
+    "ru": "Требуется секретный ключ"
+  },
+  "Secrets are encrypted in PostgreSQL and never returned to the browser. New orders use the saved configuration.": {
+    "en": "Secrets are encrypted in PostgreSQL and never returned to the browser. New orders use the saved configuration.",
+    "vi": "Bí mật được mã hóa trong PostgreSQL và không bao giờ được trả về trình duyệt. Đơn hàng mới sử dụng cấu hình đã lưu.",
+    "zh": "秘密在 PostgreSQL 中加密，永不返回浏览器。新订单使用已保存的配置。",
+    "ja": "シークレットはPostgreSQLで暗号化され、ブラウザに返されることはありません。新しい注文は保存された設定を使用します。",
+    "ko": "비밀은 PostgreSQL에 암호화되어 브라우저에 반환되지 않습니다. 새 주문은 저장된 구성을 사용합니다.",
+    "ru": "Секреты шифруются в PostgreSQL и никогда не возвращаются в браузер. Новые заказы используют сохраненную конфигурацию."
+  },
+  "Secure & Private": {
+    "en": "Secure & Private",
+    "vi": "Bảo mật & Riêng tư",
+    "zh": "安全 & 私密",
+    "ja": "安全 & プライベート",
+    "ko": "보안 & 개인 정보",
+    "ru": "Безопасность & Конфиденциальность"
+  },
+  "Secure checkout": {
+    "en": "Secure checkout",
+    "vi": "Thanh toán an toàn",
+    "zh": "安全结账",
+    "ja": "安全なチェックアウト",
+    "ko": "안전한 결제",
+    "ru": "Безопасный чек-аут"
+  },
+  "Select a block or drag to select a region.": {
+    "en": "Select a block or drag to select a region.",
+    "vi": "Chọn một khối hoặc kéo để chọn vùng",
+    "zh": "选择块或拖动以选择区域",
+    "ja": "ブロックを選択するか、ドラッグして領域を選択",
+    "ko": "블록을 선택하거나 드래그하여 영역을 선택하세요",
+    "ru": "Выберите блок или перетащите, чтобы выделить область"
+  },
+  "Select a document to get started": {
+    "en": "Select a document to get started",
+    "vi": "Chọn tài liệu để bắt đầu",
+    "zh": "选择文档开始",
+    "ja": "ドキュメントを選択して開始",
+    "ko": "문서를 선택하여 시작하세요",
+    "ru": "Выберите документ, чтобы начать"
+  },
+  "Select the format that fits your next step.": {
+    "en": "Select the format that fits your next step.",
+    "vi": "Chọn định dạng phù hợp với bước tiếp theo của bạn.",
+    "zh": "选择适合您下一步的格式。",
+    "ja": "次のステップに合ったフォーマットを選択してください。",
+    "ko": "다음 단계에 맞는 형식을 선택하세요.",
+    "ru": "Выберите формат, подходящий для следующего шага."
+  },
+  "Selected": {
+    "en": "Selected",
+    "vi": "Đã chọn",
+    "zh": "已选择",
+    "ja": "選択済み",
+    "ko": "선택됨",
+    "ru": "Выбрано"
+  },
+  "Share": {
+    "en": "Share",
+    "vi": "Chia sẻ",
+    "zh": "分享",
+    "ja": "共有",
+    "ko": "공유",
+    "ru": "Поделиться"
+  },
+  "Share document": {
+    "en": "Share document",
+    "vi": "Chia sẻ tài liệu",
+    "zh": "分享文档",
+    "ja": "ドキュメントを共有",
+    "ko": "문서 공유",
+    "ru": "Поделиться документом"
+  },
+  "Share link": {
+    "en": "Share link",
+    "vi": "Chia sẻ liên kết",
+    "zh": "分享链接",
+    "ja": "リンクを共有",
+    "ko": "링크 공유",
+    "ru": "Поделиться ссылкой"
+  },
+  "Shared": {
+    "en": "Shared",
+    "vi": "Đã chia sẻ",
+    "zh": "已分享",
+    "ja": "共有済み",
+    "ko": "공유됨",
+    "ru": "Поделено"
+  },
+  "Shared files": {
+    "en": "Shared files",
+    "vi": "Tệp đã chia sẻ",
+    "zh": "已共享文件",
+    "ja": "共有済みファイル",
+    "ko": "공유된 파일",
+    "ru": "Общие файлы"
+  },
+  "Show pages": {
+    "en": "Show pages",
+    "vi": "Hiển thị trang",
+    "zh": "显示页面",
+    "ja": "ページを表示",
+    "ko": "페이지 표시",
+    "ru": "Показать страницы"
+  },
+  "Show password": {
+    "en": "Show password",
+    "vi": "Hiển thị mật khẩu",
+    "zh": "显示密码",
+    "ja": "パスワードを表示",
+    "ko": "비밀번호 표시",
+    "ru": "Показать пароль"
+  },
+  "Sign in": {
+    "en": "Sign in",
+    "vi": "Đăng nhập",
+    "zh": "登录",
+    "ja": "サインイン",
+    "ko": "로그인",
+    "ru": "Войти"
+  },
+  "Sign in to open your saved documents.": {
+    "en": "Sign in to open your saved documents.",
+    "vi": "Đăng nhập để mở tài liệu đã lưu của bạn.",
+    "zh": "登录以打开已保存的文档。",
+    "ja": "保存したドキュメントを開くにはサインインしてください。",
+    "ko": "저장된 문서를 열려면 로그인하세요.",
+    "ru": "Войдите, чтобы открыть сохраненные документы."
+  },
+  "Sign out": {
+    "en": "Sign out",
+    "vi": "Đăng xuất",
+    "zh": "登出",
+    "ja": "サインアウト",
+    "ko": "로그아웃",
+    "ru": "Выйти"
+  },
+  "Signature, drawing and image insertion are not available yet.": {
+    "en": "Signature, drawing and image insertion are not available yet.",
+    "vi": "Chữ ký, vẽ và chèn hình ảnh chưa khả dụng.",
+    "zh": "签名、绘图和图像插入尚不可用。",
+    "ja": "署名、描画、画像挿入はまだ利用できません。",
+    "ko": "서명, 그리기 및 이미지 삽입이 아직 사용 불가합니다.",
+    "ru": "Подпись, рисование и вставка изображений пока недоступны."
+  },
+  "Size": {
+    "en": "Size",
+    "vi": "Kích thước",
+    "zh": "尺寸",
+    "ja": "サイズ",
+    "ko": "크기",
+    "ru": "Размер"
+  },
+  "Source": {
+    "en": "Source",
+    "vi": "Nguồn",
+    "zh": "来源",
+    "ja": "ソース",
+    "ko": "소스",
+    "ru": "Источник"
+  },
+  "Source language": {
+    "en": "Source language",
+    "vi": "Ngôn ngữ nguồn",
+    "zh": "源语言",
+    "ja": "原文言語",
+    "ko": "원본 언어",
+    "ru": "Исходный язык"
+  },
+  "Source term": {
+    "en": "Source term",
+    "vi": "Thuật ngữ nguồn",
+    "zh": "源术语",
+    "ja": "原文用語",
+    "ko": "원본 용어",
+    "ru": "Исходный термин"
+  },
+  "Split PDF": {
+    "en": "Split PDF",
+    "vi": "Chia PDF",
+    "zh": "拆分 PDF",
+    "ja": "PDFを分割",
+    "ko": "PDF 분할",
+    "ru": "Разделить PDF"
+  },
+  "Standard translation with the original layout preserved.": {
+    "en": "Standard translation with the original layout preserved.",
+    "vi": "Dịch chuẩn với bố cục gốc được bảo toàn.",
+    "zh": "标准翻译，保留原始布局。",
+    "ja": "元のレイアウトを保持した標準翻訳",
+    "ko": "원본 레이아웃을 보존한 표준 번역",
+    "ru": "Стандартный перевод с сохранением исходного макета"
+  },
+  "Start translation": {
+    "en": "Start translation",
+    "vi": "Bắt đầu dịch",
+    "zh": "开始翻译",
+    "ja": "翻訳を開始",
+    "ko": "번역 시작",
+    "ru": "Начать перевод"
+  },
+  "Start with your file": {
+    "en": "Start with your file",
+    "vi": "Bắt đầu với tệp của bạn",
+    "zh": "从您的文件开始",
+    "ja": "ファイルから開始",
+    "ko": "파일로 시작",
+    "ru": "Начните с вашего файла"
+  },
+  "Starting…": {
+    "en": "Starting…",
+    "vi": "Đang bắt đầu…",
+    "zh": "正在开始…",
+    "ja": "開始中…",
+    "ko": "시작 중…",
+    "ru": "Запуск…"
+  },
+  "Status": {
+    "en": "Status",
+    "vi": "Trạng thái",
+    "zh": "状态",
+    "ja": "ステータス",
+    "ko": "상태",
+    "ru": "Статус"
+  },
+  "Storage": {
+    "en": "Storage",
+    "vi": "Lưu trữ",
+    "zh": "存储",
+    "ja": "ストレージ",
+    "ko": "저장소",
+    "ru": "Хранилище"
+  },
+  "Stripe": {
+    "en": "Stripe",
+    "vi": "Stripe",
+    "zh": "Stripe",
+    "ja": "Stripe",
+    "ko": "Stripe",
+    "ru": "Stripe"
+  },
+  "Stripe & card": {
+    "en": "Stripe & card",
+    "vi": "Stripe & thẻ",
+    "zh": "Stripe & 卡",
+    "ja": "Stripe & カード",
+    "ko": "Stripe & 카드",
+    "ru": "Stripe & карта"
+  },
+  "Stripe price (USD cents)": {
+    "en": "Stripe price (USD cents)",
+    "vi": "Giá Stripe (USD cent)",
+    "zh": "Stripe 价格（美元分）",
+    "ja": "Stripe 価格（USD セント）",
+    "ko": "Stripe 가격 (USD 센트)",
+    "ru": "Цена Stripe (центов USD)"
+  },
+  "Stripe secret key": {
+    "en": "Stripe secret key",
+    "vi": "Khóa bí mật Stripe",
+    "zh": "Stripe 秘密密钥",
+    "ja": "Stripe シークレットキー",
+    "ko": "Stripe 비밀 키",
+    "ru": "Секретный ключ Stripe"
+  },
+  "Stripe secure checkout · USD": {
+    "en": "Stripe secure checkout · USD",
+    "vi": "Thanh toán an toàn Stripe · USD",
+    "zh": "Stripe 安全结账 · USD",
+    "ja": "Stripe セキュアチェックアウト · USD",
+    "ko": "Stripe 보안 결제 · USD",
+    "ru": "Безопасный чек-аут Stripe · USD"
+  },
+  "Structured text": {
+    "en": "Structured text",
+    "vi": "Văn bản có cấu trúc",
+    "zh": "结构化文本",
+    "ja": "構造化テキスト",
+    "ko": "구조화된 텍스트",
+    "ru": "Структурированный текст"
+  },
+  "Target": {
+    "en": "Target",
+    "vi": "Đích",
+    "zh": "目标",
+    "ja": "ターゲット",
+    "ko": "대상",
+    "ru": "Цель"
+  },
+  "Target / details": {
+    "en": "Target / details",
+    "vi": "Đích / chi tiết",
+    "zh": "目标 / 细节",
+    "ja": "ターゲット / 詳細",
+    "ko": "대상 / 세부사항",
+    "ru": "Цель / детали"
+  },
+  "Target language": {
+    "en": "Target language",
+    "vi": "Ngôn ngữ đích",
+    "zh": "目标语言",
+    "ja": "ターゲット言語",
+    "ko": "대상 언어",
+    "ru": "Целевой язык"
+  },
+  "Target term": {
+    "en": "Target term",
+    "vi": "Thuật ngữ đích",
+    "zh": "目标术语",
+    "ja": "ターゲット用語",
+    "ko": "대상 용어",
+    "ru": "Целевой термин"
+  },
+  "Text": {
+    "en": "Text",
+    "vi": "Văn bản",
+    "zh": "文本",
+    "ja": "テキスト",
+    "ko": "텍스트",
+    "ru": "Текст"
+  },
+  "Text properties": {
+    "en": "Text properties",
+    "vi": "Thuộc tính văn bản",
+    "zh": "文本属性",
+    "ja": "テキストプロパティ",
+    "ko": "텍스트 속성",
+    "ru": "Свойства текста"
+  },
+  "Thao tác chỉnh sửa": {
+    "en": "Editing action",
+    "vi": "Thao tác chỉnh sửa",
+    "zh": "编辑操作",
+    "ja": "編集操作",
+    "ko": "편집 작업",
+    "ru": "Редактирование"
+  },
+  "The original and translation have different page counts.": {
+    "en": "The original and translation have different page counts.",
+    "vi": "Bản gốc và bản dịch có số trang khác nhau.",
+    "zh": "原文与译文的页数不同。",
+    "ja": "原文と翻訳のページ数が一致しません。",
+    "ko": "원본과 번역의 페이지 수가 다릅니다.",
+    "ru": "Количество страниц оригинала и перевода различается."
+  },
+  "This account cannot open administration.": {
+    "en": "This account cannot open administration.",
+    "vi": "Tài khoản này không thể mở quản trị.",
+    "zh": "此帐户无法打开管理界面。",
+    "ja": "このアカウントでは管理を開くことができません。",
+    "ko": "이 계정은 관리 기능을 열 수 없습니다.",
+    "ru": "Этот аккаунт не может открыть администрирование."
+  },
+  "This feature is designed and reserved for an upcoming phase. PDF translation and your document library are available now.": {
+    "en": "This feature is designed and reserved for an upcoming phase. PDF translation and your document library are available now.",
+    "vi": "Tính năng này được thiết kế và dành riêng cho giai đoạn sắp tới. Dịch PDF và thư viện tài liệu của bạn đã sẵn sàng ngay bây giờ.",
+    "zh": "此功能已为即将到来的阶段设计并预留。PDF 翻译和您的文档库现在可用。",
+    "ja": "この機能は、次のフェーズに向けて設計・予約されています。PDF 翻訳とドキュメントライブラリは現在利用可能です。",
+    "ko": "이 기능은 다가오는 단계에 맞춰 설계 및 예약되었습니다. PDF 번역 및 문서 라이브러리는 지금 바로 사용 가능합니다.",
+    "ru": "Эта функция разработана и зарезервирована для будущего этапа. Перевод PDF и ваша библиотека документов уже доступны."
+  },
+  "This may take a few minutes. You can leave this page and return from My Documents.": {
+    "en": "This may take a few minutes. You can leave this page and return from My Documents.",
+    "vi": "Điều này có thể mất vài phút. Bạn có thể rời trang này và quay lại từ Tài liệu của tôi.",
+    "zh": "这可能需要几分钟。您可以离开此页面并从我的文档返回。",
+    "ja": "これには数分かかる場合があります。ページを離れて「マイドキュメント」から戻ることができます。",
+    "ko": "이 작업은 몇 분 걸릴 수 있습니다. 이 페이지를 떠나서 내 문서에서 다시 돌아올 수 있습니다.",
+    "ru": "Это может занять несколько минут. Вы можете покинуть эту страницу и вернуться из Моих документов."
+  },
+  "This order expired. Create a new order before transferring.": {
+    "en": "This order expired. Create a new order before transferring.",
+    "vi": "Đơn hàng này đã hết hạn. Tạo đơn hàng mới trước khi chuyển.",
+    "zh": "此订单已过期。请在转账前创建新订单。",
+    "ja": "この注文は期限切れです。送金前に新しい注文を作成してください。",
+    "ko": "이 주문은 만료되었습니다. 이체 전에 새 주문을 생성하세요.",
+    "ru": "Этот заказ истёк. Создайте новый заказ перед переводом."
+  },
+  "This payment method is not configured yet. Contact the administrator or choose another method.": {
+    "en": "This payment method is not configured yet. Contact the administrator or choose another method.",
+    "vi": "Phương thức thanh toán này chưa được cấu hình. Liên hệ quản trị viên hoặc chọn phương thức khác.",
+    "zh": "此支付方式尚未配置。请联系管理员或选择其他方式。",
+    "ja": "この支払い方法はまだ設定されていません。管理者に連絡するか、別の方法を選択してください。",
+    "ko": "이 결제 방법은 아직 구성되지 않았습니다. 관리자에게 문의하거나 다른 방법을 선택하세요.",
+    "ru": "Этот способ оплаты еще не настроен. Свяжитесь с администратором или выберите другой способ."
+  },
+  "This payment needs administrator review.": {
+    "en": "This payment needs administrator review.",
+    "vi": "Thanh toán này cần được quản trị viên xem xét.",
+    "zh": "此付款需要管理员审核。",
+    "ja": "この支払いは管理者のレビューが必要です。",
+    "ko": "이 결제는 관리자 검토가 필요합니다.",
+    "ru": "Эта оплата требует проверки администратора."
+  },
+  "This payment order was cancelled. You can choose a new plan.": {
+    "en": "This payment order was cancelled. You can choose a new plan.",
+    "vi": "Đã huỷ lệnh thanh toán. Bạn có thể chọn gói mới.",
+    "zh": "付款订单已取消。您可以选择新套餐。",
+    "ja": "支払い注文をキャンセルしました。新しいプランを選択できます。",
+    "ko": "결제가 취소되었습니다. 새 요금제를 선택할 수 있습니다.",
+    "ru": "Заказ отменён. Вы можете выбрать новый тариф."
+  },
+  "Thu nhỏ": {
+    "en": "Zoom out",
+    "vi": "Thu nhỏ",
+    "zh": "缩小",
+    "ja": "縮小",
+    "ko": "축소",
+    "ru": "Уменьшить"
+  },
+  "Time": {
+    "en": "Time",
+    "vi": "Thời gian",
+    "zh": "时间",
+    "ja": "時間",
+    "ko": "시간",
+    "ru": "Время"
+  },
+  "Time remaining": {
+    "en": "Time remaining",
+    "vi": "Thời gian còn lại",
+    "zh": "剩余时间",
+    "ja": "残り時間",
+    "ko": "남은 시간",
+    "ru": "Осталось времени"
+  },
+  "Toggle favorite": {
+    "en": "Toggle favorite",
+    "vi": "Bật tắt yêu thích",
+    "zh": "切换收藏",
+    "ja": "お気に入りを切り替える",
+    "ko": "즐겨찾기 토글",
+    "ru": "Переключить избранное"
+  },
+  "Tool": {
+    "en": "Tool",
+    "vi": "Công cụ",
+    "zh": "工具",
+    "ja": "ツール",
+    "ko": "도구",
+    "ru": "Инструмент"
+  },
+  "Tool availability": {
+    "en": "Tool availability",
+    "vi": "Trạng thái công cụ",
+    "zh": "工具可用性",
+    "ja": "ツールの利用設定",
+    "ko": "도구 사용 설정",
+    "ru": "Доступность инструментов"
+  },
+  "Total due": {
+    "en": "Total due",
+    "vi": "Tổng tiền phải trả",
+    "zh": "应付总额",
+    "ja": "合計金額",
+    "ko": "총 결제 금액",
+    "ru": "Итого к оплате"
+  },
+  "Trang sau": {
+    "en": "Trang sau",
+    "vi": "Trang sau",
+    "zh": "下一页",
+    "ja": "次のページ",
+    "ko": "다음 페이지",
+    "ru": "Следующая страница"
+  },
+  "Trang trước": {
+    "en": "Previous page",
+    "vi": "Trang trước",
+    "zh": "上一页",
+    "ja": "前のページ",
+    "ko": "이전 페이지",
+    "ru": "Предыдущая страница"
+  },
+  "Transfer reference (required)": {
+    "en": "Transfer reference (required)",
+    "vi": "Tham chiếu chuyển tiền (bắt buộc)",
+    "zh": "转账参考（必填）",
+    "ja": "送金参照（必須）",
+    "ko": "이체 참조(필수)",
+    "ru": "Ссылка на перевод (обязательно)"
+  },
+  "Translate": {
+    "en": "Translate",
+    "vi": "Dịch",
+    "zh": "翻译",
+    "ja": "翻訳",
+    "ko": "번역",
+    "ru": "Перевести"
+  },
+  "Translate Documents": {
+    "en": "Translate Documents",
+    "vi": "Dịch tài liệu",
+    "zh": "翻译文档",
+    "ja": "ドキュメントを翻訳",
+    "ko": "문서 번역",
+    "ru": "Перевести документы"
+  },
+  "Translate Office and text while preserving structure, formulas, code and links.": {
+    "en": "Translate Office and text while preserving structure, formulas, code and links.",
+    "vi": "Dịch Office và văn bản trong khi giữ nguyên cấu trúc, công thức, mã và liên kết.",
+    "zh": "翻译 Office 和文本，同时保留结构、公式、代码和链接。",
+    "ja": "構造、数式、コード、リンクを保持しながらOfficeとテキストを翻訳します。",
+    "ko": "구조, 수식, 코드 및 링크를 보존하면서 Office 및 텍스트를 번역합니다.",
+    "ru": "Перевод Office и текста с сохранением структуры, формул, кода и ссылок."
+  },
+  "Translate PDF": {
+    "en": "Translate PDF",
+    "vi": "Dịch PDF",
+    "zh": "翻译 PDF",
+    "ja": "PDFを翻訳",
+    "ko": "PDF 번역",
+    "ru": "Перевести PDF"
+  },
+  "Translate again": {
+    "en": "Translate again",
+    "vi": "Dịch lại",
+    "zh": "再次翻译",
+    "ja": "再翻訳",
+    "ko": "다시 번역",
+    "ru": "Перевести снова"
+  },
+  "Translate another PDF": {
+    "en": "Translate another PDF",
+    "vi": "Dịch PDF khác",
+    "zh": "翻译其他 PDF",
+    "ja": "別のPDFを翻訳",
+    "ko": "다른 PDF 번역",
+    "ru": "Перевести другой PDF"
+  },
+  "Translate any document,": {
+    "en": "Transler. - Translate anything.",
+    "vi": "Transler. - Dịch gì cũng được.",
+    "zh": "Transler. - 什么都能翻译。",
+    "ja": "Transler. - 何でも翻訳。",
+    "ko": "Transler. - 무엇이든 번역.",
+    "ru": "Transler. - Переводите что угодно."
+  },
+  "Translate document": {
+    "en": "Translate document",
+    "vi": "Dịch tài liệu",
+    "zh": "翻译文档",
+    "ja": "文書を翻訳",
+    "ko": "문서 번역",
+    "ru": "Перевести документ"
+  },
+  "Translate documents": {
+    "en": "Any document",
+    "vi": "Bất kỳ tài liệu nào",
+    "zh": "任何文档",
+    "ja": "あらゆる文書",
+    "ko": "모든 문서",
+    "ru": "Любые документы"
+  },
+  "Translate region": {
+    "en": "Translate region",
+    "vi": "Dịch vùng",
+    "zh": "翻译区域",
+    "ja": "翻訳領域",
+    "ko": "번역 영역",
+    "ru": "Перевод региона"
+  },
+  "Translate, edit, convert and organize your documents in one private workspace.": {
+    "en": "Translate, edit, convert and organize your documents in one private workspace.",
+    "vi": "Dịch, chỉnh sửa, chuyển đổi và tổ chức tài liệu của bạn trong một không gian làm việc riêng tư.",
+    "zh": "在一个私有工作区中翻译、编辑、转换并组织您的文档。",
+    "ja": "プライベートワークスペースで文書を翻訳、編集、変換、整理します。",
+    "ko": "개인 작업 공간에서 문서를 번역, 편집, 변환 및 정리합니다.",
+    "ru": "Перевод, редактирование, конвертация и организация ваших документов в одной приватной рабочей области."
+  },
+  "Translated · Raw + Processed": {
+    "en": "Translated · Raw + Processed",
+    "vi": "Đã dịch · Nguyên + Xử lý",
+    "zh": "已翻译 · 原始 + 处理",
+    "ja": "翻訳済み · 原文 + 処理済み",
+    "ko": "번역 완료 · 원본 + 처리됨",
+    "ru": "Переведено · Исходный + Обработанный"
+  },
+  "Translating content": {
+    "en": "Translating content",
+    "vi": "Đang dịch nội dung",
+    "zh": "正在翻译内容",
+    "ja": "コンテンツを翻訳中",
+    "ko": "콘텐츠 번역 중",
+    "ru": "Перевод контента"
+  },
+  "Translating your document…": {
+    "en": "Translating your document…",
+    "vi": "Đang dịch tài liệu của bạn…",
+    "zh": "正在翻译您的文档…",
+    "ja": "ドキュメントを翻訳中…",
+    "ko": "문서 번역 중…",
+    "ru": "Перевод вашего документа…"
+  },
+  "Translation PDF": {
+    "en": "Translation PDF",
+    "vi": "PDF bản dịch",
+    "zh": "译文 PDF",
+    "ja": "翻訳 PDF",
+    "ko": "번역 PDF",
+    "ru": "Переведённый PDF"
+  },
+  "Translation activity · last 30 days": {
+    "en": "Translation activity · last 30 days",
+    "vi": "Hoạt động dịch · 30 ngày qua",
+    "zh": "翻译活动 · 最近30天",
+    "ja": "翻訳活動 · 過去30日間",
+    "ko": "번역 활동 · 지난 30일",
+    "ru": "Деятельность по переводу · последние 30 дней"
+  },
+  "Translation cancelled": {
+    "en": "Translation cancelled",
+    "vi": "Đã hủy dịch",
+    "zh": "翻译已取消",
+    "ja": "翻訳がキャンセルされました",
+    "ko": "번역이 취소되었습니다",
+    "ru": "Перевод отменен"
+  },
+  "Translation completed!": {
+    "en": "Translation completed!",
+    "vi": "Dịch hoàn tất!",
+    "zh": "翻译完成！",
+    "ja": "翻訳完了！",
+    "ko": "번역 완료!",
+    "ru": "Перевод завершен!"
+  },
+  "Translation mode": {
+    "en": "Translation mode",
+    "vi": "Chế độ dịch",
+    "zh": "翻译模式",
+    "ja": "翻訳モード",
+    "ko": "번역 모드",
+    "ru": "Режим перевода"
+  },
+  "Translation needs attention": {
+    "en": "Translation needs attention",
+    "vi": "Dịch cần chú ý",
+    "zh": "翻译需要关注",
+    "ja": "翻訳に注意が必要",
+    "ko": "번역 주의 필요",
+    "ru": "Перевод требует внимания"
+  },
+  "Translation only": {
+    "en": "Translation only",
+    "vi": "Chỉ bản dịch",
+    "zh": "仅译文",
+    "ja": "翻訳のみ",
+    "ko": "번역만 보기",
+    "ru": "Только перевод"
+  },
+  "Translation progress": {
+    "en": "Translation progress",
+    "vi": "Tiến độ dịch",
+    "zh": "翻译进度",
+    "ja": "翻訳進捗",
+    "ko": "번역 진행률",
+    "ru": "Прогресс перевода"
+  },
+  "Translation settings": {
+    "en": "Translation settings",
+    "vi": "Cài đặt dịch",
+    "zh": "翻译设置",
+    "ja": "翻訳設定",
+    "ko": "번역 설정",
+    "ru": "Настройки перевода"
+  },
+  "Translation summary": {
+    "en": "Translation summary",
+    "vi": "Tóm tắt dịch",
+    "zh": "翻译摘要",
+    "ja": "翻訳概要",
+    "ko": "번역 요약",
+    "ru": "Сводка перевода"
+  },
+  "Translations": {
+    "en": "Translations",
+    "vi": "Các bản dịch",
+    "zh": "翻译",
+    "ja": "翻訳",
+    "ko": "번역",
+    "ru": "Переводы"
+  },
+  "Transler helps you translate, edit, and convert documents with AI while preserving the original format. Start with PDF translation, right in your browser.": {
+    "en": "Transler helps you translate, edit, and convert documents with AI while preserving the original format. Start with PDF translation, right in your browser.",
+    "vi": "Transler giúp bạn dịch, chỉnh sửa và chuyển đổi tài liệu bằng AI trong khi giữ nguyên định dạng gốc. Bắt đầu với dịch PDF, ngay trong trình duyệt của bạn.",
+    "zh": "Transler 帮助您使用 AI 翻译、编辑和转换文档，同时保留原始格式。立即在浏览器中开始 PDF 翻译。",
+    "ja": "TranslerはAIで文書を翻訳、編集、変換し、元のフォーマットを保持します。ブラウザでPDF翻訳を始めましょう。",
+    "ko": "Transler은 AI를 사용해 문서를 번역, 편집 및 변환하면서 원본 형식을 보존합니다. 브라우저에서 바로 PDF 번역을 시작하세요.",
+    "ru": "Transler помогает переводить, редактировать и конвертировать документы с помощью ИИ, сохраняя исходный формат. Начните перевод PDF прямо в браузере."
+  },
+  "Transler home": {
+    "en": "Transler home",
+    "vi": "Trang chủ Transler",
+    "zh": "Transler 首页",
+    "ja": "Transler ホーム",
+    "ko": "Transler 홈",
+    "ru": "Главная Transler"
+  },
+  "Transler · Made for understanding.": {
+    "en": "Transler · Made for understanding.",
+    "vi": "Transler · Được tạo để hiểu",
+    "zh": "Transler · 为理解而生",
+    "ja": "Transler · 理解のために作られた",
+    "ko": "Transler · 이해를 위해 만들어진",
+    "ru": "Transler · Создано для понимания"
+  },
+  "Transler · Private document workspace": {
+    "en": "Transler · Private document workspace",
+    "vi": "Transler · Không gian làm việc tài liệu riêng tư",
+    "zh": "Transler · 私有文档工作区",
+    "ja": "Transler · プライベートドキュメントワークスペース",
+    "ko": "Transler · 개인 문서 작업 공간",
+    "ru": "Transler · Приватное рабочее пространство документов"
+  },
+  "Trash": {
+    "en": "Trash",
+    "vi": "Thùng rác",
+    "zh": "垃圾桶",
+    "ja": "ゴミ箱",
+    "ko": "휴지통",
+    "ru": "Корзина"
+  },
+  "USD price (cents)": {
+    "en": "USD price (cents)",
+    "vi": "Giá USD (cent)",
+    "zh": "美元价格（分）",
+    "ja": "USD価格（セント）",
+    "ko": "USD 가격(센트)",
+    "ru": "Цена USD (центы)"
+  },
+  "UTC date": {
+    "en": "UTC date",
+    "vi": "Ngày UTC",
+    "zh": "UTC 日期",
+    "ja": "UTC 日付",
+    "ko": "UTC 날짜",
+    "ru": "Дата UTC"
+  },
+  "Unable to load the payment QR code. Refresh this page to try again.": {
+    "en": "Unable to load the payment QR code. Refresh this page to try again.",
+    "vi": "Không tải được mã QR thanh toán. Tải lại trang để thử lại.",
+    "zh": "无法加载付款二维码。请刷新页面重试。",
+    "ja": "支払い用QRコードを読み込めません。ページを再読み込みして再試行してください。",
+    "ko": "결제 QR 코드를 불러올 수 없습니다. 페이지를 새로고침하여 다시 시도하세요.",
+    "ru": "Не удалось загрузить QR-код оплаты. Обновите страницу и попробуйте снова."
+  },
+  "Unable to preview PDF:": {
+    "en": "Unable to preview PDF:",
+    "vi": "Không thể xem trước PDF:",
+    "zh": "无法预览 PDF:",
+    "ja": "PDF のプレビューに失敗しました:",
+    "ko": "PDF 미리보기가 불가능합니다:",
+    "ru": "Невозможно предварительно просмотреть PDF:"
+  },
+  "Unable to render page:": {
+    "en": "Unable to render page:",
+    "vi": "Không thể hiển thị trang:",
+    "zh": "无法渲染页面:",
+    "ja": "ページのレンダリングに失敗しました:",
+    "ko": "페이지 렌더링에 실패했습니다:",
+    "ru": "Невозможно отобразить страницу:"
+  },
+  "Undo": {
+    "en": "Undo",
+    "vi": "Hoàn tác",
+    "zh": "撤销",
+    "ja": "元に戻す",
+    "ko": "되돌리기",
+    "ru": "Отменить"
+  },
+  "Unlock PDF": {
+    "en": "Unlock PDF",
+    "vi": "Mở khóa PDF",
+    "zh": "解锁 PDF",
+    "ja": "PDFのロックを解除",
+    "ko": "PDF 잠금 해제",
+    "ru": "Разблокировать PDF"
+  },
+  "Unmodified source": {
+    "en": "Unmodified source",
+    "vi": "Nguồn chưa sửa đổi",
+    "zh": "未修改的源文件",
+    "ja": "変更されていないソース",
+    "ko": "수정되지 않은 소스",
+    "ru": "Неизменённый исходный"
+  },
+  "Up to": {
+    "en": "Up to",
+    "vi": "Tối đa",
+    "zh": "最高",
+    "ja": "最大",
+    "ko": "최대",
+    "ru": "До"
+  },
+  "Upgrade": {
+    "en": "Upgrade",
+    "vi": "Nâng cấp",
+    "zh": "升级",
+    "ja": "アップグレード",
+    "ko": "업그레이드",
+    "ru": "Обновить"
+  },
+  "Upgrade Plan": {
+    "en": "Upgrade Plan",
+    "vi": "Nâng cấp gói",
+    "zh": "升级套餐",
+    "ja": "プランをアップグレード",
+    "ko": "플랜 업그레이드",
+    "ru": "Обновить план"
+  },
+  "Upgrade plan": {
+    "en": "Upgrade plan",
+    "vi": "Nâng cấp gói",
+    "zh": "升级套餐",
+    "ja": "プランをアップグレード",
+    "ko": "플랜 업그레이드",
+    "ru": "Обновить план"
+  },
+  "Upgrade to Pro": {
+    "en": "Upgrade to Pro",
+    "vi": "Nâng cấp lên Pro",
+    "zh": "升级至 Pro",
+    "ja": "Pro にアップグレード",
+    "ko": "Pro로 업그레이드",
+    "ru": "Перейти на Pro"
+  },
+  "Upload Office or text": {
+    "en": "Upload Office or text",
+    "vi": "Tải lên Office hoặc văn bản",
+    "zh": "上传 Office 或文本",
+    "ja": "Office またはテキストをアップロード",
+    "ko": "Office 또는 텍스트 업로드",
+    "ru": "Загрузить Office или текст"
+  },
+  "Upload PDF": {
+    "en": "Upload PDF",
+    "vi": "Tải lên PDF",
+    "zh": "上传 PDF",
+    "ja": "PDF をアップロード",
+    "ko": "PDF 업로드",
+    "ru": "Загрузить PDF"
+  },
+  "Upload a PDF file or enter a link to get started.": {
+    "en": "Upload a PDF file or enter a link to get started.",
+    "vi": "Tải lên tệp PDF hoặc nhập liên kết để bắt đầu.",
+    "zh": "上传 PDF 文件或输入链接以开始。",
+    "ja": "PDF ファイルをアップロードするか、リンクを入力して開始します。",
+    "ko": "PDF 파일을 업로드하거나 링크를 입력하여 시작하세요.",
+    "ru": "Загрузите PDF-файл или введите ссылку, чтобы начать."
+  },
+  "Upload a PDF to keep its raw file and processed versions together.": {
+    "en": "Upload a PDF to keep its raw file and processed versions together.",
+    "vi": "Tải lên PDF để giữ nguyên tệp gốc và các phiên bản đã xử lý cùng nhau.",
+    "zh": "上传 PDF 以将原始文件和处理版本一起保留。",
+    "ja": "PDF をアップロードして、元のファイルと処理済みバージョンを一緒に保持します。",
+    "ko": "PDF를 업로드하여 원본 파일과 처리된 버전을 함께 보관하세요.",
+    "ru": "Загрузите PDF, чтобы сохранить исходный файл и обработанные версии вместе."
+  },
+  "Upload document": {
+    "en": "Upload document",
+    "vi": "Tải lên tài liệu",
+    "zh": "上传文档",
+    "ja": "ドキュメントをアップロード",
+    "ko": "문서 업로드",
+    "ru": "Загрузить документ"
+  },
+  "Upload your first PDF to see it here.": {
+    "en": "Upload your first PDF to see it here.",
+    "vi": "Tải lên PDF đầu tiên của bạn để xem ở đây.",
+    "zh": "上传您的第一个 PDF 以在此查看。",
+    "ja": "最初の PDF をアップロードして、ここで表示します。",
+    "ko": "첫 번째 PDF를 업로드하여 여기에서 확인하세요.",
+    "ru": "Загрузите свой первый PDF, чтобы увидеть его здесь."
+  },
+  "Usage": {
+    "en": "Usage",
+    "vi": "Sử dụng",
+    "zh": "使用",
+    "ja": "使用",
+    "ko": "사용",
+    "ru": "Использование"
+  },
+  "Use a public HTTPS link pointing directly to a PDF.": {
+    "en": "Use a public HTTPS link pointing directly to a PDF.",
+    "vi": "Sử dụng liên kết HTTPS công khai trỏ trực tiếp tới PDF.",
+    "zh": "使用直接指向 PDF 的公共 HTTPS 链接。",
+    "ja": "PDF への直接リンクを指す公開 HTTPS リンクを使用します。",
+    "ko": "PDF를 직접 가리키는 공개 HTTPS 링크를 사용하세요.",
+    "ru": "Используйте общедоступную ссылку HTTPS, указывающую напрямую на PDF."
+  },
+  "Use a reachable HTTPS endpoint for provider delivery. Set prices in Plans before accepting checkout.": {
+    "en": "Use a reachable HTTPS endpoint for provider delivery. Set prices in Plans before accepting checkout.",
+    "vi": "Sử dụng điểm cuối HTTPS có thể truy cập được cho nhà cung cấp. Đặt giá trong Gói trước khi chấp nhận thanh toán.",
+    "zh": "使用可访问的 HTTPS 端点进行提供商交付。在接受结账前在套餐中设置价格。",
+    "ja": "プロバイダー配信用に到達可能な HTTPS エンドポイントを使用します。チェックアウト前にプランで価格を設定してください。",
+    "ko": "공급자 전달용에 접근 가능한 HTTPS 엔드포인트를 사용하세요. 결제 수락 전 플랜에서 가격을 설정하세요.",
+    "ru": "Используйте доступный HTTPS‑конечный пункт для поставщика. Установите цены в Планах до подтверждения оплаты."
+  },
+  "Use at least 12 characters.": {
+    "en": "Use at least 12 characters.",
+    "vi": "Sử dụng ít nhất 12 ký tự",
+    "zh": "至少使用12个字符",
+    "ja": "12文字以上を使用してください",
+    "ko": "12자 이상 사용하세요",
+    "ru": "Используйте не менее 12 символов"
+  },
+  "User": {
+    "en": "User",
+    "vi": "Người dùng",
+    "zh": "用户",
+    "ja": "ユーザー",
+    "ko": "사용자",
+    "ru": "Пользователь"
+  },
+  "VND price": {
+    "en": "VND price",
+    "vi": "Giá VND",
+    "zh": "VND 价格",
+    "ja": "VND価格",
+    "ko": "VND 가격",
+    "ru": "Цена VND"
+  },
+  "Verified USD revenue": {
+    "en": "Verified USD revenue",
+    "vi": "Doanh thu USD đã xác minh",
+    "zh": "已验证的美元收入",
+    "ja": "検証済みUSD収益",
+    "ko": "검증된 USD 수익",
+    "ru": "Подтверждённый доход USD"
+  },
+  "Verified VND revenue": {
+    "en": "Verified VND revenue",
+    "vi": "Doanh thu VND đã xác minh",
+    "zh": "已验证的越南盾收入",
+    "ja": "検証済みVND収益",
+    "ko": "검증된 VND 수익",
+    "ru": "Подтверждённый доход VND"
+  },
+  "Verify the bank or Stripe transaction before confirming. This activates the plan and records your administrator ID in the audit log.": {
+    "en": "Verify the bank or Stripe transaction before confirming. This activates the plan and records your administrator ID in the audit log.",
+    "vi": "Xác minh giao dịch ngân hàng hoặc Stripe trước khi xác nhận. Điều này kích hoạt gói và ghi nhận ID quản trị viên của bạn trong nhật ký kiểm tra",
+    "zh": "在确认之前验证银行或Stripe交易。这将激活套餐并在审计日志中记录您的管理员ID",
+    "ja": "確認前に銀行またはStripeの取引を確認してください。これによりプランが有効化され、管理者IDが監査ログに記録されます",
+    "ko": "확인 전에 은행 또는 Stripe 거래를 확인하세요. 이렇게 하면 플랜이 활성화되고 관리자 ID가 감사 로그에 기록됩니다",
+    "ru": "Проверьте транзакцию банка или Stripe перед подтверждением. Это активирует план и зафиксирует ваш ID администратора в журнале аудита"
+  },
+  "View all": {
+    "en": "View all",
+    "vi": "Xem tất cả",
+    "zh": "查看全部",
+    "ja": "すべて表示",
+    "ko": "모두 보기",
+    "ru": "Просмотреть все"
+  },
+  "View daily statistics": {
+    "en": "View daily statistics",
+    "vi": "Xem thống kê hàng ngày",
+    "zh": "查看每日统计",
+    "ja": "日次統計を表示",
+    "ko": "일별 통계 보기",
+    "ru": "Просмотреть ежедневную статистику"
+  },
+  "View raw PDF": {
+    "en": "View raw PDF",
+    "vi": "Xem PDF gốc",
+    "zh": "查看原始PDF",
+    "ja": "元のPDFを表示",
+    "ko": "원본 PDF 보기",
+    "ru": "Просмотреть исходный PDF"
+  },
+  "View your usage, plan and billing details.": {
+    "en": "View your usage, plan and billing details.",
+    "vi": "Xem sử dụng, gói và chi tiết thanh toán của bạn",
+    "zh": "查看您的使用情况、套餐和计费详情",
+    "ja": "使用状況、プラン、請求詳細を表示",
+    "ko": "사용량, 플랜 및 청구 세부 정보 보기",
+    "ru": "Просмотреть ваше использование, план и детали биллинга"
+  },
+  "Waiting for payment verification…": {
+    "en": "Waiting for payment verification…",
+    "vi": "Đang chờ xác nhận thanh toán…",
+    "zh": "等待确认付款…",
+    "ja": "お支払いの確認待ち…",
+    "ko": "결제 확인 대기 중…",
+    "ru": "Ожидаем подтверждения оплаты…"
+  },
+  "Waiting…": {
+    "en": "Waiting…",
+    "vi": "Đang chờ…",
+    "zh": "等待中…",
+    "ja": "待機中…",
+    "ko": "대기 중…",
+    "ru": "Ожидание…"
+  },
+  "Warnings": {
+    "en": "Warnings",
+    "vi": "Cảnh báo",
+    "zh": "警告",
+    "ja": "警告",
+    "ko": "경고",
+    "ru": "Предупреждения"
+  },
+  "Watch video": {
+    "en": "Watch video",
+    "vi": "Xem video",
+    "zh": "观看视频",
+    "ja": "動画を見る",
+    "ko": "비디오 보기",
+    "ru": "Смотреть видео"
+  },
+  "We couldn't finish that request": {
+    "en": "We couldn't finish that request",
+    "vi": "Không thể hoàn thành yêu cầu đó",
+    "zh": "无法完成该请求",
+    "ja": "そのリクエストを完了できませんでした",
+    "ko": "해당 요청을 완료할 수 없습니다",
+    "ru": "Не удалось завершить запрос"
+  },
+  "Web document": {
+    "en": "Web document",
+    "vi": "Tài liệu web",
+    "zh": "网页文档",
+    "ja": "ウェブドキュメント",
+    "ko": "웹 문서",
+    "ru": "Веб-документ"
+  },
+  "Webhook API key": {
+    "en": "Webhook API key",
+    "vi": "Khóa API webhook",
+    "zh": "Webhook API 密钥",
+    "ja": "Webhook APIキー",
+    "ko": "Webhook API 키",
+    "ru": "Ключ API webhook"
+  },
+  "Webhook endpoint": {
+    "en": "Webhook endpoint",
+    "vi": "Điểm cuối webhook",
+    "zh": "Webhook 端点",
+    "ja": "Webhookエンドポイント",
+    "ko": "Webhook 엔드포인트",
+    "ru": "Точка входа webhook"
+  },
+  "Webhook events": {
+    "en": "Webhook events",
+    "vi": "Sự kiện webhook",
+    "zh": "Webhook 事件",
+    "ja": "Webhookイベント",
+    "ko": "Webhook 이벤트",
+    "ru": "События webhook"
+  },
+  "Webhook key required": {
+    "en": "Webhook key required",
+    "vi": "Yêu cầu khóa webhook",
+    "zh": "需要Webhook密钥",
+    "ja": "Webhookキーが必要です",
+    "ko": "Webhook 키가 필요합니다",
+    "ru": "Требуется ключ webhook"
+  },
+  "Webhook signing secret": {
+    "en": "Webhook signing secret",
+    "vi": "Bí mật ký webhook",
+    "zh": "Webhook签名密钥",
+    "ja": "Webhook署名シークレット",
+    "ko": "Webhook 서명 비밀",
+    "ru": "Секрет подписи webhook"
+  },
+  "Website": {
+    "en": "Website",
+    "vi": "Trang web",
+    "zh": "网站",
+    "ja": "ウェブサイト",
+    "ko": "웹사이트",
+    "ru": "Веб-сайт"
+  },
+  "Welcome back": {
+    "en": "Welcome back",
+    "vi": "Chào mừng trở lại",
+    "zh": "欢迎回来",
+    "ja": "ようこそ、戻ってきました",
+    "ko": "다시 오신 것을 환영합니다",
+    "ru": "Добро пожаловать обратно"
+  },
+  "We’re working on your document": {
+    "en": "We’re working on your document",
+    "vi": "Chúng tôi đang làm việc trên tài liệu của bạn",
+    "zh": "我们正在处理您的文档",
+    "ja": "ドキュメントを作業中です",
+    "ko": "문서를 작업 중입니다",
+    "ru": "Мы работаем над вашим документом"
+  },
+  "What would you like to do today?": {
+    "en": "What would you like to do today?",
+    "vi": "Bạn muốn làm gì hôm nay?",
+    "zh": "今天您想做什么？",
+    "ja": "今日は何をしたいですか？",
+    "ko": "오늘 무엇을 하고 싶으세요?",
+    "ru": "Что вы хотите сделать сегодня?"
+  },
+  "Where are we translating to?": {
+    "en": "Where are we translating to?",
+    "vi": "Chúng ta đang dịch sang đâu?",
+    "zh": "我们正在翻译到哪里？",
+    "ja": "どこに翻訳しますか？",
+    "ko": "어디로 번역하고 있나요?",
+    "ru": "Куда мы переводим?"
+  },
+  "Word": {
+    "en": "Word",
+    "vi": "Word",
+    "zh": "Word",
+    "ja": "Word",
+    "ko": "Word",
+    "ru": "Word"
+  },
+  "Word, PPT, Excel, and more": {
+    "en": "Word, PPT, Excel, and more",
+    "vi": "Word, PPT, Excel và nhiều hơn",
+    "zh": "Word、PPT、Excel 等",
+    "ja": "Word、PPT、Excel など",
+    "ko": "Word, PPT, Excel 및 기타",
+    "ru": "Word, PPT, Excel и др."
+  },
+  "Workspace unavailable": {
+    "en": "Workspace unavailable",
+    "vi": "Không có không gian làm việc",
+    "zh": "工作区不可用",
+    "ja": "ワークスペースが利用できません",
+    "ko": "작업 공간을 사용할 수 없습니다",
+    "ru": "Рабочее пространство недоступно"
+  },
+  "YOUR DOCUMENT": {
+    "en": "YOUR DOCUMENT",
+    "vi": "TÀI LIỆU CỦA BẠN",
+    "zh": "您的文档",
+    "ja": "あなたのドキュメント",
+    "ko": "귀하의 문서",
+    "ru": "ВАШ ДОКУМЕНТ"
+  },
+  "YOUR DOCUMENT, YOUR WORKSPACE": {
+    "en": "YOUR DOCUMENT, YOUR WORKSPACE",
+    "vi": "TÀI LIỆU CỦA BẠN, KHÔNG GIAN LÀM VIỆC CỦA BẠN",
+    "zh": "您的文档，您的工作区",
+    "ja": "あなたのドキュメント、あなたのワークスペース",
+    "ko": "귀하의 문서, 귀하의 작업 공간",
+    "ru": "ВАШ ДОКУМЕНТ, ВАША РАБОЧАЯ ОБЛАСТЬ"
+  },
+  "Yearly": {
+    "en": "Yearly",
+    "vi": "Hàng năm",
+    "zh": "年度",
+    "ja": "年額",
+    "ko": "연간",
+    "ru": "Годовой"
+  },
+  "Yearly · 365 days": {
+    "en": "Yearly · 365 days",
+    "vi": "Hàng năm · 365 ngày",
+    "zh": "年度 · 365 天",
+    "ja": "年額 · 365日",
+    "ko": "연간 · 365일",
+    "ru": "Годовой · 365 дней"
+  },
+  "You're good to go": {
+    "en": "You're good to go",
+    "vi": "Bạn đã sẵn sàng",
+    "zh": "您已准备就绪",
+    "ja": "準備完了です",
+    "ko": "준비가 완료되었습니다",
+    "ru": "Вы готовы"
+  },
+  "Your current guest documents will stay with this account.": {
+    "en": "Your current guest documents will stay with this account.",
+    "vi": "Các tài liệu khách hàng hiện tại của bạn sẽ được giữ với tài khoản này.",
+    "zh": "您当前的访客文档将保留在此帐户中。",
+    "ja": "現在のゲストドキュメントはこのアカウントに残ります",
+    "ko": "현재 게스트 문서는 이 계정에 남아 있습니다",
+    "ru": "Текущие гостевые документы останутся в этом аккаунте"
+  },
+  "Your current plan": {
+    "en": "Your current plan",
+    "vi": "Gói hiện tại của bạn",
+    "zh": "您当前的套餐",
+    "ja": "現在のプラン",
+    "ko": "현재 플랜",
+    "ru": "Ваш текущий план"
+  },
+  "Your document goes here": {
+    "en": "Your document goes here",
+    "vi": "Tài liệu của bạn sẽ ở đây",
+    "zh": "您的文档将放在这里",
+    "ja": "あなたのドキュメントはここにあります",
+    "ko": "귀하의 문서는 여기 있습니다",
+    "ru": "Ваш документ будет здесь"
+  },
+  "Your document has been successfully translated.": {
+    "en": "Your document has been successfully translated.",
+    "vi": "Tài liệu của bạn đã được dịch thành công",
+    "zh": "您的文档已成功翻译",
+    "ja": "ドキュメントの翻訳が完了しました",
+    "ko": "문서가 성공적으로 번역되었습니다",
+    "ru": "Ваш документ успешно переведен"
+  },
+  "Your documents will appear here": {
+    "en": "Your documents will appear here",
+    "vi": "Các tài liệu của bạn sẽ xuất hiện ở đây",
+    "zh": "您的文档将显示在此处",
+    "ja": "あなたのドキュメントはここに表示されます",
+    "ko": "귀하의 문서는 여기 표시됩니다",
+    "ru": "Ваши документы появятся здесь"
+  },
+  "Your documents.": {
+    "en": "Your documents.",
+    "vi": "Các tài liệu của bạn",
+    "zh": "您的文档",
+    "ja": "あなたのドキュメント",
+    "ko": "귀하의 문서",
+    "ru": "Ваши документы"
+  },
+  "Your files are protected.": {
+    "en": "Your files are protected.",
+    "vi": "Tệp của bạn được bảo vệ",
+    "zh": "您的文件已受保护",
+    "ja": "ファイルは保護されています",
+    "ko": "파일이 보호됩니다",
+    "ru": "Ваши файлы защищены"
+  },
+  "Your name and account details.": {
+    "en": "Your name and account details.",
+    "vi": "Tên và thông tin tài khoản của bạn.",
+    "zh": "您的姓名和帐户详细信息。",
+    "ja": "あなたの名前とアカウント情報。",
+    "ko": "귀하의 이름 및 계정 정보.",
+    "ru": "Ваше имя и данные аккаунта."
+  },
+  "Your order is reserved. Complete or cancel it before starting another payment.": {
+    "en": "Your order is reserved. Complete or cancel it before starting another payment.",
+    "vi": "Lệnh thanh toán đang chờ. Hoàn tất hoặc huỷ lệnh này trước khi tạo lệnh mới.",
+    "zh": "订单正在等待付款。请先完成或取消此订单，再创建新订单。",
+    "ja": "注文は支払い待ちです。新しい注文を作成する前に、この注文を完了またはキャンセルしてください。",
+    "ko": "결제 대기 중입니다. 새 결제를 시작하기 전에 이 주문을 완료하거나 취소하세요.",
+    "ru": "Заказ ожидает оплаты. Завершите или отмените его перед созданием нового."
+  },
+  "Your original PDF is never overwritten. A new translated PDF will be saved in your library.": {
+    "en": "Your original PDF is never overwritten. A new translated PDF will be saved in your library.",
+    "vi": "Tệp PDF gốc của bạn không bao giờ bị ghi đè. Tệp PDF đã dịch mới sẽ được lưu trong thư viện của bạn.",
+    "zh": "您的原始 PDF 永不被覆盖。新的翻译 PDF 将保存在您的库中。",
+    "ja": "元のPDFは上書きされません。新しい翻訳PDFがライブラリに保存されます。",
+    "ko": "원본 PDF는 절대 덮어쓰지 않습니다. 새 번역 PDF가 라이브러리에 저장됩니다.",
+    "ru": "Ваш оригинальный PDF никогда не перезаписывается. Новый переведённый PDF будет сохранён в вашей библиотеке."
+  },
+  "Your original document is safe in your library.": {
+    "en": "Your original document is safe in your library.",
+    "vi": "Tài liệu gốc của bạn được an toàn trong thư viện của bạn.",
+    "zh": "您的原始文件安全保存在您的库中。",
+    "ja": "元のドキュメントはライブラリに安全に保管されます。",
+    "ko": "원본 문서는 개인 라이브러리에 안전하게 보관됩니다.",
+    "ru": "Ваш оригинальный документ безопасно хранится в вашей библиотеке."
+  },
+  "Your original file stays in your private library.": {
+    "en": "Your original file stays in your private library.",
+    "vi": "Tệp gốc của bạn vẫn ở trong thư viện riêng tư của bạn.",
+    "zh": "您的原始文件保留在您的私人库中。",
+    "ja": "元ファイルはプライベートライブラリに残ります。",
+    "ko": "원본 파일은 개인 라이브러리에 남아 있습니다.",
+    "ru": "Ваш исходный файл остаётся в личной библиотеке."
+  },
+  "Your payment is verified. Your plan is active.": {
+    "en": "Your payment is verified. Your plan is active.",
+    "vi": "Thanh toán của bạn đã được xác minh. Gói của bạn đang hoạt động.",
+    "zh": "您的付款已验证。您的套餐已激活。",
+    "ja": "お支払いが確認されました。プランが有効です。",
+    "ko": "결제가 확인되었습니다. 플랜이 활성화되었습니다.",
+    "ru": "Ваш платеж подтверждён. План активен."
+  },
+  "Your plan": {
+    "en": "Your plan",
+    "vi": "Gói của bạn",
+    "zh": "您的套餐",
+    "ja": "あなたのプラン",
+    "ko": "현재 요금제",
+    "ru": "Ваш тариф"
+  },
+  "Your plan activates after payment verification.": {
+    "en": "Your plan activates after payment verification.",
+    "vi": "Gói của bạn sẽ kích hoạt sau khi xác minh thanh toán.",
+    "zh": "付款验证后，您的套餐将激活。",
+    "ja": "支払い確認後にプランが有効になります。",
+    "ko": "결제 확인 후 플랜이 활성화됩니다.",
+    "ru": "Ваш план активируется после подтверждения платежа."
+  },
+  "Your plan, usage and private workspace.": {
+    "en": "Your plan, usage and private workspace.",
+    "vi": "Gói, sử dụng và không gian làm việc riêng tư của bạn.",
+    "zh": "您的套餐、使用情况和私人工作区。",
+    "ja": "あなたのプラン、使用状況、プライベートワークスペース",
+    "ko": "귀하의 플랜, 사용량 및 개인 작업 공간",
+    "ru": "Ваш план, использование и частное рабочее пространство"
+  },
+  "Your purchases, all in one place.": {
+    "en": "Your purchases, all in one place.",
+    "vi": "Mua hàng của bạn, tất cả trong một nơi.",
+    "zh": "您的购买，全部集中在一个地方。",
+    "ja": "購入履歴を一元管理",
+    "ko": "구매 내역을 한 곳에서 확인",
+    "ru": "Ваши покупки, все в одном месте"
+  },
+  "Your raw file and every completed version remain in your private library.": {
+    "en": "Your raw file and every completed version remain in your private library.",
+    "vi": "Tệp gốc và mọi phiên bản hoàn chỉnh vẫn còn trong thư viện riêng tư của bạn.",
+    "zh": "您的原始文件和所有已完成版本仍保留在您的私人库中。",
+    "ja": "元ファイルとすべての完成版がプライベートライブラリに残ります。",
+    "ko": "원본 파일과 모든 완성본이 개인 라이브러리에 남아 있습니다.",
+    "ru": "Ваш исходный файл и все завершённые версии остаются в личной библиотеке."
+  },
+  "Your raw files and processed versions, together.": {
+    "en": "Your raw files and processed versions, together.",
+    "vi": "Tệp gốc và các phiên bản đã xử lý, cùng nhau.",
+    "zh": "原始文件和处理后的版本，一起保留。",
+    "ja": "元ファイルと処理済みバージョンを一緒に保管",
+    "ko": "원본 파일과 처리된 버전을 함께 보관",
+    "ru": "Исходные файлы и обработанные версии вместе"
+  },
+  "Your trash is empty": {
+    "en": "Your trash is empty",
+    "vi": "Thùng rác của bạn trống",
+    "zh": "您的垃圾箱为空",
+    "ja": "ゴミ箱は空です",
+    "ko": "휴지통이 비어 있습니다",
+    "ru": "Корзина пуста"
+  },
+  "Your workspace is ready": {
+    "en": "Your workspace is ready",
+    "vi": "Không gian làm việc của bạn đã sẵn sàng",
+    "zh": "您的工作区已准备就绪",
+    "ja": "ワークスペースが準備完了",
+    "ko": "작업 공간이 준비되었습니다",
+    "ru": "Ваш рабочий пространство готово"
+  },
+  "Zoom": {
+    "en": "Zoom",
+    "vi": "Thu phóng",
+    "zh": "缩放",
+    "ja": "ズーム",
+    "ko": "확대/축소",
+    "ru": "Масштаб"
+  },
+  "Zoom in": {
+    "en": "Zoom in",
+    "vi": "Phóng to",
+    "zh": "放大",
+    "ja": "ズームイン",
+    "ko": "확대",
+    "ru": "Увеличить"
+  },
+  "Zoom out": {
+    "en": "Zoom out",
+    "vi": "Thu nhỏ",
+    "zh": "缩小",
+    "ja": "ズームアウト",
+    "ko": "축소",
+    "ru": "Уменьшить"
+  },
+  "accounts": {
+    "en": "accounts",
+    "vi": "tài khoản",
+    "zh": "账户",
+    "ja": "アカウント",
+    "ko": "계정",
+    "ru": "аккаунты"
+  },
+  "admin": {
+    "en": "admin",
+    "vi": "quản trị viên",
+    "zh": "管理员",
+    "ja": "管理者",
+    "ko": "관리자",
+    "ru": "администратор"
+  },
+  "audit": {
+    "en": "audit",
+    "vi": "Nhật ký",
+    "zh": "审计日志",
+    "ja": "監査ログ",
+    "ko": "활동 로그",
+    "ru": "Журнал действий"
+  },
+  "cancelled": {
+    "en": "cancelled",
+    "vi": "đã hủy",
+    "zh": "已取消",
+    "ja": "キャンセル済み",
+    "ko": "취소됨",
+    "ru": "отменено"
+  },
+  "cancelling": {
+    "en": "cancelling",
+    "vi": "đang hủy",
+    "zh": "正在取消",
+    "ja": "キャンセル中",
+    "ko": "취소 중",
+    "ru": "отмена"
+  },
+  "completed": {
+    "en": "completed",
+    "vi": "hoàn tất",
+    "zh": "已完成",
+    "ja": "完了",
+    "ko": "완료",
+    "ru": "завершено"
+  },
+  "concurrent processing jobs": {
+    "en": "concurrent processing jobs",
+    "vi": "Công việc xử lý đồng thời",
+    "zh": "并发处理作业",
+    "ja": "同時処理ジョブ",
+    "ko": "동시 처리 작업",
+    "ru": "одновременные задачи обработки"
+  },
+  "days": {
+    "en": "days",
+    "vi": "ngày",
+    "zh": "天",
+    "ja": "日",
+    "ko": "일",
+    "ru": "дней"
+  },
+  "days of access": {
+    "en": "days of access",
+    "vi": "ngày truy cập",
+    "zh": "访问天数",
+    "ja": "アクセス日数",
+    "ko": "접근 일수",
+    "ru": "дней доступа"
+  },
+  "documents ·": {
+    "en": "documents ·",
+    "vi": "tài liệu ·",
+    "zh": "文档 ·",
+    "ja": "ドキュメント ·",
+    "ko": "문서 ·",
+    "ru": "документы ·"
+  },
+  "docx": {
+    "en": "docx",
+    "vi": "docx",
+    "zh": "docx",
+    "ja": "docx",
+    "ko": "docx",
+    "ru": "docx"
+  },
+  "e.g. machine learning": {
+    "en": "e.g. machine learning",
+    "vi": "ví dụ. học máy",
+    "zh": "例如机器学习",
+    "ja": "例：機械学習",
+    "ko": "예: 기계 학습",
+    "ru": "например, машинное обучение"
+  },
+  "expired": {
+    "en": "expired",
+    "vi": "hết hạn",
+    "zh": "已过期",
+    "ja": "期限切れ",
+    "ko": "만료됨",
+    "ru": "истекло"
+  },
+  "failed": {
+    "en": "failed",
+    "vi": "thất bại",
+    "zh": "失败",
+    "ja": "失敗",
+    "ko": "실패",
+    "ru": "ошибка"
+  },
+  "gateways": {
+    "en": "gateways",
+    "vi": "Cổng thanh toán",
+    "zh": "支付网关",
+    "ja": "決済ゲートウェイ",
+    "ko": "결제 게이트웨이",
+    "ru": "Платёжные шлюзы"
+  },
+  "https://example.com/document.pdf": {
+    "en": "https://example.com/document.pdf",
+    "vi": "https://example.com/document.pdf",
+    "zh": "https://example.com/document.pdf",
+    "ja": "https://example.com/document.pdf",
+    "ko": "https://example.com/document.pdf",
+    "ru": "https://example.com/document.pdf"
+  },
+  "keep the original layout.": {
+    "en": "Any document",
+    "vi": "Bất kỳ tài liệu nào",
+    "zh": "任何文档",
+    "ja": "あらゆる文書",
+    "ko": "모든 문서",
+    "ru": "Любые документы"
+  },
+  "layout ↗": {
+    "en": "layout ↗",
+    "vi": "bố cục ↗",
+    "zh": "布局 ↗",
+    "ja": "レイアウト ↗",
+    "ko": "레이아웃 ↗",
+    "ru": "макет ↗"
+  },
+  "month": {
+    "en": "month",
+    "vi": "tháng",
+    "zh": "月",
+    "ja": "月",
+    "ko": "월",
+    "ru": "месяц"
+  },
+  "monthly": {
+    "en": "monthly",
+    "vi": "hàng tháng",
+    "zh": "每月",
+    "ja": "毎月",
+    "ko": "월간",
+    "ru": "ежемесячно"
+  },
+  "move_block": {
+    "en": "move_block",
+    "vi": "move_block",
+    "zh": "move_block",
+    "ja": "move_block",
+    "ko": "move_block",
+    "ru": "move_block"
+  },
+  "ocr": {
+    "en": "ocr",
+    "vi": "ocr",
+    "zh": "ocr",
+    "ja": "ocr",
+    "ko": "ocr",
+    "ru": "ocr"
+  },
+  "of": {
+    "en": "of",
+    "vi": "của",
+    "zh": "的",
+    "ja": "の",
+    "ko": "의",
+    "ru": "из"
+  },
+  "of 30 pages per file": {
+    "en": "of 30 pages per file",
+    "vi": "của 30 trang mỗi tệp",
+    "zh": "每文件30页",
+    "ja": "ファイルあたり30ページ",
+    "ko": "파일당 30페이지",
+    "ru": "30 страниц на файл"
+  },
+  "or choose a file from your computer": {
+    "en": "or choose a file from your computer",
+    "vi": "hoặc chọn tệp từ máy tính",
+    "zh": "或从电脑选择文件",
+    "ja": "またはコンピュータからファイルを選択",
+    "ko": "또는 컴퓨터에서 파일 선택",
+    "ru": "или выберите файл с компьютера"
+  },
+  "or import from a link": {
+    "en": "or import from a link",
+    "vi": "hoặc nhập từ liên kết",
+    "zh": "或从链接导入",
+    "ja": "またはリンクからインポート",
+    "ko": "또는 링크에서 가져오기",
+    "ru": "или импортировать из ссылки"
+  },
+  "overview": {
+    "en": "overview",
+    "vi": "Tổng quan",
+    "zh": "概览",
+    "ja": "概要",
+    "ko": "개요",
+    "ru": "Обзор"
+  },
+  "pages": {
+    "en": "pages",
+    "vi": "trang",
+    "zh": "页",
+    "ja": "ページ",
+    "ko": "페이지",
+    "ru": "страниц"
+  },
+  "pages / units": {
+    "en": "pages / units",
+    "vi": "trang / đơn vị",
+    "zh": "页/单位",
+    "ja": "ページ/単位",
+    "ko": "페이지/단위",
+    "ru": "страниц / единиц"
+  },
+  "pages each calendar month": {
+    "en": "pages each calendar month",
+    "vi": "số trang mỗi tháng",
+    "zh": "每月页面数",
+    "ja": "各カレンダー月のページ数",
+    "ko": "달마다 페이지 수",
+    "ru": "страниц в каждом календарном месяце"
+  },
+  "pages per file": {
+    "en": "pages per file",
+    "vi": "số trang mỗi tệp",
+    "zh": "每文件页面数",
+    "ja": "ファイルあたりのページ数",
+    "ko": "파일당 페이지 수",
+    "ru": "страниц на файл"
+  },
+  "pages this month": {
+    "en": "pages this month",
+    "vi": "số trang tháng này",
+    "zh": "本月页面数",
+    "ja": "今月のページ数",
+    "ko": "이번 달 페이지 수",
+    "ru": "страниц в этом месяце"
+  },
+  "pages used this calendar month": {
+    "en": "pages used this calendar month",
+    "vi": "số trang đã sử dụng trong tháng này",
+    "zh": "本日历月已使用页面数",
+    "ja": "このカレンダー月に使用されたページ数",
+    "ko": "이번 달 사용한 페이지 수",
+    "ru": "страниц использованных в этом календарном месяце"
+  },
+  "pages ·": {
+    "en": "pages ·",
+    "vi": "số trang ·",
+    "zh": "页面 ·",
+    "ja": "ページ ·",
+    "ko": "페이지 ·",
+    "ru": "страницы ·"
+  },
+  "paid": {
+    "en": "paid",
+    "vi": "đã thanh toán",
+    "zh": "已付款",
+    "ja": "支払い済み",
+    "ko": "결제 완료",
+    "ru": "оплачено"
+  },
+  "payments": {
+    "en": "payments",
+    "vi": "Thanh toán",
+    "zh": "支付",
+    "ja": "支払い",
+    "ko": "결제",
+    "ru": "Платежи"
+  },
+  "pdf_basic": {
+    "en": "pdf_basic",
+    "vi": "pdf_basic",
+    "zh": "pdf_basic",
+    "ja": "pdf_basic",
+    "ko": "pdf_basic",
+    "ru": "pdf_basic"
+  },
+  "pending": {
+    "en": "pending",
+    "vi": "đang chờ thanh toán",
+    "zh": "待付款",
+    "ja": "支払い待ち",
+    "ko": "결제 대기",
+    "ru": "ожидает оплаты"
+  },
+  "plan": {
+    "en": "plan",
+    "vi": "gói",
+    "zh": "套餐",
+    "ja": "プラン",
+    "ko": "요금제",
+    "ru": "план"
+  },
+  "plan active": {
+    "en": "plan active",
+    "vi": "gói đang hoạt động",
+    "zh": "套餐已激活",
+    "ja": "プランが有効",
+    "ko": "요금제 활성화",
+    "ru": "план активен"
+  },
+  "plans": {
+    "en": "plans",
+    "vi": "gói",
+    "zh": "套餐",
+    "ja": "プラン",
+    "ko": "요금제",
+    "ru": "планы"
+  },
+  "processing": {
+    "en": "processing",
+    "vi": "đang xử lý",
+    "zh": "处理中",
+    "ja": "処理中",
+    "ko": "처리 중",
+    "ru": "обработка"
+  },
+  "protect": {
+    "en": "protect",
+    "vi": "bảo vệ",
+    "zh": "保护",
+    "ja": "保護",
+    "ko": "보호",
+    "ru": "защищать"
+  },
+  "queued": {
+    "en": "queued",
+    "vi": "đang chờ",
+    "zh": "排队中",
+    "ja": "待機中",
+    "ko": "대기 중",
+    "ru": "в очереди"
+  },
+  "replace_text": {
+    "en": "replace_text",
+    "vi": "thay thế văn bản",
+    "zh": "替换文本",
+    "ja": "テキストを置換",
+    "ko": "텍스트 교체",
+    "ru": "заменить текст"
+  },
+  "reserved": {
+    "en": "reserved",
+    "vi": "đã đặt",
+    "zh": "已预留",
+    "ja": "予約済み",
+    "ko": "예약됨",
+    "ru": "зарезервировано"
+  },
+  "retrying": {
+    "en": "retrying",
+    "vi": "đang thử lại",
+    "zh": "重试中",
+    "ja": "再試行中",
+    "ko": "재시도 중",
+    "ru": "повторная попытка"
+  },
+  "review": {
+    "en": "review",
+    "vi": "cần kiểm tra",
+    "zh": "待审核",
+    "ja": "確認待ち",
+    "ko": "검토 필요",
+    "ru": "требует проверки"
+  },
+  "rotate_page": {
+    "en": "rotate_page",
+    "vi": "xoay trang",
+    "zh": "旋转页面",
+    "ja": "ページを回転",
+    "ko": "페이지 회전",
+    "ru": "повернуть страницу"
+  },
+  "saved documents": {
+    "en": "saved documents",
+    "vi": "tài liệu đã lưu",
+    "zh": "已保存的文档",
+    "ja": "保存されたドキュメント",
+    "ko": "저장된 문서",
+    "ru": "сохраненные документы"
+  },
+  "sepay": {
+    "en": "sepay",
+    "vi": "sepay",
+    "zh": "sepay",
+    "ja": "sepay",
+    "ko": "sepay",
+    "ru": "sepay"
+  },
+  "settings": {
+    "en": "settings",
+    "vi": "cài đặt",
+    "zh": "设置",
+    "ja": "設定",
+    "ko": "설정",
+    "ru": "настройки"
+  },
+  "take a little time!": {
+    "en": "take a little time!",
+    "vi": "điều này mất ít thời gian!",
+    "zh": "需要一点时间！",
+    "ja": "少し時間がかかります！",
+    "ko": "조금 시간이 걸립니다!",
+    "ru": "это займет немного времени!"
+  },
+  "to review": {
+    "en": "to review",
+    "vi": "để xem xét",
+    "zh": "待审核",
+    "ja": "レビューするために",
+    "ko": "검토하기 위해",
+    "ru": "для проверки"
+  },
+  "tools": {
+    "en": "Tools",
+    "vi": "Công cụ",
+    "zh": "工具",
+    "ja": "ツール",
+    "ko": "도구",
+    "ru": "Инструменты"
+  },
+  "translations completed": {
+    "en": "translations completed",
+    "vi": "dịch hoàn thành",
+    "zh": "翻译完成",
+    "ja": "翻訳完了",
+    "ko": "번역 완료",
+    "ru": "переводы завершены"
+  },
+  "used ·": {
+    "en": "used ·",
+    "vi": "đã dùng ·",
+    "zh": "已使用 ·",
+    "ja": "使用済み ·",
+    "ko": "사용 완료 ·",
+    "ru": "использовано ·"
+  },
+  "user": {
+    "en": "user",
+    "vi": "người dùng",
+    "zh": "用户",
+    "ja": "ユーザー",
+    "ko": "사용자",
+    "ru": "пользователь"
+  },
+  "year": {
+    "en": "year",
+    "vi": "năm",
+    "zh": "年",
+    "ja": "年",
+    "ko": "년",
+    "ru": "год"
+  },
+  "your document ↘": {
+    "en": "your document ↘",
+    "vi": "tài liệu của bạn ↘",
+    "zh": "您的文档 ↘",
+    "ja": "あなたのドキュメント ↘",
+    "ko": "당신의 문서 ↘",
+    "ru": "ваш документ ↘"
+  },
+  "· page": {
+    "en": "· page",
+    "vi": "· trang",
+    "zh": "· 页",
+    "ja": "· ページ",
+    "ko": "· 페이지",
+    "ru": "· страница"
+  },
+  "Điều hướng trang": {
+    "en": "Page navigation",
+    "vi": "Điều hướng trang",
+    "zh": "页面导航",
+    "ja": "ページナビゲーション",
+    "ko": "페이지 탐색",
+    "ru": "Навигация по страницам"
+  },
+  "“Almost there…”": {
+    "en": "“Almost there…”",
+    "vi": "“Gần như đã xong…”",
+    "zh": "“快完成了…”",
+    "ja": "“ほぼ完了…」",
+    "ko": "“거의 끝났어요…”",
+    "ru": "“Почти готово…"
+  },
+  "← Back to Transler": {
+    "en": "← Back to Transler",
+    "vi": "← Quay lại Transler",
+    "zh": "← 返回 Transler",
+    "ja": "← Translerに戻る",
+    "ko": "← Transler로 돌아가기",
+    "ru": "← Вернуться к Transler"
+  }
+}

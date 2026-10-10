@@ -16,14 +16,17 @@ USER transler
 
 FROM base AS worker
 ENV TESSDATA_PREFIX=/usr/share/tesseract-ocr/5/tessdata
+ENV PADDLE_PDX_CACHE_HOME=/home/transler/.cache/paddlex PADDLE_PDX_MODEL_SOURCE=BOS \
+    PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK=True OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1
 RUN apt-get update && apt-get install -y --no-install-recommends libglib2.0-0 libgl1 libgomp1 libreoffice-writer libreoffice-calc libreoffice-impress \
     tesseract-ocr tesseract-ocr-eng tesseract-ocr-vie tesseract-ocr-chi-sim tesseract-ocr-jpn \
     tesseract-ocr-kor tesseract-ocr-fra tesseract-ocr-deu tesseract-ocr-spa tesseract-ocr-por \
     tesseract-ocr-rus fonts-noto-core fonts-noto-cjk libpango-1.0-0 libpangoft2-1.0-0 \
     && rm -rf /var/lib/apt/lists/*
-RUN uv sync --frozen --no-dev --extra worker --no-install-project
+RUN UV_CONCURRENT_DOWNLOADS=4 UV_CONCURRENT_INSTALLS=2 \
+    uv sync --frozen --no-dev --extra worker --no-install-project
 COPY backend/src ./src
-RUN uv sync --frozen --no-dev --extra worker \
+RUN UV_CONCURRENT_DOWNLOADS=4 UV_CONCURRENT_INSTALLS=2 uv sync --frozen --no-dev --extra worker \
     && mkdir -p /home/transler/.cache /home/transler/.config \
     && chown -R transler:transler /home/transler
 USER transler

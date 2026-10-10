@@ -2,9 +2,9 @@
 
 from botocore.exceptions import ClientError
 
-from transler.config import Settings
-from transler.retries import service_retry
-from transler.storage import ObjectStorage
+from transler.core.config import Settings
+from transler.core.retries import service_retry
+from transler.infrastructure.storage import ObjectStorage
 
 
 def provision_storage(settings: Settings) -> None:

@@ -8,7 +8,7 @@ import pytest
 from conftest import ApiClient, make_pdf
 from test_accounts import register
 
-from transler.worker import perform_job
+from transler.jobs.service import perform_job
 
 pytestmark = pytest.mark.integration
 
@@ -204,6 +204,8 @@ def test_real_advanced_pdf(client: ApiClient, pdf: bytes) -> None:
     with pymupdf.open(stream=content, filetype="pdf") as output:
         assert "dịch" in output[0].get_text().lower()
         assert "1" in output[0].get_text()
+        assert "công thức khoa học" in " ".join(output[0].get_text().split()).lower()
+        assert "\x03" not in output[0].get_text()
         output[0].get_pixmap(dpi=160).save("../.runtime/advanced-output.png")
 
 
